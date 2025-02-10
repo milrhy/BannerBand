@@ -1,0 +1,7069 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+
+	<!--WANDERERS OF KHUZAIT -->
+	<!--engineer, sent to learn trade -->
+	<NPCCharacter
+		id="spc_wanderer_khergit_0"
+		name="{=sdzaip5J}{FIRSTNAME} the Knowing"
+		voice="softspoken"
+		age="29"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_0_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<Traits>
+			<!--
+      <Trait id="CrossbowmanStyle" value="2" />
+      <Trait id="EngineerSkills" value="7" /> -->
+			<Trait
+				id="Generosity"
+				value="-1" />
+			<Trait
+				id="Mercy"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- the hawk, curt voice. Rural clan nemesis. Easily insulted, killed a man's brother over a girl -->
+	<NPCCharacter
+		id="spc_wanderer_khergit_1"
+		name="{=j2nVPqIX}{FIRSTNAME} the Hawk"
+		voice="curt"
+		age="27"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_1_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<Traits>
+			<!-- <Trait id="HorseArcherFightingSkills" value="4" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="-1" />
+			<!--<Trait id="RuralClanIsNemesis" value="1" />-->
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- the fatherless, backed out of a family feud -->
+	<NPCCharacter
+		id="spc_wanderer_khergit_2"
+		name="{=agS5lIg7}{FIRSTNAME} the Fatherless"
+		voice="earnest"
+		age="22"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_2_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<!--
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="6" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- ironeye, professional soldier. infantryman -->
+	<NPCCharacter
+		id="spc_wanderer_khergit_3"
+		name="{=QWbgE4bw}{FIRSTNAME} Ironeye"
+		voice="curt"
+		age="32"
+		default_group="Infantry"
+		is_hero="false"
+		is_template="true"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_3_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<!--
+      <Trait id="HopliteFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="5" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!--the proud, turned on protectors. lord as nemesis -->
+	<NPCCharacter
+		id="spc_wanderer_khergit_4"
+		name="{=ykTARD4b}{FIRSTNAME} the Outcast"
+		voice="ironic"
+		age="22"
+		default_group="Infantry"
+		is_hero="false"
+		is_template="true"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_4_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<Traits>
+			<!--
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Commander" value="6" /> -->
+			<Trait
+				id="Honor"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- 'the mad' soft voice, sinister? Pickpocket. Have gang leader as nemesis? -->
+	<NPCCharacter
+		id="spc_wanderer_khergit_5"
+		name="{=q5QjQyde}{FIRSTNAME} the Mad"
+		voice="softspoken"
+		age="21"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_5_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<Traits>
+			<!--<Trait id="GangLeaderIsNemesis" value="1" />-->
+			<!--
+      <Trait id="PeltastFightingSkills" value="3" />
+      <Trait id="RogueSkills" value="6" />-->
+			<Trait
+				id="Calculating"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!--the grey falcon, lone survivor of a hunted steppe clan -->
+	<NPCCharacter
+		id="spc_wanderer_khergit_6"
+		name="{=seS9ZZUW}{FIRSTNAME} the Grey Falcon"
+		voice="curt"
+		age="20"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_6_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<!-- <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="ScoutSkills" value="5" />
+      <Trait id="Commander" value="3" /> -->
+			<Trait
+				id="Honor"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!--the she-wolf - taken by empire, slave in arena. CHANGED TO AT-START-->
+	<NPCCharacter
+		id="spc_wanderer_khergit_7"
+		name="{=3wzexaA7}{FIRSTNAME} the She-Wolf"
+		voice="curt"
+		age="28"
+		is_female="true"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_7_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_khuzait" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<!--
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="4" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- lone daughter of mother -->
+	<NPCCharacter
+		id="spc_wanderer_khergit_8"
+		name="{=OIXub6bS}{FIRSTNAME} the Alone"
+		voice="curt"
+		age="29"
+		is_female="true"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_8_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_khuzait" />
+		</face>
+		<Traits>
+			<!--
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="ScoutSkills" value="5" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- tomboy daughter of caravan guard -->
+	<NPCCharacter
+		id="spc_wanderer_khergit_9"
+		name="{=KY2zbWkj}{FIRSTNAME} the Swift"
+		voice="ironic"
+		age="21"
+		is_female="true"
+		is_hero="false"
+		default_group="Infantry"
+		is_template="true"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_9_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_khuzait" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<!--
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="RogueSkills" value="4" />
+      <Trait id="Trader" value="8" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- former 'horsethief' -->
+	<NPCCharacter
+		id="spc_wanderer_khergit_10"
+		name="{=CQOlMayc}{FIRSTNAME} the Ragged"
+		voice="earnest"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_khuzait_10_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<skills></skills>
+		<Traits>
+			<!--
+      <Trait id="HopliteFightingSkills" value="4" />
+      <Trait id="Trader" value="5" />
+      <Trait id="Blacksmith" value="3" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.khuzait_sword_4_t4" />
+				<equipment
+					slot="Head"
+					id="Item.decorated_nomad_cap" />
+				<equipment
+					slot="Body"
+					id="Item.ragged_robes" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+			</EquipmentRoster>
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- URBAN CHARACTERS BEGIN -->
+	<!-- URBAN CHARACTERS OF EMPIRE -->
+	<!-- Worldly imperial merchant -->
+	<!-- URBAN CHARACTERS OF ASERAI -->
+
+	<!-- URBAN CHARACTERS OF STURGIA -->
+
+	<!-- silent outlaw? -->
+	<!-- URBAN CHARACTERS OF VLANDIA -->
+
+	<!-- URBAN CHARACTERS OF BATTANIA -->
+	<!-- URBAN CHARACTERS OF KHUZAIT -->
+	<NPCCharacter
+		id="spc_notable_khergit_merchant_1"
+		name="{=!}Cautious Khergit merchant"
+		voice="ironic"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_merchant_1" faction="Kingdom.khuzait" />-->
+		<Traits>
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_khergit_0b"
+		name="{=!}{FIRSTNAME} the Broker"
+		voice="ironic"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Merchant"
+		skill_template="SkillSet.spc_notable_khuzait_0b">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_0b" faction="Kingdom.khuzait" />-->
+		<Traits>
+			<!-- Add skill groups -->
+			<Trait
+				id="Commander"
+				value="4" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_notable_khuzait_0b" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_khergit_1"
+		name="{=!}{FIRSTNAME} the Dyer"
+		voice="ironic"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_1" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<!-- Add skill groups -->
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_notable_khuzait_1" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_khergit_1b"
+		name="{=!}{FIRSTNAME} the Horsetrader"
+		is_template="true"
+		voice="ironic"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_1b" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<!-- Add skill groups -->
+			<Trait
+				id="Commander"
+				value="4" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_notable_khuzait_1b" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_khergit_1c"
+		name="{=!}{FIRSTNAME} the Wineseller"
+		is_template="true"
+		voice="ironic"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_1c" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<!-- Add skill groups -->
+			<Trait
+				id="Commander"
+				value="4" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_notable_khuzait_1c" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_khergit_2"
+		name="{=!}{FIRSTNAME} the Freedwoman"
+		is_template="true"
+		voice="ironic"
+		is_female="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_2" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<!-- Add skill groups -->
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_notable_khuzait_2" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_khergit_2b"
+		name="{=!}{FIRSTNAME} the Silkseller"
+		voice="ironic"
+		is_template="true"
+		is_female="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_2b" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<!-- Add skill groups -->
+			<Trait
+				id="Commander"
+				value="4" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_notable_khuzait_2b" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_khergit_3"
+		name="{=!}Khergit shaman"
+		voice="softspoken"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Preacher">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_3" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<!-- Add skill groups -->
+			<Trait
+				id="Honor"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_notable_khuzait_3" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_khergit_4"
+		name="{=!}Female preacher"
+		voice="softspoken"
+		is_template="true"
+		default_group="Infantry"
+		is_female="true"
+		culture="Culture.khergit"
+		occupation="Preacher">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<!-- Add skill groups -->
+			<Trait
+				id="Honor"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_notable_khuzait_4" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- khuzait gang leaders - keep at least 3-4 for variety in persona-->
+	<NPCCharacter
+		id="spc_khergit_gangleader_1"
+		name="{=!}Female gang leader"
+		voice="curt"
+		is_template="true"
+		default_group="Infantry"
+		is_female="true"
+		culture="Culture.khergit"
+		occupation="GangLeader">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_5" faction="Kingdom.khuzait" />-->
+		<Traits>
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_khergit_gangleader_2"
+		name="{=!}Standard male gang leader"
+		voice="ironic"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="GangLeader">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_6" faction="Kingdom.khuzait" />-->
+		<Traits>
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_khergit_gangleader_3"
+		name="{=!}Standard male gang leader"
+		voice="softspoken"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="GangLeader">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_6" faction="Kingdom.khuzait" />-->
+		<Traits>
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+			<Trait
+				id="Mercy"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_khuzait_gangleader_3" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_khergit_rural_notable_1"
+		name="{=!}Khergit craft rural notable"
+		is_template="true"
+		voice="ironic"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="RuralNotable">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_khuzait_rural_notable_1" faction="Kingdom.khuzait" />-->
+		<Traits>
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_khergit_rural_notable_2"
+		name="{=!}Khergit proud rural notable"
+		voice="earnest"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="RuralNotable">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_khuzait_rural_notable_2" faction="Kingdom.khuzait" />-->
+		<Traits>
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_khergit_artisan_1"
+		name="{=!}khuzait rebellious artisan"
+		voice="earnest"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Artisan">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="SteppeHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_khergit_artisan_2"
+		name="{=!}khuzait conservative artisan"
+		voice="curt"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Artisan">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="SteppeHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_khergit_artisan_3"
+		name="{=!}khuzait devious artisan"
+		voice="ironic"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Artisan">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="SteppeHair"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_khergit_headman_1"
+		name="{=!}khuzait rebellious headman"
+		voice="earnest"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Headman">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="SteppeHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_khergit_headman_2"
+		name="{=!}khuzait conservative headman"
+		voice="curt"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Headman">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="SteppeHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_khergit_headman_3"
+		name="{=!}khuzait devious headman"
+		voice="softspoken"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.khergit"
+		occupation="Headman">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_khuzait" />
+		</face>
+		<!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="SteppeHair"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_khuzait" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_khuzait"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<NPCCharacter
+		id="spc_notable_sarranid_0"
+		name="{=!}{FIRSTNAME} the Dateseller"
+		voice="ironic"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_0" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_0b"
+		name="{=!}{FIRSTNAME} the Minter"
+		voice="ironic"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_0b" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Commander"
+				value="4" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_1"
+		name="{=!}{FIRSTNAME} the Coppermonger"
+		voice="curt"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_1" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_1b"
+		name="{=!}{FIRSTNAME} the Incensemonger"
+		voice="curt"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_1b" faction="Kingdom.aserai" />-->
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Commander"
+				value="4" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_2"
+		name="{=!}{FIRSTNAME} the Woolseller"
+		voice="softspoken"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_2" faction="Kingdom.aserai" />-->
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_2b"
+		name="{=!}{FIRSTNAME} the Appraiser"
+		voice="softspoken"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_2b" faction="Kingdom.aserai" />-->
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Commander"
+				value="2" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_3"
+		name="{=!}{FIRSTNAME} the Caravanser"
+		voice="ironic"
+		is_template="true"
+		is_female="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_3" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_3b"
+		name="{=!}{FIRSTNAME} the Benefactor"
+		voice="curt"
+		is_template="true"
+		is_female="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Merchant">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_3b" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Commander"
+				value="2" />
+			<Trait
+				id="Honor"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_4"
+		name="{=!}Aserai rebellious preacher"
+		voice="earnest"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Preacher">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_4" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_5"
+		name="{=!}Aserai fire-and-brimstone preacher"
+		voice="curt"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Preacher">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_5" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+			<Trait
+				id="Honor"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_6"
+		name="{=!}Aserai female preacher"
+		voice="earnest"
+		is_template="true"
+		default_group="Infantry"
+		is_female="true"
+		culture="Culture.sarranid"
+		occupation="Preacher">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_6" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="0" />
+			<Trait
+				id="Honor"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_7"
+		name="{=!}Aserai fitiwi"
+		voice="earnest"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="GangLeader">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_7" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Politician"
+				value="5" />
+			<Trait
+				id="Generosity"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_notable_aserai_7" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_8"
+		name="{=!}Aserai fitiwi"
+		voice="ironic"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="GangLeader">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_8" faction="Kingdom.aserai" />-->
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="spc_notable_aserai_8" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_9"
+		name="{=!}Fearsome female Aserai gang leader"
+		voice="curt"
+		is_template="true"
+		default_group="Infantry"
+		is_female="true"
+		culture="Culture.sarranid"
+		occupation="GangLeader">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_9" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_10"
+		name="{=!}Aserai artisan leader"
+		voice="curt"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Artisan">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_11"
+		name="{=!}Aserai earnest umda rural notable"
+		voice="earnest"
+		is_template="true"
+		default_group="Infantry"
+		culture="Culture.sarranid"
+		occupation="RuralNotable">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_notable_sarranid_12"
+		name="{=!}Aserai quiet umda rural notable"
+		voice="softspoken"
+		is_template="true"
+		default_group="Infantry"
+		culture="Culture.sarranid"
+		occupation="RuralNotable">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_12" faction="Kingdom.aserai" />-->
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_sarranid_headman_1"
+		name="{=!}Aserai rebellious headman"
+		voice="earnest"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Headman">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_4" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_sarranid_headman_2"
+		name="{=!}Aserai conservative headman"
+		voice="curt"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Headman">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_4" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Valor"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_sarranid_headman_3"
+		name="{=!}Aserai devious headman"
+		voice="softspoken"
+		is_template="true"
+		default_group="Infantry"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Headman">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<!--<Hero id="spc_notable_sarranid_4" faction="Kingdom.aserai" />-->
+		<skills></skills>
+		<Traits>
+			<Trait
+				id="ArabianHair"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_armed_wanderer_equipment_template_aserai" />
+			<EquipmentSet
+				id="npc_wanderer_equipment_template_aserai"
+				civilian="true" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_wanderer_sarranid_0"
+		name="{=bvjFhiDr}{FIRSTNAME} the Scholar"
+		voice="ironic"
+		age="26"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_0_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<!--<Hero id="spc_wanderer_sarranid_0" faction="Kingdom.aserai" />-->
+		<Traits>
+			<!--
+      <Trait id="PeltastFightingSkills" value="3" />
+      <Trait id="Surgeon" value="5" /> -->
+			<Trait
+				id="Mercy"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+	<!--Obsessed with own genealogy -->
+	<NPCCharacter
+		id="spc_wanderer_sarranid_1"
+		name="{=vtXRptVa}{FIRSTNAME} the Golden"
+		voice="earnest"
+		age="23"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_1_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<!--<Hero id="spc_wanderer_sarranid_1" faction="Kingdom.aserai" />-->
+		<Traits>
+			<!--
+      <Trait id="CavalryFightingSkills" value="6" />
+      <Trait id="Commander" value="5" /> -->
+			<Trait
+				id="Generosity"
+				value="-1" />
+			<Trait
+				id="Calculating"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+	<!--The falcon, chivalrous, but thinks great clans hog the glory -->
+	<NPCCharacter
+		id="spc_wanderer_sarranid_2"
+		name="{=TyxXbqVw}{FIRSTNAME} the Falcon"
+		voice="ironic"
+		age="25"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_2_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<!--<Hero id="spc_wanderer_sarranid_2" faction="Kingdom.aserai" />-->
+		<Traits>
+			<!--
+      <Trait id="CavalryFightingSkills" value="4" />
+      <Trait id="Commander" value="5" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+	<!--professional, fighter and killer. often provoked enemies. fell out with lord over a slave woman that he sold -->
+	<NPCCharacter
+		id="spc_wanderer_sarranid_3"
+		name="{=4GIoPUen}{FIRSTNAME} the Swordsman"
+		voice="softspoken"
+		age="33"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_3_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<!--<Hero id="spc_wanderer_sarranid_3" faction="Kingdom.aserai" />-->
+		<Traits>
+			<!--<Trait id="LordIsNemesis" value="1" />-->
+			<!--
+      <Trait id="HuscarlFightingSkills" value="5" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- "The Prince", fitiwi whom a guard captain tried to corrupt -->
+	<NPCCharacter
+		id="spc_wanderer_sarranid_4"
+		name="{=rgdi5Sxa}{FIRSTNAME} the Prince"
+		voice="ironic"
+		age="25"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_4_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<!--<Hero id="spc_wanderer_sarranid_4" faction="Kingdom.aserai" />-->
+		<Traits>
+			<!--
+      <Trait id="PeltastFightingSkills" value="4" />
+      <Trait id="RogueSkills" value="7" /> -->
+			<Trait
+				id="Honor"
+				value="-1" />
+			<Trait
+				id="Mercy"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- "The Hyena" (contemptuous killer) -->
+	<NPCCharacter
+		id="spc_wanderer_sarranid_5"
+		name="{=OFWvD0xe}{FIRSTNAME} the Hyena"
+		voice="curt"
+		age="27"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_5_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<!--<Hero id="spc_wanderer_sarranid_5" faction="Kingdom.aserai" />-->
+		<Traits>
+			<!--
+      <Trait id="HopliteFightingSkills" value="5" />
+      <Trait id="RogueSkills" value="5" /> -->
+			<Trait
+				id="Mercy"
+				value="-1" />
+			<Trait
+				id="Honor"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+	<!--of the Wastes - 'the searing gravel plain knows me' -->
+	<NPCCharacter
+		id="spc_wanderer_sarranid_6"
+		name="{=muC2SGlM}{FIRSTNAME} of the Wastes"
+		voice="curt"
+		age="31"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_6_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<!--<Hero id="spc_wanderer_sarranid_6" faction="Kingdom.aserai" />-->
+		<Traits>
+			<!--
+      <Trait id="ArcherFIghtingSkills" value="5" />
+      <Trait id="ScoutSkills" value="7" /> -->
+			<Trait
+				id="Honor"
+				value="-1" />
+			<Trait
+				id="Generosity"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- female member of clan that lost power -->
+	<NPCCharacter
+		id="spc_wanderer_sarranid_7"
+		name="{=28tWEFNi}{FIRSTNAME} the Wanderer"
+		voice="curt"
+		age="25"
+		is_female="true"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_7_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_aserai" />
+		</face>
+		<!--<Hero id="spc_wanderer_sarranid_7" faction="Kingdom.aserai" />-->
+		<Traits>
+			<!--
+      <Trait id="CavalryFightingSkills" value="4" />
+      <Trait id="Commander" value="5" />
+      <Trait id="ScoutSkills" value="3" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+	<!--unlucky merchant -->
+	<NPCCharacter
+		id="spc_wanderer_sarranid_8"
+		name="{=XBJtv4mD}{FIRSTNAME} the Spicevendor"
+		voice="softspoken"
+		age="28"
+		is_female="true"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_8_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_aserai" />
+		</face>
+		<!--<Hero id="spc_wanderer_sarranid_8" faction="Kingdom.aserai" />-->
+		<Traits>
+			<!--
+      <Trait id="CrossbowmanStyle" value="4" />
+      <Trait id="Trader" value="10" />
+      <Trait id="Manager" value="4" /> -->
+			<Trait
+				id="Honor"
+				value="1" />
+			<Trait
+				id="Mercy"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+	<!-- female alley urchin -->
+	<NPCCharacter
+		id="spc_wanderer_sarranid_9"
+		name="{=NWuGUi4p}{FIRSTNAME} the Leopardess"
+		voice="ironic"
+		age="22"
+		is_female="true"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_9_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.townswoman_aserai" />
+		</face>
+		<!--<Hero id="spc_wanderer_sarranid_9" faction="Kingdom.aserai" />-->
+		<Traits>
+			<!--
+      <Trait id="PeltastFightingSkills" value="3" />
+      <Trait id="RogueSkills" value="5" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Generosity"
+				value="1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="spc_wanderer_sarranid_10"
+		name="{=ACqta1a5}{FIRSTNAME} the Engineer"
+		voice="ironic"
+		age="26"
+		default_group="Infantry"
+		is_template="true"
+		is_hero="false"
+		culture="Culture.sarranid"
+		occupation="Wanderer"
+		skill_template="SkillSet.spc_wanderer_aserai_10_skills">
+		<face>
+			<face_key_template
+				value="BodyProperty.villager_aserai" />
+		</face>
+		<Traits>
+			<!--
+      <Trait id="CrossbowmanStyle" value="3" />
+      <Trait id="EngineerSkills" value="6" /> -->
+			<Trait
+				id="Valor"
+				value="1" />
+			<Trait
+				id="Honor"
+				value="1" />
+			<Trait
+				id="Calculating"
+				value="-1" />
+		</Traits>
+		<Equipments>
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai"
+				civilian="true" />
+			<EquipmentSet
+				id="npc_companion_equipment_template_aserai" />
+		</Equipments>
+	</NPCCharacter>
+
+
+
+
+
+
+
+
+	<NPCCharacter
+		id="caravan_master_sarranid"
+		default_group="Infantry"
+		level="26"
+		name="{=nDoENDqD}Aserai Caravan Master"
+		occupation="CaravanGuard"
+		culture="Culture.sarranid">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="130" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="160" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="60" />
+			<skill
+				id="Bow"
+				value="80" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="50" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.aserai_sword_3_t3" />
+				<equipment
+					slot="Head"
+					id="Item.aserai_civil_c_head" />
+				<equipment
+					slot="Body"
+					id="Item.aserai_archer_armor" />
+				<equipment
+					slot="Gloves"
+					id="Item.buttoned_leather_bracers" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.aserai_sword_3_t3" />
+				<equipment
+					slot="Head"
+					id="Item.aserai_civil_d_hscarf" />
+				<equipment
+					slot="Body"
+					id="Item.aserai_archer_armor" />
+				<equipment
+					slot="Gloves"
+					id="Item.buttoned_leather_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.aserai_sword_3_t3" />
+				<equipment
+					slot="Head"
+					id="Item.aserai_civil_d_hscarf" />
+				<equipment
+					slot="Body"
+					id="Item.tassled_southern_robes" />
+				<equipment
+					slot="Gloves"
+					id="Item.buttoned_leather_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.leopard_pelt" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.aserai_sword_3_t3" />
+				<equipment
+					slot="Head"
+					id="Item.aserai_civil_c_head" />
+				<equipment
+					slot="Body"
+					id="Item.aserai_archer_armor" />
+				<equipment
+					slot="Gloves"
+					id="Item.buttoned_leather_bracers" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="caravan_master_calsea"
+		default_group="Infantry"
+		level="26"
+		name="{=TpECDErA}Imperial Caravan Master"
+		occupation="CaravanGuard"
+		culture="Culture.calsea">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_empire" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="130" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="160" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="60" />
+			<skill
+				id="Bow"
+				value="80" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="50" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.empire_sword_1_t2" />
+				<equipment
+					slot="Head"
+					id="Item.merchants_hat" />
+				<equipment
+					slot="Cape"
+					id="Item.studded_imperial_neckguard" />
+				<equipment
+					slot="Body"
+					id="Item.legionary_mail" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.empire_sword_1_t2" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Body"
+					id="Item.empire_horseman_armor" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.empire_sword_1_t2" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.empire_horseman_armor" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.empire_sword_1_t2" />
+				<equipment
+					slot="Head"
+					id="Item.merchants_hat" />
+				<equipment
+					slot="Cape"
+					id="Item.studded_imperial_neckguard" />
+				<equipment
+					slot="Body"
+					id="Item.legionary_mail" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="caravan_master_khergit"
+		default_group="Infantry"
+		level="26"
+		name="{=WEHDGbEE}Khergit Caravan Master"
+		occupation="CaravanGuard"
+		culture="Culture.khergit">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="130" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="160" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="60" />
+			<skill
+				id="Bow"
+				value="80" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="50" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.khuzait_sword_3_t3" />
+				<equipment
+					slot="Head"
+					id="Item.plumed_fur_lined_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.northern_leather_tabard" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.brass_scale_shoulders" />
+				<equipment
+					slot="Leg"
+					id="Item.woven_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.khuzait_sword_3_t3" />
+				<equipment
+					slot="Head"
+					id="Item.plumed_fur_lined_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.khuzait_sturdy_armor" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.brass_scale_shoulders" />
+				<equipment
+					slot="Leg"
+					id="Item.woven_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.khuzait_sword_3_t3" />
+				<equipment
+					slot="Head"
+					id="Item.nomad_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.khuzait_belt_leather" />
+				<equipment
+					slot="Cape"
+					id="Item.eastern_studded_shoulders" />
+				<equipment
+					slot="Leg"
+					id="Item.woven_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.khuzait_sword_3_t3" />
+				<equipment
+					slot="Head"
+					id="Item.plumed_fur_lined_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.khuzait_sturdy_armor" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.brass_scale_shoulders" />
+				<equipment
+					slot="Leg"
+					id="Item.woven_leather_boots" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="caravan_master_vaegir"
+		default_group="Infantry"
+		level="26"
+		name="{=uDseaKcb}Vaegir Caravan Master"
+		occupation="CaravanGuard"
+		culture="Culture.vaegir">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_sturgia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="130" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="160" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="60" />
+			<skill
+				id="Bow"
+				value="80" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="50" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.star_falchion_sword_t3" />
+				<equipment
+					slot="Head"
+					id="Item.nordic_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.northern_leather_tabard" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.star_falchion_sword_t3" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.northern_leather_tabard" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.star_falchion_sword_t3" />
+				<equipment
+					slot="Head"
+					id="Item.nordic_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.nordic_lamellar_vest" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.star_falchion_sword_t3" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.northern_leather_tabard" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="caravan_master_nords"
+		default_group="Infantry"
+		level="26"
+		name="{=uDseaKcb}Nord Caravan Master"
+		occupation="CaravanGuard"
+		culture="Culture.nords">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_sturgia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="130" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="160" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="60" />
+			<skill
+				id="Bow"
+				value="80" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="50" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.star_falchion_sword_t3" />
+				<equipment
+					slot="Head"
+					id="Item.nordic_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.northern_leather_tabard" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.star_falchion_sword_t3" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.northern_leather_tabard" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.star_falchion_sword_t3" />
+				<equipment
+					slot="Head"
+					id="Item.nordic_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.nordic_lamellar_vest" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.star_falchion_sword_t3" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.northern_leather_tabard" />
+				<equipment
+					slot="Gloves"
+					id="Item.northern_brass_bracers" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+	
+	<NPCCharacter
+		id="caravan_master_swadia"
+		default_group="Infantry"
+		level="26"
+		name="{=QbSjMefR}Swadian Caravan Master"
+		occupation="CaravanGuard"
+		culture="Culture.swadia">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="130" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="160" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="60" />
+			<skill
+				id="Bow"
+				value="80" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="50" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.pointed_skullcap_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.banded_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.kettle_helmet_over_padded_cap" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.kettle_hat_over_padded_cloth" />
+				<equipment
+					slot="Body"
+					id="Item.padded_short_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.pointed_skullcap_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.banded_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+<NPCCharacter
+		id="caravan_master_rhodok"
+		default_group="Infantry"
+		level="26"
+		name="{=QbSjMefR}Rhodok Caravan Master"
+		occupation="CaravanGuard"
+		culture="Culture.rhodok">
+		<face>
+
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="130" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="160" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="60" />
+			<skill
+				id="Bow"
+				value="80" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="50" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.pointed_skullcap_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.banded_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.kettle_helmet_over_padded_cap" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.kettle_hat_over_padded_cloth" />
+				<equipment
+					slot="Body"
+					id="Item.padded_short_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.pointed_skullcap_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.banded_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="caravan_master_geroia"
+		default_group="Infantry"
+		level="26"
+		name="{=QbSjMefR}Geroian Caravan Master"
+		occupation="CaravanGuard"
+		culture="Culture.geroia">
+		<face>
+
+
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="130" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="160" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="60" />
+			<skill
+				id="Bow"
+				value="80" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="50" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.pointed_skullcap_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.banded_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.kettle_helmet_over_padded_cap" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.kettle_hat_over_padded_cloth" />
+				<equipment
+					slot="Body"
+					id="Item.padded_short_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Head"
+					id="Item.pointed_skullcap_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.banded_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_leather_boots" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<NPCCharacter
+		id="armed_trader_sarranid"
+		default_group="Ranged"
+		level="16"
+		name="{=8TdbKFa9}Sarranid Armed Trader"
+		occupation="CaravanGuard"
+		culture="Culture.sarranid"
+		is_basic_troop="true">
+		<face>
+
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="70" />
+			<skill
+				id="Riding"
+				value="10" />
+			<skill
+				id="OneHanded"
+				value="70" />
+			<skill
+				id="TwoHanded"
+				value="40" />
+			<skill
+				id="Polearm"
+				value="40" />
+			<skill
+				id="Bow"
+				value="70" />
+			<skill
+				id="Crossbow"
+				value="30" />
+			<skill
+				id="Throwing"
+				value="30" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.glen_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.aserai_sword_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.short_padded_robe" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item2"
+					id="Item.aserai_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.aserai_civil_c" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="armed_trader_calsea"
+		default_group="Ranged"
+		level="16"
+		name="{=LEJukldW}Imperial Armed Trader"
+		occupation="CaravanGuard"
+		culture="Culture.calsea"
+		is_basic_troop="true">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_empire" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="70" />
+			<skill
+				id="Riding"
+				value="10" />
+			<skill
+				id="OneHanded"
+				value="70" />
+			<skill
+				id="TwoHanded"
+				value="40" />
+			<skill
+				id="Polearm"
+				value="40" />
+			<skill
+				id="Bow"
+				value="70" />
+			<skill
+				id="Crossbow"
+				value="30" />
+			<skill
+				id="Throwing"
+				value="30" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.glen_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_mace_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.tunic_with_shoulder_pads" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_leather_coif" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.glen_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.battania_mace_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.footmans_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.glen_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_mace_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.footmans_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.glen_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_mace_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.footmans_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.glen_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_mace_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.footmans_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="armed_trader_khergit"
+		default_group="Ranged"
+		level="16"
+		name="{=l6NFOl8c}Khergit Armed Trader"
+		occupation="CaravanGuard"
+		culture="Culture.khergit"
+		is_basic_troop="true">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="130" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="160" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="60" />
+			<skill
+				id="Bow"
+				value="80" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="50" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.steppe_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.khuzait_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.khuzait_belt_leather" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.steppe_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.khuzait_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.khuzait_civil_coat_b" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.eastern_studded_shoulders" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.steppe_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.khuzait_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.khuzait_belt_leather" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.steppe_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.khuzait_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.khuzait_belt_leather" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.steppe_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.khuzait_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.khuzait_civil_coat_b" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.eastern_studded_shoulders" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="armed_trader_vaegir"
+		default_group="Ranged"
+		level="16"
+		name="{=cPQx1RXt}Vaegir Armed Trader"
+		occupation="CaravanGuard"
+		culture="Culture.vaegir"
+		is_basic_troop="true">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_sturgia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="70" />
+			<skill
+				id="Riding"
+				value="10" />
+			<skill
+				id="OneHanded"
+				value="70" />
+			<skill
+				id="TwoHanded"
+				value="40" />
+			<skill
+				id="Polearm"
+				value="40" />
+			<skill
+				id="Bow"
+				value="70" />
+			<skill
+				id="Crossbow"
+				value="30" />
+			<skill
+				id="Throwing"
+				value="30" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.highland_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_axe_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.northern_padded_gambeson" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_woodland_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.highland_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_axe_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.heavy_nordic_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.highland_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_axe_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.heavy_nordic_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.highland_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_axe_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.heavy_nordic_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.highland_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_axe_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.heavy_nordic_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<NPCCharacter
+		id="armed_trader_nords"
+		default_group="Ranged"
+		level="16"
+		name="{=cPQx1RXt}Nord Armed Trader"
+		occupation="CaravanGuard"
+		culture="Culture.nords"
+		is_basic_troop="true">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_sturgia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="70" />
+			<skill
+				id="Riding"
+				value="10" />
+			<skill
+				id="OneHanded"
+				value="70" />
+			<skill
+				id="TwoHanded"
+				value="40" />
+			<skill
+				id="Polearm"
+				value="40" />
+			<skill
+				id="Bow"
+				value="70" />
+			<skill
+				id="Crossbow"
+				value="30" />
+			<skill
+				id="Throwing"
+				value="30" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.highland_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_axe_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.northern_padded_gambeson" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_woodland_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.highland_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_axe_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.heavy_nordic_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.highland_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_axe_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.heavy_nordic_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.highland_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_axe_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.heavy_nordic_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.highland_ranger_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.range_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_axe_2_t2" />
+				<equipment
+					slot="Body"
+					id="Item.heavy_nordic_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="armed_trader_swadia"
+		default_group="Ranged"
+		level="16"
+		name="{=X12lazIs}Swadian Armed Trader"
+		occupation="CaravanGuard"
+		culture="Culture.swadia"
+		is_basic_troop="true">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="80" />
+			<skill
+				id="Riding"
+				value="10" />
+			<skill
+				id="OneHanded"
+				value="60" />
+			<skill
+				id="TwoHanded"
+				value="40" />
+			<skill
+				id="Polearm"
+				value="40" />
+			<skill
+				id="Bow"
+				value="30" />
+			<skill
+				id="Crossbow"
+				value="70" />
+			<skill
+				id="Throwing"
+				value="30" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.layered_leather_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.gambeson_b" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.layered_leather_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.layered_leather_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.gambeson_b" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<NPCCharacter
+		id="armed_trader_rhodok"
+		default_group="Ranged"
+		level="16"
+		name="{=X12lazIs}Rhodok Armed Trader"
+		occupation="CaravanGuard"
+		culture="Culture.rhodok"
+		is_basic_troop="true">
+
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="80" />
+			<skill
+				id="Riding"
+				value="10" />
+			<skill
+				id="OneHanded"
+				value="60" />
+			<skill
+				id="TwoHanded"
+				value="40" />
+			<skill
+				id="Polearm"
+				value="40" />
+			<skill
+				id="Bow"
+				value="30" />
+			<skill
+				id="Crossbow"
+				value="70" />
+			<skill
+				id="Throwing"
+				value="30" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.layered_leather_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.gambeson_b" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.layered_leather_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.layered_leather_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.gambeson_b" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+
+	<NPCCharacter
+		id="armed_trader_geroia"
+		default_group="Ranged"
+		level="16"
+		name="{=X12lazIs}Geroian Armed Trader"
+		occupation="CaravanGuard"
+		culture="Culture.geroia"
+		is_basic_troop="true">
+
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="80" />
+			<skill
+				id="Riding"
+				value="10" />
+			<skill
+				id="OneHanded"
+				value="60" />
+			<skill
+				id="TwoHanded"
+				value="40" />
+			<skill
+				id="Polearm"
+				value="40" />
+			<skill
+				id="Bow"
+				value="30" />
+			<skill
+				id="Crossbow"
+				value="70" />
+			<skill
+				id="Throwing"
+				value="30" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.layered_leather_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.gambeson_b" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.layered_leather_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.layered_leather_tunic" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.crossbow_a" />
+				<equipment
+					slot="Item1"
+					id="Item.bolt_a" />
+				<equipment
+					slot="Item2"
+					id="Item.vlandia_sword_1_t2" />
+				<equipment
+					slot="Body"
+					id="Item.gambeson_b" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="caravan_guard_sarranid"
+		default_group="Cavalry"
+		level="21"
+		name="{=yG42k5GC}Sarranid Caravan Guard"
+		upgrade_requires="ItemCategory.horse"
+		occupation="CaravanGuard"
+		culture="Culture.sarranid">
+		<face>
+
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="40" />
+			<skill
+				id="Riding"
+				value="110" />
+			<skill
+				id="OneHanded"
+				value="110" />
+			<skill
+				id="TwoHanded"
+				value="150" />
+			<skill
+				id="Polearm"
+				value="15" />
+			<skill
+				id="Bow"
+				value="40" />
+			<skill
+				id="Crossbow"
+				value="15" />
+			<skill
+				id="Throwing"
+				value="15" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.aserai_2haxe_2_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.aserai_sword_3_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.bound_adarga" />
+				<equipment
+					slot="Head"
+					id="Item.open_head_scarf" />
+				<equipment
+					slot="Body"
+					id="Item.long_padded_robe" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.studded_vambraces" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.aserai_2haxe_2_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.aserai_sword_3_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.bound_adarga" />
+				<equipment
+					slot="Head"
+					id="Item.tied_head_wrapping" />
+				<equipment
+					slot="Body"
+					id="Item.short_padded_robe" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.studded_vambraces" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.aserai_2haxe_2_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.aserai_sword_3_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.bound_adarga" />
+				<equipment
+					slot="Head"
+					id="Item.woven_turban" />
+				<equipment
+					slot="Body"
+					id="Item.leather_strips_over_padded_robe" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.studded_vambraces" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.aserai_2haxe_2_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.aserai_sword_3_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.bound_adarga" />
+				<equipment
+					slot="Head"
+					id="Item.woven_turban" />
+				<equipment
+					slot="Body"
+					id="Item.leather_strips_over_padded_robe" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.studded_vambraces" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.aserai_2haxe_2_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.aserai_sword_3_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.bound_adarga" />
+				<equipment
+					slot="Head"
+					id="Item.tied_head_wrapping" />
+				<equipment
+					slot="Body"
+					id="Item.short_padded_robe" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.studded_vambraces" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.aserai_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.desert_cloth_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="caravan_guard_calsea"
+		default_group="HorseArcher"
+		level="21"
+		name="{=TbBnWiao}Imperial Caravan Guard"
+		upgrade_requires="ItemCategory.horse"
+		occupation="CaravanGuard"
+		culture="Culture.calsea">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_empire" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="40" />
+			<skill
+				id="Riding"
+				value="90" />
+			<skill
+				id="OneHanded"
+				value="100" />
+			<skill
+				id="TwoHanded"
+				value="15" />
+			<skill
+				id="Polearm"
+				value="100" />
+			<skill
+				id="Bow"
+				value="40" />
+			<skill
+				id="Crossbow"
+				value="110" />
+			<skill
+				id="Throwing"
+				value="15" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.eastern_spear_2_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.empire_sword_1_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.crossbow_e" />
+				<equipment
+					slot="Item3"
+					id="Item.bolt_b" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_mail_coif" />
+				<equipment
+					slot="Body"
+					id="Item.empire_horseman_armor" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+				<equipment
+					slot="Gloves"
+					id="Item.padded_mitten" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.eastern_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.empire_sword_1_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.crossbow_e" />
+				<equipment
+					slot="Item3"
+					id="Item.bolt_b" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_open_mail_coif" />
+				<equipment
+					slot="Body"
+					id="Item.empire_horseman_armor" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.padded_mitten" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.eastern_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.empire_sword_1_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.crossbow_e" />
+				<equipment
+					slot="Item3"
+					id="Item.bolt_b" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.empire_horseman_armor" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.padded_mitten" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.eastern_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.empire_sword_1_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.crossbow_e" />
+				<equipment
+					slot="Item3"
+					id="Item.bolt_b" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.empire_horseman_armor" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.padded_mitten" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.eastern_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.empire_sword_1_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.worn_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_open_mail_coif" />
+				<equipment
+					slot="Body"
+					id="Item.imperial_mail_vest" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.padded_mitten" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.empire_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.stripped_leather_harness" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="caravan_guard_khergit"
+		default_group="Cavalry"
+		level="21"
+		name="{=THOfB9DZ}Khergit Caravan Guard"
+		upgrade_requires="ItemCategory.horse"
+		occupation="CaravanGuard"
+		culture="Culture.khergit">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="40" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="90" />
+			<skill
+				id="TwoHanded"
+				value="150" />
+			<skill
+				id="Polearm"
+				value="150" />
+			<skill
+				id="Bow"
+				value="40" />
+			<skill
+				id="Crossbow"
+				value="15" />
+			<skill
+				id="Throwing"
+				value="15" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.eastern_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.khuzait_sword_3_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.worn_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.peaked_fur_hood" />
+				<equipment
+					slot="Body"
+					id="Item.reinforced_suede_armor" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+				<equipment
+					slot="Cape"
+					id="Item.eastern_studded_shoulders" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.eastern_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.khuzait_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.worn_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.upturned_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.reinforced_suede_armor" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.eastern_spear_2_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.khuzait_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.worn_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.upturned_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.reinforced_suede_armor" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.eastern_studded_shoulders" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.eastern_spear_2_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.khuzait_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.worn_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.upturned_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.reinforced_suede_armor" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.eastern_studded_shoulders" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.eastern_spear_2_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.khuzait_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.worn_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.upturned_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.reinforced_suede_armor" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.khuzait_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.steppe_harness" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="caravan_guard_vaegir"
+		default_group="Cavalry"
+		level="21"
+		name="{=pzmgMODE}Vaegir Caravan Guard"
+		upgrade_requires="ItemCategory.horse"
+		occupation="CaravanGuard"
+		culture="Culture.vaegir">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_sturgia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="40" />
+			<skill
+				id="Riding"
+				value="110" />
+			<skill
+				id="OneHanded"
+				value="110" />
+			<skill
+				id="TwoHanded"
+				value="15" />
+			<skill
+				id="Polearm"
+				value="150" />
+			<skill
+				id="Bow"
+				value="40" />
+			<skill
+				id="Crossbow"
+				value="15" />
+			<skill
+				id="Throwing"
+				value="15" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_spear_1_t2" />
+				<equipment
+					slot="Item1"
+					id="Item.battania_mace_2_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.northern_scouts_shield" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.decorated_nordic_hauberk" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_spear_1_t2" />
+				<equipment
+					slot="Item1"
+					id="Item.battania_mace_1_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.northern_scouts_shield" />
+				<equipment
+					slot="Head"
+					id="Item.roughhide_cap" />
+				<equipment
+					slot="Body"
+					id="Item.nordic_hauberk" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_woodland_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_spear_1_t2" />
+				<equipment
+					slot="Item1"
+					id="Item.battania_mace_1_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.northern_scouts_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_mail" />
+				<equipment
+					slot="Body"
+					id="Item.nordic_hauberk" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.northern_spear_1_t2" />
+				<equipment
+					slot="Item1"
+					id="Item.battania_mace_2_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.northern_scouts_shield" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.decorated_nordic_hauberk" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.northern_spear_1_t2" />
+				<equipment
+					slot="Item1"
+					id="Item.battania_mace_2_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.northern_scouts_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_mail" />
+				<equipment
+					slot="Body"
+					id="Item.nordic_hauberk" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.sturgia_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.northern_noble_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="caravan_guard_nords"
+		default_group="Cavalry"
+		level="21"
+		name="{=pzmgMODE}Nord Caravan Guard"
+		upgrade_requires="ItemCategory.horse"
+		occupation="CaravanGuard"
+		culture="Culture.nords">
+
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_sturgia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="40" />
+			<skill
+				id="Riding"
+				value="110" />
+			<skill
+				id="OneHanded"
+				value="110" />
+			<skill
+				id="TwoHanded"
+				value="15" />
+			<skill
+				id="Polearm"
+				value="150" />
+			<skill
+				id="Bow"
+				value="40" />
+			<skill
+				id="Crossbow"
+				value="15" />
+			<skill
+				id="Throwing"
+				value="15" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_spear_1_t2" />
+				<equipment
+					slot="Item1"
+					id="Item.battania_mace_2_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.northern_scouts_shield" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.decorated_nordic_hauberk" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_spear_1_t2" />
+				<equipment
+					slot="Item1"
+					id="Item.battania_mace_1_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.northern_scouts_shield" />
+				<equipment
+					slot="Head"
+					id="Item.roughhide_cap" />
+				<equipment
+					slot="Body"
+					id="Item.nordic_hauberk" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_woodland_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_spear_1_t2" />
+				<equipment
+					slot="Item1"
+					id="Item.battania_mace_1_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.northern_scouts_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_mail" />
+				<equipment
+					slot="Body"
+					id="Item.nordic_hauberk" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.northern_spear_1_t2" />
+				<equipment
+					slot="Item1"
+					id="Item.battania_mace_2_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.northern_scouts_shield" />
+				<equipment
+					slot="Head"
+					id="Item.northern_fur_cap" />
+				<equipment
+					slot="Body"
+					id="Item.decorated_nordic_hauberk" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.northern_spear_1_t2" />
+				<equipment
+					slot="Item1"
+					id="Item.battania_mace_2_t2" />
+				<equipment
+					slot="Item2"
+					id="Item.northern_scouts_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_mail" />
+				<equipment
+					slot="Body"
+					id="Item.nordic_hauberk" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.sturgia_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.northern_noble_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="caravan_guard_swadia"
+		default_group="Cavalry"
+		level="21"
+		name="{=rQ0t0Wws}Swadian Caravan Guard"
+		upgrade_requires="ItemCategory.horse"
+		occupation="CaravanGuard"
+		culture="Culture.swadia">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="40" />
+			<skill
+				id="Riding"
+				value="100" />
+			<skill
+				id="OneHanded"
+				value="110" />
+			<skill
+				id="TwoHanded"
+				value="15" />
+			<skill
+				id="Polearm"
+				value="160" />
+			<skill
+				id="Bow"
+				value="40" />
+			<skill
+				id="Crossbow"
+				value="60" />
+			<skill
+				id="Throwing"
+				value="15" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.padded_short_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.padded_short_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.vlandia_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+
+	<NPCCharacter
+		id="caravan_guard_rhodok"
+		default_group="Cavalry"
+		level="21"
+		name="{=rQ0t0Wws}Rhodok Caravan Guard"
+		upgrade_requires="ItemCategory.horse"
+		occupation="CaravanGuard"
+		culture="Culture.rhodok">
+
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="40" />
+			<skill
+				id="Riding"
+				value="100" />
+			<skill
+				id="OneHanded"
+				value="110" />
+			<skill
+				id="TwoHanded"
+				value="15" />
+			<skill
+				id="Polearm"
+				value="160" />
+			<skill
+				id="Bow"
+				value="40" />
+			<skill
+				id="Crossbow"
+				value="60" />
+			<skill
+				id="Throwing"
+				value="15" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.padded_short_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.padded_short_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.vlandia_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="caravan_guard_geroia"
+		default_group="Cavalry"
+		level="21"
+		name="{=rQ0t0Wws}Geroian Caravan Guard"
+		upgrade_requires="ItemCategory.horse"
+		occupation="CaravanGuard"
+		culture="Culture.geroia">
+
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="40" />
+			<skill
+				id="Riding"
+				value="100" />
+			<skill
+				id="OneHanded"
+				value="110" />
+			<skill
+				id="TwoHanded"
+				value="15" />
+			<skill
+				id="Polearm"
+				value="160" />
+			<skill
+				id="Bow"
+				value="40" />
+			<skill
+				id="Crossbow"
+				value="60" />
+			<skill
+				id="Throwing"
+				value="15" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.padded_short_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.padded_short_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_3_t3" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.battered_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.mail_shirt" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.vlandia_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="veteran_caravan_guard_sarranid"
+		default_group="HorseArcher"
+		level="26"
+		name="{=QlVeZvbv}Sarranid Veteran Caravan Guard"
+		upgrade_requires="ItemCategory.war_horse"
+		occupation="CaravanGuard"
+
+		culture="Culture.sarranid">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_aserai" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="80" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="130" />
+			<skill
+				id="TwoHanded"
+				value="60" />
+			<skill
+				id="Polearm"
+				value="80" />
+			<skill
+				id="Bow"
+				value="130" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="60" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.steppe_war_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.aserai_sword_6_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.bound_adarga" />
+				<equipment
+					slot="Head"
+					id="Item.desert_mail_coif" />
+				<equipment
+					slot="Body"
+					id="Item.stitched_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.steppe_war_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.aserai_sword_5_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.large_adarga" />
+				<equipment
+					slot="Head"
+					id="Item.desert_helmet_with_mail" />
+				<equipment
+					slot="Body"
+					id="Item.stitched_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.wrapped_scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.steppe_war_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.aserai_sword_5_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.bound_desert_round_shield" />
+				<equipment
+					slot="Head"
+					id="Item.loose_wrapped_desert_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.stitched_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.steppe_war_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.aserai_sword_5_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.bound_desert_round_shield" />
+				<equipment
+					slot="Head"
+					id="Item.loose_wrapped_desert_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.stitched_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.steppe_war_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.aserai_sword_5_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.large_adarga" />
+				<equipment
+					slot="Head"
+					id="Item.desert_helmet_with_mail" />
+				<equipment
+					slot="Body"
+					id="Item.stitched_leather_over_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Cape"
+					id="Item.wrapped_scarf" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.t2_aserai_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.chain_horse_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="veteran_caravan_guard_calsea"
+		default_group="Cavalry"
+		level="26"
+		name="{=bLq2HXMo}Imperial Veteran Caravan Guard"
+		occupation="CaravanGuard"
+		culture="Culture.calsea">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_empire" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="80" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="130" />
+			<skill
+				id="TwoHanded"
+				value="60" />
+			<skill
+				id="Polearm"
+				value="130" />
+			<skill
+				id="Bow"
+				value="80" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="60" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.empire_sword_5_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.bound_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_mail_coif" />
+				<equipment
+					slot="Body"
+					id="Item.legionary_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_shoes" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.empire_sword_5_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.bound_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_open_mail_coif" />
+				<equipment
+					slot="Body"
+					id="Item.legionary_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.empire_sword_4_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.bound_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.legionary_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.empire_sword_4_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.bound_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.legionary_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.empire_sword_4_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.bound_horsemans_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.imperial_open_mail_coif" />
+				<equipment
+					slot="Body"
+					id="Item.legionary_mail" />
+				<equipment
+					slot="Leg"
+					id="Item.strapped_leather_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.empire_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.stripped_leather_harness" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="veteran_caravan_guard_khergit"
+		default_group="HorseArcher"
+		level="26"
+		name="{=6hhspFvz}Khergit Veteran Caravan Guard"
+		occupation="CaravanGuard"
+		culture="Culture.khergit">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_khuzait" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="70" />
+			<skill
+				id="Riding"
+				value="140" />
+			<skill
+				id="OneHanded"
+				value="120" />
+			<skill
+				id="TwoHanded"
+				value="70" />
+			<skill
+				id="Polearm"
+				value="80" />
+			<skill
+				id="Bow"
+				value="130" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="60" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.steppe_heavy_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.khuzait_mace_3_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.decorated_steppe_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nomad_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.eastern_plated_leather" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.eastern_studded_shoulders" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.steppe_heavy_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.khuzait_mace_2_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.decorated_steppe_shield" />
+				<equipment
+					slot="Head"
+					id="Item.plumed_fur_lined_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.eastern_plated_leather" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.eastern_studded_shoulders" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.steppe_heavy_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.khuzait_mace_2_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.decorated_steppe_shield" />
+				<equipment
+					slot="Head"
+					id="Item.steppe_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.eastern_plated_leather" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.eastern_wrapped_armguards" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.steppe_heavy_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.khuzait_mace_2_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.decorated_steppe_shield" />
+				<equipment
+					slot="Head"
+					id="Item.steppe_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.eastern_plated_leather" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.eastern_wrapped_armguards" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.steppe_heavy_bow" />
+				<equipment
+					slot="Item1"
+					id="Item.default_arrows" />
+				<equipment
+					slot="Item2"
+					id="Item.khuzait_mace_3_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.decorated_steppe_shield" />
+				<equipment
+					slot="Head"
+					id="Item.plumed_fur_lined_helmet" />
+				<equipment
+					slot="Body"
+					id="Item.eastern_plated_leather" />
+				<equipment
+					slot="Leg"
+					id="Item.khuzait_curved_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.eastern_studded_shoulders" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.khuzait_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.steppe_half_barding" />
+		</Equipments>
+	</NPCCharacter>
+	<NPCCharacter
+		id="veteran_caravan_guard_vaegir"
+		default_group="Cavalry"
+		level="26"
+		name="{=0GkJB08d}Vaegir Veteran Caravan Guard"
+		occupation="CaravanGuard"
+		culture="Culture.vaegir">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_sturgia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="70" />
+			<skill
+				id="Riding"
+				value="70" />
+			<skill
+				id="OneHanded"
+				value="120" />
+			<skill
+				id="TwoHanded"
+				value="70" />
+			<skill
+				id="Polearm"
+				value="130" />
+			<skill
+				id="Bow"
+				value="70" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="130" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_javelin_3_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.northern_spear_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.light_mace_t3" />
+				<equipment
+					slot="Item3"
+					id="Item.northern_horsemans_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_leather" />
+				<equipment
+					slot="Body"
+					id="Item.sturgian_chainmale_longsleeve" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_woodland_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_javelin_3_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.northern_spear_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.light_mace_t3" />
+				<equipment
+					slot="Item3"
+					id="Item.northern_horsemans_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_mail" />
+				<equipment
+					slot="Body"
+					id="Item.sturgian_chainmale_longsleeve" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_javelin_3_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.northern_spear_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_sword_5_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.northern_horsemans_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_leather" />
+				<equipment
+					slot="Body"
+					id="Item.sturgian_chainmale_longsleeve" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.mail_shoulders" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.northern_javelin_3_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.northern_spear_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_sword_5_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.northern_horsemans_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_leather" />
+				<equipment
+					slot="Body"
+					id="Item.sturgian_chainmale_longsleeve" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.mail_shoulders" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.northern_javelin_3_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.northern_spear_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_sword_5_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.northern_horsemans_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_mail" />
+				<equipment
+					slot="Body"
+					id="Item.sturgian_chainmale_longsleeve" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.khuzait_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.steppe_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="veteran_caravan_guard_nords"
+		default_group="Cavalry"
+		level="26"
+		name="{=0GkJB08d}Nord Veteran Caravan Guard"
+		occupation="CaravanGuard"
+		culture="Culture.nords">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_sturgia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="70" />
+			<skill
+				id="Riding"
+				value="70" />
+			<skill
+				id="OneHanded"
+				value="120" />
+			<skill
+				id="TwoHanded"
+				value="70" />
+			<skill
+				id="Polearm"
+				value="130" />
+			<skill
+				id="Bow"
+				value="70" />
+			<skill
+				id="Crossbow"
+				value="20" />
+			<skill
+				id="Throwing"
+				value="130" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_javelin_3_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.northern_spear_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.light_mace_t3" />
+				<equipment
+					slot="Item3"
+					id="Item.northern_horsemans_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_leather" />
+				<equipment
+					slot="Body"
+					id="Item.sturgian_chainmale_longsleeve" />
+				<equipment
+					slot="Leg"
+					id="Item.battania_woodland_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_javelin_3_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.northern_spear_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.light_mace_t3" />
+				<equipment
+					slot="Item3"
+					id="Item.northern_horsemans_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_mail" />
+				<equipment
+					slot="Body"
+					id="Item.sturgian_chainmale_longsleeve" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.northern_javelin_3_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.northern_spear_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_sword_5_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.northern_horsemans_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_leather" />
+				<equipment
+					slot="Body"
+					id="Item.sturgian_chainmale_longsleeve" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.mail_shoulders" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.northern_javelin_3_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.northern_spear_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_sword_5_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.northern_horsemans_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_leather" />
+				<equipment
+					slot="Body"
+					id="Item.sturgian_chainmale_longsleeve" />
+				<equipment
+					slot="Leg"
+					id="Item.highland_leg_wrappings" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.mail_shoulders" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.northern_javelin_3_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.northern_spear_2_t3" />
+				<equipment
+					slot="Item2"
+					id="Item.sturgia_sword_5_t4" />
+				<equipment
+					slot="Item3"
+					id="Item.northern_horsemans_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasalhelm_over_mail" />
+				<equipment
+					slot="Body"
+					id="Item.sturgian_chainmale_longsleeve" />
+				<equipment
+					slot="Leg"
+					id="Item.ragged_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.highland_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.khuzait_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.steppe_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="veteran_caravan_guard_swadia"
+		default_group="Cavalry"
+		level="26"
+		name="{=YE4RGuzU}Swadian Veteran Caravan Guard"
+		occupation="CaravanGuard"
+		culture="Culture.swadia">
+		<face>
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="80" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="130" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="160" />
+			<skill
+				id="Bow"
+				value="50" />
+			<skill
+				id="Crossbow"
+				value="60" />
+			<skill
+				id="Throwing"
+				value="20" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_4_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_mace_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_axe_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_axe_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_axe_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.vlandia_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.stripped_leather_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+
+	<NPCCharacter
+		id="veteran_caravan_guard_rhodok"
+		default_group="Cavalry"
+		level="26"
+		name="{=YE4RGuzU}Rhodok Veteran Caravan Guard"
+		occupation="CaravanGuard"
+		culture="Culture.rhodok">
+		<face>
+
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="80" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="130" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="160" />
+			<skill
+				id="Bow"
+				value="50" />
+			<skill
+				id="Crossbow"
+				value="60" />
+			<skill
+				id="Throwing"
+				value="20" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_4_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_mace_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_axe_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_axe_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_axe_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.vlandia_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.stripped_leather_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+	<NPCCharacter
+		id="veteran_caravan_guard_geroia"
+		default_group="Cavalry"
+		level="26"
+		name="{=YE4RGuzU}Geroian Veteran Caravan Guard"
+		occupation="CaravanGuard"
+		culture="Culture.geroia">
+		<face>
+
+			<face_key_template
+				value="BodyProperty.fighter_vlandia" />
+		</face>
+		<skills>
+			<skill
+				id="Athletics"
+				value="80" />
+			<skill
+				id="Riding"
+				value="130" />
+			<skill
+				id="OneHanded"
+				value="130" />
+			<skill
+				id="TwoHanded"
+				value="80" />
+			<skill
+				id="Polearm"
+				value="160" />
+			<skill
+				id="Bow"
+				value="50" />
+			<skill
+				id="Crossbow"
+				value="60" />
+			<skill
+				id="Throwing"
+				value="20" />
+		</skills>
+		<upgrade_targets></upgrade_targets>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_sword_4_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_laced_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_mace_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_axe_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_axe_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.nasal_cervelliere_over_padded_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.hood" />
+			</EquipmentRoster>
+			<EquipmentRoster
+				civilian="true">
+				<equipment
+					slot="Item0"
+					id="Item.western_spear_4_t4" />
+				<equipment
+					slot="Item1"
+					id="Item.vlandia_axe_2_t4" />
+				<equipment
+					slot="Item2"
+					id="Item.western_riders_kite_shield" />
+				<equipment
+					slot="Head"
+					id="Item.cervelliere_over_arming_coif" />
+				<equipment
+					slot="Body"
+					id="Item.plated_leather_coat" />
+				<equipment
+					slot="Leg"
+					id="Item.leather_cavalier_boots" />
+				<equipment
+					slot="Gloves"
+					id="Item.leather_gloves" />
+				<equipment
+					slot="Cape"
+					id="Item.scarf" />
+			</EquipmentRoster>
+			<equipment
+				slot="Horse"
+				id="Item.vlandia_horse" />
+			<equipment
+				slot="HorseHarness"
+				id="Item.stripped_leather_harness" />
+		</Equipments>
+	</NPCCharacter>
+
+</NPCCharacters>

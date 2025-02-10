@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<!-- Swadia -->
+	<string
+		id="str_culture_description.swadia"
+		text="{=!}The Kingdom of Swadia, one of Calradia's longstanding realms, blends a rich tradition of chivalric warfare with keen economic acumen. Positioned on the rich western coast, its military is noted for a well-armed heavy cavalry and infantry formations." />
+	<string
+		id="str_culture_rich_name.swadia"
+		text="{=!}Swadians" />
+	<string
+		id="str_faction_official.swadia"
+		text="{=!}a count" />
+	<string
+		id="str_faction_official.swadia_f"
+		text="{=!}a countess" />
+	<string
+		id="str_faction_ruler.swadia"
+		text="{=!}king" />
+	<string
+		id="str_faction_ruler.swadia_f"
+		text="{=!}queen" />
+	<string
+		id="str_faction_ruler_name_with_title.swadia"
+		text="{=!}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	<string
+		id="str_faction_noble_name_with_title.swadia"
+		text="{=!}{?RULER.GENDER}Countess{?}Count{\?} {RULER.NAME}" />
+	<string
+		id="str_adjective_for_faction.vlandia"
+		text="{=!}Swadian" />
+	<string
+		id="str_faction_ruler_term_in_speech.swadia"
+		text="{=!}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	<string
+		id="str_short_term_for_faction.vlandia"
+		text="{=!}Swadians" />
+	<string
+		id="str_faction_formal_name_for_culture.swadia"
+		text="{=!}Kingdom of Swadia" />
+	<string
+		id="str_faction_informal_name_for_culture.swadia"
+		text="{=!}the Swadians" />
+	<string
+		id="str_adjective_for_culture.swadia"
+		text="{=!}Swadian" />
+	<string
+		id="str_neutral_term_for_culture.swadia"
+		text="{=!}Swadians" />
+	<!-- Rhodok -->
+	<string
+		id="str_culture_description.rhodok"
+		text="{=!}The Kingdom of Rhodoks is an elective monarchy recognized for its disciplined, defense-oriented military. Its armies rely on well-trained pikemen and crossbowmen, optimized for the rugged, mountainous terrain of their territory." />
+	<string
+		id="str_culture_rich_name.rhodok"
+		text="{=!}Rhodoks" />
+	<string
+		id="str_faction_official.rhodok"
+		text="{=!}a count" />
+	<string
+		id="str_faction_official.rhodok_f"
+		text="{=!}a countess" />
+	<string
+		id="str_faction_ruler.rhodok"
+		text="{=!}king" />
+	<string
+		id="str_faction_ruler.rhodok_f"
+		text="{=!}queen" />
+	<string
+		id="str_faction_ruler_name_with_title.rhodok"
+		text="{=!}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	<string
+		id="str_faction_noble_name_with_title.rhodok"
+		text="{=!}{?RULER.GENDER}Countess{?}Count{\?} {RULER.NAME}" />
+	<string
+		id="str_adjective_for_faction.battania"
+		text="{=!}Rhodok" />
+	<string
+		id="str_faction_ruler_term_in_speech.rhodok"
+		text="{=!}{?RULER.GENDER}King{?}Queen{\?} {RULER.NAME}" />
+	<string
+		id="str_short_term_for_faction.battania"
+		text="{=!}Rhodoks" />
+	<string
+		id="str_faction_formal_name_for_culture.rhodok"
+		text="{=!}Kingdom of the Rhodoks" />
+	<string
+		id="str_faction_informal_name_for_culture.rhodok"
+		text="{=!}the Rhodoks" />
+	<string
+		id="str_adjective_for_culture.rhodok"
+		text="{=!}Rhodok" />
+	<string
+		id="str_neutral_term_for_culture.rhodok"
+		text="{=!}Rhodoks" />
+	<!-- Nords -->
+	<string
+		id="str_culture_description.nords"
+		text="{=!}The Kingdom of the Nords is a group of powerful clans characterized by their warlike culture. Unlike their cousin sea raider clans, they have created a sturdy kingdom and cannot be stopped by castle walls." />
+	<string
+		id="str_culture_rich_name.nords"
+		text="{=!}Nords" />
+	<string
+		id="str_faction_official.nords"
+		text="{=!}a jarl" />
+	<string
+		id="str_faction_official.nords_f"
+		text="{=!}a frue" />
+	<string
+		id="str_faction_ruler.nords"
+		text="{=!}king" />
+	<string
+		id="str_faction_ruler.nords_f"
+		text="{=!}queen" />
+	<string
+		id="str_faction_ruler_name_with_title.nords"
+		text="{=!}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	<string
+		id="str_faction_noble_name_with_title.nords"
+		text="{=!}{?RULER.GENDER}Frue{?}Jarl{\?} {RULER.NAME}" />
+	<string
+		id="str_adjective_for_faction.sturgia"
+		text="{=!}Nordic" />
+	<string
+		id="str_faction_ruler_term_in_speech.nords"
+		text="{=!}{?RULER.GENDER}King{?}Queen{\?} {RULER.NAME}" />
+	<string
+		id="str_short_term_for_faction.sturgia"
+		text="{=!}Nords" />
+	<string
+		id="str_faction_formal_name_for_culture.nords"
+		text="{=!}Kingdom of the Nords" />
+	<string
+		id="str_faction_informal_name_for_culture.nords"
+		text="{=!}the Nords" />
+	<string
+		id="str_adjective_for_culture.nords"
+		text="{=!}Nord" />
+	<string
+		id="str_neutral_term_for_culture.nords"
+		text="{=!}Nords" />
+	<!-- Vaegir -->
+	<string
+		id="str_culture_description.vaegir"
+		text="{=!}The Kingdom of Vaegirs occupies a frigid region in the northeastern reaches of Calradia, where long, snowy winters and rugged terrain define everyday life. With the Khergits to the east, and the Nords to the west, Vaegirs remain vigilant against invaders while continuing to expand their territory." />
+	<string
+		id="str_culture_rich_name.vaegir"
+		text="{=!}Vaegirs" />
+	<string
+		id="str_faction_official.vaegir"
+		text="{=!}a boyar" />
+	<string
+		id="str_faction_official.vaegir_f"
+		text="{=!}a boyarna" />
+	<string
+		id="str_faction_ruler.vaegir"
+		text="{=!}king" />
+	<string
+		id="str_faction_ruler.vaegir_f"
+		text="{=!}queen" />
+	<string
+		id="str_faction_ruler_name_with_title.vaegir"
+		text="{=!}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}" />
+	<string
+		id="str_faction_noble_name_with_title.vaegir"
+		text="{=!}{?RULER.GENDER}Boyarna{?}Boyar{\?} {RULER.NAME}" />
+	<string
+		id="str_adjective_for_faction.empire"
+		text="{=!}Vaegir" />
+	<string
+		id="str_faction_ruler_term_in_speech.vaegir"
+		text="{=!}{?RULER.GENDER}King{?}Queen{\?} {RULER.NAME}" />
+	<string
+		id="str_short_term_for_faction.empire"
+		text="{=!}Vaegirs" />
+	<string
+		id="str_faction_formal_name_for_culture.vaegir"
+		text="{=!}Kingdom of the Vaegirs" />
+	<string
+		id="str_faction_informal_name_for_culture.vaegir"
+		text="{=!}the Vaegirs" />
+	<string
+		id="str_adjective_for_culture.vaegir"
+		text="{=!}Vaegir" />
+	<string
+		id="str_neutral_term_for_culture.vaegir"
+		text="{=!}Vaegirs" />
+	<!-- Calsea -->
+	<string
+		id="str_culture_description.calsea"
+		text="{=!}The Calsean Empire split apart 200 years ago, and only the Calseans retain a bloodline that goes back to the last true Calradian Emperor. The Sarranids and Khergits have yet to make them bend and give up their old settlements near the Calsea and her fertile plains to the north, earning this kingdom their new hereditary nickname as they dig their heels in to protect their lands. Some Calseans refer to themselves as Calradians and part of the Calradian Empire, but others have embraced this patriotic nickname." />
+	<string
+		id="str_culture_rich_name.calsea"
+		text="{=!}Calseans" />
+	<string
+		id="str_faction_official.calsea"
+		text="{=!}an archon" />
+	<string
+		id="str_faction_official.calsea_f"
+		text="{=!}an archoness" />
+	<string
+		id="str_faction_ruler.calsea"
+		text="{=!}emperor" />
+	<string
+		id="str_faction_ruler.calsea_f"
+		text="{=!}empress" />
+	<string
+		id="str_faction_ruler_name_with_title.calsea"
+		text="{=!}{?RULER.GENDER}Empress{?}Emperor{\?} {RULER.NAME}" />
+	<string
+		id="str_faction_noble_name_with_title.calsea"
+		text="{=!}{?RULER.GENDER}Archoness{?}Archon{\?} {RULER.NAME}" />
+	<string
+		id="str_adjective_for_faction.empire_s"
+		text="{=!}Calsean" />
+	<string
+		id="str_faction_ruler_term_in_speech.calsea"
+		text="{=!}{?RULER.GENDER}Emperor{?}Empress{\?} {RULER.NAME}" />
+	<string
+		id="str_short_term_for_faction.empire_s"
+		text="{=!}Calseans" />
+	<string
+		id="str_faction_formal_name_for_culture.calsea"
+		text="{=!}Calradian Empire" />
+	<string
+		id="str_faction_informal_name_for_culture.calsea"
+		text="{=!}the Calseans" />
+	<string
+		id="str_adjective_for_culture.calsea"
+		text="{=!}Calsean" />
+	<string
+		id="str_neutral_term_for_culture.calsea"
+		text="{=!}Calseans" />
+	<!-- Geroia -->
+	<string
+		id="str_culture_description.geroia"
+		text="{=!}The Republic of Geroia is an aristocratic oligarchy ruled by a council of wealthy families that has long played a pivotal role in shaping the political landscape of post-empire Calradia. Its strategic location at the crossroads of several major kingdoms makes it a key player in regional diplomacy and power dynamics. With an elected grand Duke leading them, Geroians are known for their strong military force and their ability to muster massive armies of mercenaries." />
+	<string
+		id="str_culture_rich_name.geroia"
+		text="{=!}Geroians" />
+	<string
+		id="str_faction_official.geroia"
+		text="{=!}a patrician" />
+	<string
+		id="str_faction_official.geroia_f"
+		text="{=!}a patrician" />
+	<string
+		id="str_faction_ruler.geroia"
+		text="{=!}duke" />
+	<string
+		id="str_faction_ruler.geroia_f"
+		text="{=!}duchess" />
+	<string
+		id="str_faction_ruler_name_with_title.geroia"
+		text="{=!}{?RULER.GENDER}Duchess{?}Duke{\?} {RULER.NAME}" />
+	<string
+		id="str_faction_noble_name_with_title.geroia"
+		text="{=!}Patrician {RULER.NAME}" />
+	<string
+		id="str_adjective_for_faction.empire_w"
+		text="{=!}Geroian" />
+	<string
+		id="str_faction_ruler_term_in_speech.geroia"
+		text="{=!}{?RULER.GENDER}Duchess{?}Duke{\?} {RULER.NAME}" />
+	<string
+		id="str_short_term_for_faction.empire_w"
+		text="{=!}Geroians" />
+	<string
+		id="str_faction_formal_name_for_culture.geroia"
+		text="{=!}Republic of Geroia" />
+	<string
+		id="str_faction_informal_name_for_culture.geroia"
+		text="{=!}the Geroians" />
+	<string
+		id="str_adjective_for_culture.geroia"
+		text="{=!}Geroian" />
+	<string
+		id="str_neutral_term_for_culture.geroia"
+		text="{=!}Geroians" />
+	<!-- Sarranid -->
+	<string
+		id="str_culture_description.sarranid"
+		text="{=!}The Sarranid Sultanate is situated in the harsh southern deserts, where the open, arid landscape shapes both its economy and warfare. Led by a ruling sultan with a network of emirs who manage local affairs, they rely on a mix of fast skirmishers and heavy cavalry." />
+	<string
+		id="str_culture_rich_name.sarranid"
+		text="{=!}Sarranid" />
+	<string
+		id="str_faction_ruler_name_with_title.sarranid"
+		text="{=!}{?RULER.GENDER}Sultana{?}Sultan{\?} {RULER.NAME}" />
+	<string
+		id="str_faction_noble_name_with_title.sarranid"
+		text="{=!}{?RULER.GENDER}Emira{?}Emir{\?} {RULER.NAME}" />
+	<string
+		id="str_faction_official.sarranid"
+		text="{=!}an emir" />
+	<string
+		id="str_faction_official.sarranid_f"
+		text="{=!}an emira" />
+	<string
+		id="str_faction_ruler.sarranid"
+		text="{=!}sultan" />
+	<string
+		id="str_faction_ruler.sarranid_f"
+		text="{=!}sultana" />
+	<string
+		id="str_faction_ruler_term_in_speech.sarranid"
+		text="{=!}{?RULER.GENDER}Sultan{?}Sultana{\?} {RULER.NAME}" />
+	<string
+		id="str_adjective_for_faction.aserai"
+		text="{=!}Sarranid" />
+	<string
+		id="str_short_term_for_faction.aserai"
+		text="{=!}Sarranids" />
+	<string
+		id="str_faction_formal_name_for_culture.sarranid"
+		text="{=!}Sarranid Sultanate" />
+	<string
+		id="str_faction_informal_name_for_culture.sarranid"
+		text="{=!}the Sarranids" />
+	<string
+		id="str_adjective_for_culture.sarranid"
+		text="{=!}Sarranid" />
+	<string
+		id="str_neutral_term_for_culture.sarranid"
+		text="{=!}Sarranids" />
+	<!-- Khergit -->
+	<string
+		id="str_culture_description.khergit"
+		text="{=!}The Khergit Khanate is a semi-nomadic state known for its fast, mobile cavalry. Its forces—primarily swift horse archers—excel in hit-and-run tactics across the open steppes, making them formidable raiders." />
+	<string
+		id="str_culture_rich_name.khergit"
+		text="{=!}Khergits" />
+	<string
+		id="str_faction_ruler_name_with_title.khergit"
+		text="{=!}{RULER.NAME} {?RULER.GENDER}Khatun{?}Khan{\?}" />
+	<string
+		id="str_faction_noble_name_with_title.khergit"
+		text="{=!}{RULER.NAME} Noyan" />
+	<string
+		id="str_faction_official.khergit"
+		text="{=!}a noyan" />
+	<string
+		id="str_faction_official.khergit_f"
+		text="{=!}a noyan" />
+	<string
+		id="str_faction_ruler.khergit"
+		text="{=!}khan" />
+	<string
+		id="str_faction_ruler.khergit_f"
+		text="{=!}khatun" />
+	<string
+		id="str_faction_ruler_term_in_speech.khergit"
+		text="{=!}{RULER.NAME} {?RULER.GENDER}Khan{?}Khatun{\?}" />
+	<string
+		id="str_adjective_for_faction.khuzait"
+		text="{=!}Khergit" />
+	<string
+		id="str_short_term_for_faction.khuzait"
+		text="{=!}Khergits" />
+	<string
+		id="str_faction_formal_name_for_culture.khergit"
+		text="{=!}Khergit Khanate" />
+	<string
+		id="str_faction_informal_name_for_culture.khergit"
+		text="{=!}the Khergits" />
+	<string
+		id="str_adjective_for_culture.khergit"
+		text="{=!}Khergit" />
+	<string
+		id="str_neutral_term_for_culture.khergit"
+		text="{=!}Khergits" />
+</strings>

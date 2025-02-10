@@ -1,0 +1,316 @@
+<Kingdoms>
+	<!--kingdom factions-->
+	<Kingdom
+		id="empire"
+		owner="Hero.lord_1_1"
+		banner_key="24.124.30.3000.-1574.831.762.1.0.90.144.30.124.519.519.764.764.0.1.0"
+		primary_banner_color="0xffcac1ba"
+		secondary_banner_color="0xff41281b"
+		label_color="FFCAC1BA"
+		color="ffcac1ba"
+		color2="ff41281b"
+		alternative_color="FFffffff"
+		alternative_color2="FF660653"
+		culture="Culture.vaegir"
+		settlement_banner_mesh="encounter_flag_a"
+		flag_mesh="info_screen_flags_b"
+		name="{=NF627oiX}Vaegirs"
+		short_name="{=nsDj8Qxl}Vaegir Kingdom"
+		title="{=NF627oiX}Kingdom of the Vaegirs"
+		ruler_title="{=OoHhCa11}King"
+		text="{=!}The Kingdom of Vaegirs occupies a frigid region in the northeastern reaches of Calradia, where long, snowy winters and rugged terrain define everyday life. With the Khergits to the east, and the Nords to the west, Vaegirs remain vigilant against invaders while continuing to expand their territory.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.sturgia"
+				value="-10"
+				isAtWar="true" />
+			<relationship
+				kingdom="Kingdom.khuzait"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+		<policies>
+			<policy
+				id="policy_feudal_inheritance" />
+			<policy
+				id="policy_royal_guard" />
+			<policy
+				id="policy_citizenship" />
+		</policies>
+	</Kingdom>
+	<Kingdom
+		id="empire_w"
+		owner="Hero.lord_1_7"
+		banner_key="11.149.149.2109.-2286.773.779.1.0.178.149.131.131.544.544.764.816.0.0.0.340.131.149.213.180.652.678.1.0.8"
+		primary_banner_color="0xff0b0c11"
+		secondary_banner_color="0xfff1c232"
+		label_color="ff0b0c11"
+		color="ff0b0c11"
+		color2="fff1c232"
+		alternative_color="FF1F1D1F"
+		alternative_color2="FFc28446"
+		culture="Culture.geroia"
+		settlement_banner_mesh="encounter_flag_a"
+		flag_mesh="info_screen_flags_a"
+		name="{=yG3YUySN}Geroia"
+		short_name="{=ZEmH0MwL}Geroian Republic"
+		title="{=yG3YUySN}Republic of Geroia"
+		ruler_title="{=OoHhCa11}Duke"
+		text="{=!}The Republic of Geroia is an aristocratic oligarchy ruled by a council of wealthy families that has long played a pivotal role in shaping the political landscape of post-empire Calradia. Its strategic location at the crossroads of several major kingdoms makes it a key player in regional diplomacy and power dynamics. With an elected grand Duke leading them, Geroians are known for their ability to muster massive armies of mercenaries.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.sturgia"
+				value="-1"
+				isAtWar="true" />
+			<relationship
+				kingdom="Kingdom.aserai"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+		<policies>
+			<policy
+				id="policy_feudal_inheritance" />
+			<policy
+				id="policy_royal_guard" />
+			<policy
+				id="policy_citizenship" />
+		</policies>
+	</Kingdom>
+	<Kingdom
+		id="empire_s"
+		owner="Hero.lord_1_14"
+		banner_key="11.8.8.2109.-2286.773.779.1.0.178.101.9.9.437.437.764.802.0.0.0.423.9.9.137.123.764.551.0.0.0"
+		primary_banner_color="0xff591645"
+		secondary_banner_color="0xffffad54"
+		label_color="FF591645"
+		color="FF591645"
+		color2="FFffad54"
+		alternative_color="FFF4CA14"
+		alternative_color2="FF6d62b5"
+		culture="Culture.calsea"
+		settlement_banner_mesh="encounter_flag_a"
+		flag_mesh="info_screen_flags_b"
+		name="{=frBQ9mbP}Calsean Empire"
+		short_name="{=GbnlN6na}Calsean Empire"
+		title="{=frBQ9mbP}Calsean Empire"
+		ruler_title="{=OoHhCa11}Emperor"
+		text="{=!}The Calradian Empire split apart 200 years ago, and only the Calseans retain a bloodline that goes back to the last true Calradian Emperor. The Sarranids and Khergits have yet to make them bend and give up their old settlements near the Calsea and her fertile plains to the north, earning this kingdom their new hereditary nickname as they dig their heels in to protect their lands. Some Calseans refer to themselves as Calradians and part of the Calradian Empire, but others have embraced this patriotic nickname.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.khuzait"
+				value="-10"
+				isAtWar="true" />
+			<relationship
+				kingdom="Kingdom.aserai"
+				value="-10"
+				isAtWar="true" />
+		</relationships>
+		<policies>
+			<policy
+				id="policy_feudal_inheritance" />
+			<policy
+				id="policy_royal_guard" />
+			<policy
+				id="policy_citizenship" />
+		</policies>
+	</Kingdom>
+	<!--note: nord culture is 'nords' because 'nord' culture already exists in base bannerlord-->
+	<Kingdom
+		id="sturgia"
+		owner="Hero.lord_2_1"
+		banner_key="11.12.12.1656.-1794.764.764.1.0.0.118.116.116.554.554.761.780.0.0.0.504.116.12.13.64.853.771.0.0.250.504.116.12.13.64.833.741.0.0.235.504.116.12.13.64.827.714.0.0.241.504.116.12.13.52.810.682.0.0.241.504.116.12.13.52.695.569.0.0.252.504.116.12.13.64.869.800.0.0.260.504.116.12.13.64.644.800.0.0.176.504.116.12.13.64.660.823.0.0.192.504.116.12.13.64.680.846.0.0.192.504.116.12.13.64.634.777.0.0.163.504.116.12.13.64.634.608.0.0.163.504.116.12.13.52.705.587.0.0.252.504.116.12.13.52.714.604.0.0.243.505.116.12.113.190.752.786.0.0.230.505.116.12.72.120.841.866.0.0.238.505.116.12.72.120.896.884.0.0.238.510.116.12.104.61.624.618.0.0.187.505.116.12.20.43.806.817.0.0.-149.505.116.12.20.43.845.816.0.0.-139.505.116.12.29.57.805.765.0.0.-150.505.116.12.29.57.783.712.0.0.-158.505.116.12.29.57.756.748.0.0.-150.505.116.12.29.57.740.702.0.0.-159.505.116.12.22.46.765.668.0.0.-156.505.116.12.20.43.723.669.0.0.-153.504.116.12.79.211.738.903.0.0.-186.505.116.12.9.93.733.949.0.0.-190.504.116.12.15.47.710.871.0.0.-206.504.116.12.15.47.716.896.0.0.-206.504.116.12.15.47.723.919.0.0.-206.504.116.12.15.47.770.880.0.1.190.504.116.12.15.47.759.901.0.1.190.504.116.12.15.47.749.921.0.1.190.506.116.12.79.194.780.873.0.0.-110.504.116.12.15.47.777.891.0.0.-199.504.116.12.15.47.783.914.0.0.-199.504.116.12.15.47.791.934.0.0.-199.504.116.12.15.47.834.891.0.1.197.504.116.12.15.47.826.912.0.1.197.504.116.12.15.47.812.914.0.1.197.504.116.116.34.161.967.949.0.0.254.504.116.116.34.124.977.928.0.0.262.504.116.116.43.125.967.910.0.0.270.504.116.116.43.125.967.889.0.0.279"
+		primary_banner_color="0xff224277"
+		secondary_banner_color="0xff0b0c11"
+		label_color="FF224277"
+		color="FF224277"
+		color2="FF0b0c11"
+		alternative_color="FFFFFFFF"
+		alternative_color2="FF2A4B78"
+		culture="Culture.nords"
+		settlement_banner_mesh="encounter_flag_b"
+		flag_mesh="info_screen_flags_c"
+		name="{=PjO7oY16}Nords"
+		short_name="{=C4qjBqLO}Nord Kingdom"
+		title="{=iYCR3xuQ}Kingdom of the Nords"
+		ruler_title="{=FmbgPGBL}King"
+		text="{=!}The Kingdom of the Nords is a group of powerful clans characterized by their warlike culture. Unlike their cousin sea raider clans, they have created a sturdy kingdom and cannot be stopped by castle walls.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.empire_w"
+				value="-1"
+				isAtWar="true" />
+			<relationship
+				kingdom="Kingdom.empire"
+				value="-10"
+				isAtWar="true" />
+			<relationship
+				kingdom="Kingdom.vlandia"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+		<policies>
+			<policy
+				id="policy_feudal_inheritance" />
+			<policy
+				id="policy_royal_guard" />
+			<policy
+				id="policy_citizenship" />
+		</policies>
+	</Kingdom>
+	<Kingdom
+		id="aserai"
+		owner="Hero.lord_3_1"
+		banner_key="11.7.7.1656.-1794.764.764.1.0.90.427.14.14.419.419.763.862.0.1.0.503.14.91.203.203.763.756.0.1.0.213.14.14.287.-377.762.682.0.1.181"
+		primary_banner_color="0xffdea940"
+		secondary_banner_color="0xff8d291a"
+		label_color="FFdea940"
+		color="FFdea940"
+		color2="FF8d291a"
+		alternative_color="FF1F1D1F"
+		alternative_color2="FFebce5e"
+		culture="Culture.sarranid"
+		settlement_banner_mesh="encounter_flag_c"
+		flag_mesh="info_screen_flags_a"
+		name="{=aseraifaction}Sarranids"
+		short_name="{=aseraimembers}Sarranid Sultanate"
+		title="{=UsbwPmYb}Sultanate of the Sarranids"
+		ruler_title="{=5djtBrHj}Sultan"
+		text="{=!}The Sarranid Sultanate is situated in the harsh southern deserts, where the open, arid landscape shapes both its economy and warfare. Led by a ruling sultan with a network of emirs who manage local affairs, they rely on a mix of fast skirmishers and heavy cavalry.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.battania"
+				value="-10"
+				isAtWar="true" />
+			<relationship
+				kingdom="Kingdom.empire_w"
+				value="-10"
+				isAtWar="true" />
+			<relationship
+				kingdom="Kingdom.empire_s"
+				value="-10"
+				isAtWar="true" />
+		</relationships>
+		<policies>
+			<policy
+				id="policy_feudal_inheritance" />
+			<policy
+				id="policy_royal_guard" />
+			<policy
+				id="policy_citizenship" />
+		</policies>
+	</Kingdom>
+	<Kingdom
+		id="vlandia"
+		owner="Hero.lord_4_1"
+		banner_key="11.148.148.1836.1596.768.788.1.0.180.140.116.116.518.518.764.764.0.0.0"
+		primary_banner_color="0xff6c1512"
+		secondary_banner_color="0xff0b0c11"
+		label_color="ff6c1512"
+		color="FF6c1512"
+		color2="FF0b0c11"
+		alternative_color="FFDBBA27"
+		alternative_color2="ff910101"
+		culture="Culture.swadia"
+		settlement_banner_mesh="encounter_flag_d"
+		flag_mesh="info_screen_flags_c"
+		name="{=FjwRsf1C}Swadia"
+		short_name="{=8HMyTKF6}Swadian Kingdom"
+		title="{=lAWwcO6b}Kingdom of the Swadians"
+		ruler_title="{=hwnp9abW}King"
+		text="{=!}The Kingdom of Swadia, one of Calradia's longstanding realms, blends a rich tradition of chivalric warfare with keen economic acumen. Positioned on the rich western coast, its military is noted for a well-armed heavy cavalry and infantry formations.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.battania"
+				value="-1"
+				isAtWar="true" />
+			<relationship
+				kingdom="Kingdom.sturgia"
+				value="-1"
+				isAtWar="true" />
+		</relationships>
+		<policies>
+			<policy
+				id="policy_feudal_inheritance" />
+			<policy
+				id="policy_royal_guard" />
+			<policy
+				id="policy_citizenship" />
+		</policies>
+	</Kingdom>
+	<Kingdom
+		id="battania"
+		owner="Hero.lord_5_1"
+		banner_key="11.2.2.1836.1596.768.788.1.0.180.138.116.116.-559.504.764.764.0.0.0"
+		primary_banner_color="0xff284e19"
+		secondary_banner_color="0xff0b0c11"
+		label_color="FF284e19"
+		color="FF284e19"
+		color2="FF0b0c11"
+		alternative_color="FFD69516"
+		alternative_color2="FF55831A"
+		culture="Culture.rhodok"
+		settlement_banner_mesh="encounter_flag_e"
+		flag_mesh="info_screen_flags_b"
+		name="{=0B27RrYJ}Rhodoks"
+		short_name="{=bgjiFSHZ}Rhodok Kingdom"
+		title="{=qaDIU0XC}Kingdom of the Rhodoks"
+		ruler_title="{=afvM7XpQ}King"
+		text="{=!}The Kingdom of Rhodoks is an elective monarchy recognized for its disciplined, defense-oriented military. Its armies rely on well-trained pikemen and crossbowmen, optimized for the rugged, mountainous terrain of their territory.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.vlandia"
+				value="-1"
+				isAtWar="true" />
+			<relationship
+				kingdom="Kingdom.aserai"
+				value="-10"
+				isAtWar="true" />
+		</relationships>
+		<policies>
+			<policy
+				id="policy_feudal_inheritance" />
+			<policy
+				id="policy_royal_guard" />
+			<policy
+				id="policy_citizenship" />
+		</policies>
+	</Kingdom>
+	<Kingdom
+		id="khuzait"
+		owner="Hero.lord_6_1"
+		banner_key="11.10.10.1656.-1794.764.764.1.0.90.128.22.22.481.481.764.764.0.0.0"
+		primary_banner_color="0xff429081"
+		secondary_banner_color="0xffeaeeef"
+		label_color="FF429081"
+		color="FF429081"
+		color2="FFeaeeef"
+		alternative_color="FF787878"
+		alternative_color2="FF6caecc"
+		culture="Culture.khergit"
+		settlement_banner_mesh="encounter_flag_f"
+		flag_mesh="info_screen_flags_b"
+		name="{=sZLd6VHi}Khergit"
+		short_name="{=vJOWy1QF}Khergit Khanate"
+		title="{=bF7HmNGQ}Khergit Khanate"
+		ruler_title="{=hwnp9abW}Khan"
+		text="{=!}The Khergit Khanate is a semi-nomadic state known for its fast, mobile cavalry. Its forces—primarily swift horse archers—excel in hit-and-run tactics across the open steppes, making them formidable raiders.">
+		<relationships>
+			<relationship
+				kingdom="Kingdom.empire"
+				value="-1"
+				isAtWar="true" />
+			<relationship
+				kingdom="Kingdom.empire_s"
+				value="-10"
+				isAtWar="true" />
+		</relationships>
+		<policies>
+			<policy
+				id="policy_feudal_inheritance" />
+			<policy
+				id="policy_royal_guard" />
+			<policy
+				id="policy_citizenship" />
+		</policies>
+	</Kingdom>
+</Kingdoms>

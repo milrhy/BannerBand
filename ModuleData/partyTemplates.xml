@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partyTemplates>
+	<MBPartyTemplate
+		id="kingdom_hero_party_rhodok_template">
+		<stacks>
+			<PartyTemplateStack
+				min_value="16"
+				max_value="16"
+				troop="NPCCharacter.rhodok_tribesman" />
+			<PartyTemplateStack
+				min_value="14"
+				max_value="14"
+				troop="NPCCharacter.rhodok_spearman" />
+			<PartyTemplateStack
+				min_value="6"
+				max_value="6"
+				troop="NPCCharacter.rhodok_trained_spearman" />
+			<PartyTemplateStack
+				min_value="3"
+				max_value="3"
+				troop="NPCCharacter.rhodok_veteran_spearman" />
+			<PartyTemplateStack
+				min_value="12"
+				max_value="12"
+				troop="NPCCharacter.rhodok_crossbowman" />
+			<PartyTemplateStack
+				min_value="1"
+				max_value="1"
+				troop="NPCCharacter.rhodok_sergeant" />
+			<PartyTemplateStack
+				min_value="5"
+				max_value="5"
+				troop="NPCCharacter.rhodok_trained_crossbowman" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.rhodok_veteran_crossbowman" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.rhodok_sharpshooter" />
+		</stacks>
+	</MBPartyTemplate>
+	<MBPartyTemplate
+		id="kingdom_hero_party_vaegir_template">
+		<stacks>
+			<PartyTemplateStack
+				min_value="25"
+				max_value="25"
+				troop="NPCCharacter.vaegir_recruit" />
+			<PartyTemplateStack
+				min_value="8"
+				max_value="8"
+				troop="NPCCharacter.vaegir_footman" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.vaegir_veteran" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.vaegir_horseman" />
+			<PartyTemplateStack
+				min_value="1"
+				max_value="1"
+				troop="NPCCharacter.vaegir_knight" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.vaegir_infantry" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.vaegir_guard" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.vaegir_skirmisher" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.vaegir_archer" />
+			<PartyTemplateStack
+				min_value="1"
+				max_value="1"
+				troop="NPCCharacter.vaegir_marksman" />
+		</stacks>
+	</MBPartyTemplate>
+	<MBPartyTemplate
+		id="kingdom_hero_party_sarranid_template">
+		<stacks>
+			<PartyTemplateStack
+				min_value="21"
+				max_value="22"
+				troop="NPCCharacter.sarranid_footman" />
+			<PartyTemplateStack
+				min_value="8"
+				max_value="8"
+				troop="NPCCharacter.sarranid_veteran_footman" />
+			<PartyTemplateStack
+				min_value="8"
+				max_value="8"
+				troop="NPCCharacter.sarranid_skirmisher" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="3"
+				troop="NPCCharacter.sarranid_horseman" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.sarranid_infantry" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.sarranid_guard" />
+			<PartyTemplateStack
+				min_value="5"
+				max_value="4"
+				troop="NPCCharacter.sarranid_archer" />
+			<PartyTemplateStack
+				min_value="1"
+				max_value="1"
+				troop="NPCCharacter.sarranid_master_archer" />
+		</stacks>
+	</MBPartyTemplate>
+	<MBPartyTemplate
+		id="kingdom_hero_party_swadia_template">
+		<stacks>
+			<PartyTemplateStack
+				min_value="20"
+				max_value="21"
+				troop="NPCCharacter.swadian_recruit" />
+			<PartyTemplateStack
+				min_value="8"
+				max_value="8"
+				troop="NPCCharacter.swadian_manatarms" />
+			<PartyTemplateStack
+				min_value="3"
+				max_value="3"
+				troop="NPCCharacter.swadian_knight" />
+			<PartyTemplateStack
+				min_value="8"
+				max_value="8"
+				troop="NPCCharacter.swadian_militia" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.swadian_footman" />
+			<PartyTemplateStack
+				min_value="3"
+				max_value="3"
+				troop="NPCCharacter.swadian_sergeant" />
+			<PartyTemplateStack
+				min_value="1"
+				max_value="1"
+				troop="NPCCharacter.swadian_infantry" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.swadian_crossbowman" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.swadian_sharpshooter" />
+		</stacks>
+	</MBPartyTemplate>
+	<MBPartyTemplate
+		id="kingdom_hero_party_nords_template">
+		<stacks>
+			<PartyTemplateStack
+				min_value="30"
+				max_value="30"
+				troop="NPCCharacter.nord_recruit" />
+			<PartyTemplateStack
+				min_value="8"
+				max_value="8"
+				troop="NPCCharacter.nord_footman" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.nord_trained_footman" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.nord_veteran" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.nord_huscarl" />
+			<PartyTemplateStack
+				min_value="6"
+				max_value="6"
+				troop="NPCCharacter.nord_archer" />
+			<PartyTemplateStack
+				min_value="1"
+				max_value="1"
+				troop="NPCCharacter.nord_veteran_archer" />
+		</stacks>
+	</MBPartyTemplate>
+	<MBPartyTemplate
+		id="kingdom_hero_party_geroia_template">
+		<stacks>
+			<PartyTemplateStack
+				min_value="30"
+				max_value="30"
+				troop="NPCCharacter.geroian_recruit" />
+			<PartyTemplateStack
+				min_value="8"
+				max_value="8"
+				troop="NPCCharacter.geroian_militia" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.geroian_footman" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.geroian_blade" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.geroian_knight" />
+			<PartyTemplateStack
+				min_value="6"
+				max_value="6"
+				troop="NPCCharacter.geroian_skirmisher" />
+			<PartyTemplateStack
+				min_value="1"
+				max_value="1"
+				troop="NPCCharacter.geroian_crossbowman" />
+		</stacks>
+	</MBPartyTemplate>
+	<MBPartyTemplate
+		id="kingdom_hero_party_calsea_template">
+		<stacks>
+			<PartyTemplateStack
+				min_value="30"
+				max_value="30"
+				troop="NPCCharacter.calsean_militia" />
+			<PartyTemplateStack
+				min_value="8"
+				max_value="8"
+				troop="NPCCharacter.calsean_footman" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.calsean_spearman" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.calsean_guard" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.calsean_knight" />
+			<PartyTemplateStack
+				min_value="6"
+				max_value="6"
+				troop="NPCCharacter.calsean_archer" />
+			<PartyTemplateStack
+				min_value="1"
+				max_value="1"
+				troop="NPCCharacter.calsean_vetarcher" />
+		</stacks>
+	</MBPartyTemplate>
+	<MBPartyTemplate
+		id="kingdom_hero_party_khergit_template">
+		<stacks>
+			<PartyTemplateStack
+				min_value="24"
+				max_value="24"
+				troop="NPCCharacter.khergit_tribesman" />
+			<PartyTemplateStack
+				min_value="8"
+				max_value="8"
+				troop="NPCCharacter.khergit_skirmisher" />
+			<PartyTemplateStack
+				min_value="12"
+				max_value="12"
+				troop="NPCCharacter.khergit_horseman" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.khergit_lancer" />
+			<PartyTemplateStack
+				min_value="6"
+				max_value="8"
+				troop="NPCCharacter.khergit_horse_archer" />
+			<PartyTemplateStack
+				min_value="2"
+				max_value="2"
+				troop="NPCCharacter.khergit_veteran_horse_archer" />
+		</stacks>
+	</MBPartyTemplate>
+
+	<MBPartyTemplate
+		id="generic_mercenary_party_template">
+		<stacks>
+			<PartyTemplateStack
+				min_value="16"
+				max_value="16"
+				troop="NPCCharacter.geroian_footman" />
+			<PartyTemplateStack
+				min_value="4"
+				max_value="4"
+				troop="NPCCharacter.geroian_blade" />
+			<PartyTemplateStack
+				min_value="8"
+				max_value="8"
+				troop="NPCCharacter.geroian_skirmisher" />
+		</stacks>
+	</MBPartyTemplate>
+
+</partyTemplates>

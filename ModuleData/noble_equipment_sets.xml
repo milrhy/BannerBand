@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentRosters>
+
+	<EquipmentRoster
+		id="swadia_noble_male_battle"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_lance_3_t5" />
+			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
+			<equipment slot="Weapon2" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.white_coat_over_mail" />
+			<equipment slot="Leg" id="Item.plated_strip_boots" />
+			<equipment slot="Gloves" id="Item.leather_gloves" />
+			<equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
+		</EquipmentSet>
+		<Flags
+			IsCombatantTemplate="true"
+			IsNoncombatantTemplate="true" 
+			IsNobleTemplate="true"
+			IsMediumTemplate="true"
+			IsHeavyTemplate="true"
+			IsFlamboyantTemplate="true"
+			IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="swadia_noble_male_civ"
+		culture="Culture.swadia">
+		<EquipmentSet
+			civilian="true">
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="Body" id="Item.khuzait_civil_coat" />
+			<equipment slot="Leg" id="Item.sturgia_boots_a" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags
+			IsCivilianTemplate="true"
+			IsCombatantTemplate="true"
+			IsNoncombatantTemplate="true" 
+			IsNobleTemplate="true"
+			IsMediumTemplate="true"
+			IsHeavyTemplate="true"
+			IsFlamboyantTemplate="true"
+			IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="swadia_noble_female_battle"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.western_spear_3_t3" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.coat_of_plates_over_mail" />
+			<equipment slot="Leg" id="Item.fine_town_boots" />
+			<equipment slot="Gloves" id="Item.mail_mitten" />
+			<equipment slot="Cape" id="Item.wrapped_scarf" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags
+			IsFemaleTemplate="true"
+			IsCombatantTemplate="true"
+			IsNoncombatantTemplate="true" 
+			IsNobleTemplate="true"
+			IsMediumTemplate="true"
+			IsHeavyTemplate="true"
+			IsFlamboyantTemplate="true"
+			IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="swadia_noble_female_civ"
+		culture="Culture.swadia">
+		<EquipmentSet
+			civilian="true">
+			<equipment slot="Body" id="Item.vlandian_woman_dress" />
+			<equipment slot="Leg" id="Item.ladys_shoe" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags
+			IsFemaleTemplate="true"
+			IsCivilianTemplate="true"
+			IsCombatantTemplate="true"
+			IsNoncombatantTemplate="true" 
+			IsNobleTemplate="true"
+			IsMediumTemplate="true"
+			IsHeavyTemplate="true"
+			IsFlamboyantTemplate="true"
+			IsStoicTemplate="true" />
+	</EquipmentRoster>
+
+	<!-- Geroia Equipment Rosters -->
+	<EquipmentRoster
+		id="geroia_noble_male_battle"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_lance_3_t5" />
+			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
+			<equipment slot="Weapon2" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.white_coat_over_mail" />
+			<equipment slot="Leg" id="Item.plated_strip_boots" />
+			<equipment slot="Gloves" id="Item.leather_gloves" />
+			<equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
+		</EquipmentSet>
+		<Flags
+			IsCombatantTemplate="true"
+			IsNoncombatantTemplate="true" 
+			IsNobleTemplate="true"
+			IsMediumTemplate="true"
+			IsHeavyTemplate="true"
+			IsFlamboyantTemplate="true"
+			IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="geroia_noble_male_civ"
+		culture="Culture.geroia">
+		<EquipmentSet civilian="true">
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="Body" id="Item.khuzait_civil_coat" />
+			<equipment slot="Leg" id="Item.sturgia_boots_a" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags
+			IsCivilianTemplate="true"
+			IsCombatantTemplate="true"
+			IsNoncombatantTemplate="true" 
+			IsNobleTemplate="true"
+			IsMediumTemplate="true"
+			IsHeavyTemplate="true"
+			IsFlamboyantTemplate="true"
+			IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="geroia_noble_female_battle"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.western_spear_3_t3" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.coat_of_plates_over_mail" />
+			<equipment slot="Leg" id="Item.fine_town_boots" />
+			<equipment slot="Gloves" id="Item.mail_mitten" />
+			<equipment slot="Cape" id="Item.wrapped_scarf" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags
+			IsFemaleTemplate="true"
+			IsCombatantTemplate="true"
+			IsNoncombatantTemplate="true" 
+			IsNobleTemplate="true"
+			IsMediumTemplate="true"
+			IsHeavyTemplate="true"
+			IsFlamboyantTemplate="true"
+			IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="geroia_noble_female_civ"
+		culture="Culture.geroia">
+		<EquipmentSet civilian="true">
+			<equipment slot="Body" id="Item.vlandian_woman_dress" />
+			<equipment slot="Leg" id="Item.ladys_shoe" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags
+			IsFemaleTemplate="true"
+			IsCivilianTemplate="true"
+			IsCombatantTemplate="true"
+			IsNoncombatantTemplate="true" 
+			IsNobleTemplate="true"
+			IsMediumTemplate="true"
+			IsHeavyTemplate="true"
+			IsFlamboyantTemplate="true"
+			IsStoicTemplate="true" />
+	</EquipmentRoster>
+
+	<!-- Rhodok Equipment Rosters -->
+	<EquipmentRoster id="rhodok_noble_male_battle" culture="Culture.rhodok">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_lance_3_t5" />
+			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
+			<equipment slot="Weapon2" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.white_coat_over_mail" />
+			<equipment slot="Leg" id="Item.plated_strip_boots" />
+			<equipment slot="Gloves" id="Item.leather_gloves" />
+			<equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
+		</EquipmentSet>
+		<Flags IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="rhodok_noble_male_civ" culture="Culture.rhodok">
+		<EquipmentSet civilian="true">
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="Body" id="Item.khuzait_civil_coat" />
+			<equipment slot="Leg" id="Item.sturgia_boots_a" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="rhodok_noble_female_battle" culture="Culture.rhodok">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.western_spear_3_t3" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.coat_of_plates_over_mail" />
+			<equipment slot="Leg" id="Item.fine_town_boots" />
+			<equipment slot="Gloves" id="Item.mail_mitten" />
+			<equipment slot="Cape" id="Item.wrapped_scarf" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="rhodok_noble_female_civ" culture="Culture.rhodok">
+		<EquipmentSet civilian="true">
+			<equipment slot="Body" id="Item.vlandian_woman_dress" />
+			<equipment slot="Leg" id="Item.ladys_shoe" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+
+	<!-- Calsea Equipment Rosters -->
+	<EquipmentRoster id="calsea_noble_male_battle" culture="Culture.calsea">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_lance_3_t5" />
+			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
+			<equipment slot="Weapon2" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.white_coat_over_mail" />
+			<equipment slot="Leg" id="Item.plated_strip_boots" />
+			<equipment slot="Gloves" id="Item.leather_gloves" />
+			<equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
+		</EquipmentSet>
+		<Flags IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="calsea_noble_male_civ" culture="Culture.calsea">
+		<EquipmentSet civilian="true">
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="Body" id="Item.khuzait_civil_coat" />
+			<equipment slot="Leg" id="Item.sturgia_boots_a" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="calsea_noble_female_battle" culture="Culture.calsea">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.western_spear_3_t3" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.coat_of_plates_over_mail" />
+			<equipment slot="Leg" id="Item.fine_town_boots" />
+			<equipment slot="Gloves" id="Item.mail_mitten" />
+			<equipment slot="Cape" id="Item.wrapped_scarf" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="calsea_noble_female_civ" culture="Culture.calsea">
+		<EquipmentSet civilian="true">
+			<equipment slot="Body" id="Item.vlandian_woman_dress" />
+			<equipment slot="Leg" id="Item.ladys_shoe" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+
+
+	<!-- Sarranid Equipment Rosters -->
+	<EquipmentRoster id="sarranid_noble_male_battle" culture="Culture.sarranid">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_lance_3_t5" />
+			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
+			<equipment slot="Weapon2" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.white_coat_over_mail" />
+			<equipment slot="Leg" id="Item.plated_strip_boots" />
+			<equipment slot="Gloves" id="Item.leather_gloves" />
+			<equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
+		</EquipmentSet>
+		<Flags IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="sarranid_noble_male_civ" culture="Culture.sarranid">
+		<EquipmentSet civilian="true">
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="Body" id="Item.khuzait_civil_coat" />
+			<equipment slot="Leg" id="Item.sturgia_boots_a" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="sarranid_noble_female_battle" culture="Culture.sarranid">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.western_spear_3_t3" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.coat_of_plates_over_mail" />
+			<equipment slot="Leg" id="Item.fine_town_boots" />
+			<equipment slot="Gloves" id="Item.mail_mitten" />
+			<equipment slot="Cape" id="Item.wrapped_scarf" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="sarranid_noble_female_civ" culture="Culture.sarranid">
+		<EquipmentSet civilian="true">
+			<equipment slot="Body" id="Item.vlandian_woman_dress" />
+			<equipment slot="Leg" id="Item.ladys_shoe" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+
+	<!-- Khergit Equipment Rosters -->
+	<EquipmentRoster id="khergit_noble_male_battle" culture="Culture.khergit">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_lance_3_t5" />
+			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
+			<equipment slot="Weapon2" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.white_coat_over_mail" />
+			<equipment slot="Leg" id="Item.plated_strip_boots" />
+			<equipment slot="Gloves" id="Item.leather_gloves" />
+			<equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
+		</EquipmentSet>
+		<Flags IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="khergit_noble_male_civ" culture="Culture.khergit">
+		<EquipmentSet civilian="true">
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="Body" id="Item.khuzait_civil_coat" />
+			<equipment slot="Leg" id="Item.sturgia_boots_a" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="khergit_noble_female_battle" culture="Culture.khergit">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.western_spear_3_t3" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.coat_of_plates_over_mail" />
+			<equipment slot="Leg" id="Item.fine_town_boots" />
+			<equipment slot="Gloves" id="Item.mail_mitten" />
+			<equipment slot="Cape" id="Item.wrapped_scarf" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="khergit_noble_female_civ" culture="Culture.khergit">
+		<EquipmentSet civilian="true">
+			<equipment slot="Body" id="Item.vlandian_woman_dress" />
+			<equipment slot="Leg" id="Item.ladys_shoe" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+
+
+	<!-- Nords Equipment Rosters -->
+	<EquipmentRoster id="nords_noble_male_battle" culture="Culture.nords">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_lance_3_t5" />
+			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
+			<equipment slot="Weapon2" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.white_coat_over_mail" />
+			<equipment slot="Leg" id="Item.plated_strip_boots" />
+			<equipment slot="Gloves" id="Item.leather_gloves" />
+			<equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
+		</EquipmentSet>
+		<Flags IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="nords_noble_male_civ" culture="Culture.nords">
+		<EquipmentSet civilian="true">
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="Body" id="Item.khuzait_civil_coat" />
+			<equipment slot="Leg" id="Item.sturgia_boots_a" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="nords_noble_female_battle" culture="Culture.nords">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.western_spear_3_t3" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.coat_of_plates_over_mail" />
+			<equipment slot="Leg" id="Item.fine_town_boots" />
+			<equipment slot="Gloves" id="Item.mail_mitten" />
+			<equipment slot="Cape" id="Item.wrapped_scarf" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="nords_noble_female_civ" culture="Culture.nords">
+		<EquipmentSet civilian="true">
+			<equipment slot="Body" id="Item.vlandian_woman_dress" />
+			<equipment slot="Leg" id="Item.ladys_shoe" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+
+	<!-- Vaegir Equipment Rosters -->
+	<EquipmentRoster id="vaegir_noble_male_battle" culture="Culture.vaegir">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_lance_3_t5" />
+			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
+			<equipment slot="Weapon2" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.white_coat_over_mail" />
+			<equipment slot="Leg" id="Item.plated_strip_boots" />
+			<equipment slot="Gloves" id="Item.leather_gloves" />
+			<equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
+		</EquipmentSet>
+		<Flags IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="vaegir_noble_male_civ" culture="Culture.vaegir">
+		<EquipmentSet civilian="true">
+			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_sword_5_t5" />
+			<equipment slot="Body" id="Item.khuzait_civil_coat" />
+			<equipment slot="Leg" id="Item.sturgia_boots_a" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="vaegir_noble_female_battle" culture="Culture.vaegir">
+		<EquipmentSet>
+			<equipment slot="WeaponItemBeginSlot" id="Item.western_spear_3_t3" />
+			<equipment slot="NumAllWeaponSlots" id="Item.imperial_open_mail_coif" />
+			<equipment slot="Body" id="Item.coat_of_plates_over_mail" />
+			<equipment slot="Leg" id="Item.fine_town_boots" />
+			<equipment slot="Gloves" id="Item.mail_mitten" />
+			<equipment slot="Cape" id="Item.wrapped_scarf" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+	<EquipmentRoster id="vaegir_noble_female_civ" culture="Culture.vaegir">
+		<EquipmentSet civilian="true">
+			<equipment slot="Body" id="Item.vlandian_woman_dress" />
+			<equipment slot="Leg" id="Item.ladys_shoe" />
+			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
+			<equipment slot="HorseHarness" id="Item.light_harness" />
+		</EquipmentSet>
+		<Flags IsFemaleTemplate="true" IsCivilianTemplate="true" IsCombatantTemplate="true" IsNoncombatantTemplate="true" IsNobleTemplate="true" IsMediumTemplate="true" IsHeavyTemplate="true" IsFlamboyantTemplate="true" IsStoicTemplate="true" />
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="comingofage_kid_ger_cutscene_template"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.leather_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_swa_cutscene_template"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.leather_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_rhod_cutscene_template"
+		culture="Culture.rhodok">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.leather_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_cals_cutscene_template"
+		culture="Culture.calsea">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.leather_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_vaeg_cutscene_template"
+		culture="Culture.vaegir">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_nords_cutscene_template"
+		culture="Culture.nords">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_sar_cutscene_template"
+		culture="Culture.sarranid">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.aserai_civil_a" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_kher_cutscene_template"
+		culture="Culture.khergit">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_civil_coat_b" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+</EquipmentRosters>
