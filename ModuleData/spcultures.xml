@@ -90,10 +90,7 @@
 			<item
 				id="Item.sturgia_sword_5_t5" />
 		</banner_bearer_replacement_weapons>
-		<default_policies>
-			<policy
-				id="policy_feudal_inheritance" />
-		</default_policies>
+		<default_policies />
 		<male_names>
 			<name
 				name="{=jVPr0ZzB}Achyr" />
@@ -399,10 +396,7 @@
 			<item
 				id="Item.sturgia_sword_5_t5" />
 		</banner_bearer_replacement_weapons>
-		<default_policies>
-			<policy
-				id="policy_feudal_inheritance" />
-		</default_policies>
+		<default_policies />
 		<male_names>
 			<name
 				name="{=jVPr0ZzB}Achyr" />
@@ -707,10 +701,7 @@
 			<item
 				id="Item.vlandia_sword_5_t5" />
 		</banner_bearer_replacement_weapons>
-		<default_policies>
-			<policy
-				id="policy_feudal_inheritance" />
-		</default_policies>
+		<default_policies />
 		<male_names>
 			<name
 				name="{=fUQlCkCQ}Anbard" />
@@ -1016,10 +1007,7 @@
 			<item
 				id="Item.vlandia_sword_5_t5" />
 		</banner_bearer_replacement_weapons>
-		<default_policies>
-			<policy
-				id="policy_feudal_inheritance" />
-		</default_policies>
+		<default_policies />
 		<male_names>
 			<name
 				name="{=fUQlCkCQ}Anbard" />
@@ -1313,10 +1301,7 @@
 			<item
 				id="Item.vlandia_sword_5_t5" />
 		</banner_bearer_replacement_weapons>
-		<default_policies>
-			<policy
-				id="policy_feudal_inheritance" />
-		</default_policies>
+		<default_policies />
 		<male_names>
 			<name
 				name="{=fUQlCkCQ}Anbard" />
@@ -1610,10 +1595,7 @@
 			<item
 				id="Item.empire_sword_6_t5" />
 		</banner_bearer_replacement_weapons>
-		<default_policies>
-			<policy
-				id="policy_senate" />
-		</default_policies>
+		<default_policies />
 		<male_names>
 			<name
 				name="{=v9B50R0Q}Acarion" />
@@ -2441,12 +2423,7 @@
 			<item
 				id="Item.aserai_sword_5_t4" />
 		</banner_bearer_replacement_weapons>
-		<default_policies>
-			<policy
-				id="policy_council_of_the_commons" />
-			<policy
-				id="policy_senate" />
-		</default_policies>
+		<default_policies />
 		<male_names>
 			<name
 				name="{=n2FdWOtE}Adram" />
@@ -3000,12 +2977,7 @@
 			<item
 				id="Item.khuzait_sword_4_t4" />
 		</banner_bearer_replacement_weapons>
-		<default_policies>
-			<policy
-				id="policy_grazing_rights" />
-			<policy
-				id="policy_sacred_majesty" />
-		</default_policies>
+		<default_policies />
 		<male_names>
 			<name
 				name="{=AWM3jbaZ}Ajin" />

@@ -31,9 +31,7 @@
 		</relationships>
 		<policies>
 			<policy
-				id="policy_feudal_inheritance" />
-			<policy
-				id="policy_royal_guard" />
+				id="policy_royal_commissions" />
 			<policy
 				id="policy_citizenship" />
 		</policies>
@@ -69,9 +67,7 @@
 		</relationships>
 		<policies>
 			<policy
-				id="policy_feudal_inheritance" />
-			<policy
-				id="policy_royal_guard" />
+				id="policy_royal_commissions" />
 			<policy
 				id="policy_citizenship" />
 		</policies>
@@ -107,9 +103,7 @@
 		</relationships>
 		<policies>
 			<policy
-				id="policy_feudal_inheritance" />
-			<policy
-				id="policy_royal_guard" />
+				id="policy_royal_commissions" />
 			<policy
 				id="policy_citizenship" />
 		</policies>
@@ -150,9 +144,7 @@
 		</relationships>
 		<policies>
 			<policy
-				id="policy_feudal_inheritance" />
-			<policy
-				id="policy_royal_guard" />
+				id="policy_royal_commissions" />
 			<policy
 				id="policy_citizenship" />
 		</policies>
@@ -192,9 +184,7 @@
 		</relationships>
 		<policies>
 			<policy
-				id="policy_feudal_inheritance" />
-			<policy
-				id="policy_royal_guard" />
+				id="policy_royal_commissions" />
 			<policy
 				id="policy_citizenship" />
 		</policies>
@@ -230,9 +220,7 @@
 		</relationships>
 		<policies>
 			<policy
-				id="policy_feudal_inheritance" />
-			<policy
-				id="policy_royal_guard" />
+				id="policy_royal_commissions" />
 			<policy
 				id="policy_citizenship" />
 		</policies>
@@ -268,9 +256,7 @@
 		</relationships>
 		<policies>
 			<policy
-				id="policy_feudal_inheritance" />
-			<policy
-				id="policy_royal_guard" />
+				id="policy_royal_commissions" />
 			<policy
 				id="policy_citizenship" />
 		</policies>
@@ -306,9 +292,7 @@
 		</relationships>
 		<policies>
 			<policy
-				id="policy_feudal_inheritance" />
-			<policy
-				id="policy_royal_guard" />
+				id="policy_royal_commissions" />
 			<policy
 				id="policy_citizenship" />
 		</policies>

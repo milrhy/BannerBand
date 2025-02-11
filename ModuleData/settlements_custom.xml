@@ -2611,7 +2611,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- Aserai - seven towns -->
-	<Settlement id="castle_A1" name="{=Settlements.Settlement.name.castle_A1}Tubilis Castle" owner="Faction.clan_aserai_1" posX="274.181" posY="272.167" culture="Culture.aserai" gate_posX="275.4893" gate_posY="271.7934">
+	<Settlement id="castle_A1" name="{=Settlements.Settlement.name.castle_A1}Tubilis Castle" owner="Faction.clan_aserai_1" posX="274.181" posY="272.167" culture="Culture.sarranid" gate_posX="275.4893" gate_posY="271.7934">
 		<Components>
 			<Town id="castle_comp_A1" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="460"/>
 		</Components>
@@ -2621,7 +2621,7 @@
 			<Location id="prison" scene_name="aserai_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_A1_1" name="{=Settlements.Settlement.name.castle_village_A1_1}Tubilis" posX="251.632" posY="263.255" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A1_1" name="{=Settlements.Settlement.name.castle_village_A1_1}Tubilis" posX="251.632" posY="263.255" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A1_1" village_type="VillageType.fisherman" hearth="148" bound="Settlement.castle_A1" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2634,7 +2634,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_A2" name="{=Settlements.Settlement.name.castle_A2}Sahel Castle" owner="Faction.clan_aserai_3" posX="617.677" posY="127.096" culture="Culture.aserai" gate_posX="617.5756" gate_posY="125.2101">
+	<Settlement id="castle_A2" name="{=Settlements.Settlement.name.castle_A2}Sahel Castle" owner="Faction.clan_aserai_3" posX="617.677" posY="127.096" culture="Culture.sarranid" gate_posX="617.5756" gate_posY="125.2101">
 		<Components>
 			<Town id="castle_comp_A2" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="890"/>
 		</Components>
@@ -2644,7 +2644,7 @@
 			<Location id="prison" scene_name="aserai_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_A2_1" name="{=Settlements.Settlement.name.castle_village_A2_1}Sahel" posX="639.009" posY="117.223" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A2_1" name="{=Settlements.Settlement.name.castle_village_A2_1}Sahel" posX="639.009" posY="117.223" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A2_1" village_type="VillageType.wheat_farm" hearth="401" gate_rotation="0.108" bound="Settlement.castle_A2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2657,7 +2657,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_A2_2" name="{=Settlements.Settlement.name.castle_village_A2_2}Asmait" posX="622.677" posY="107.025" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A2_2" name="{=Settlements.Settlement.name.castle_village_A2_2}Asmait" posX="622.677" posY="107.025" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A2_2" village_type="VillageType.date_farm" hearth="401" gate_rotation="0.108" bound="Settlement.castle_A2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2670,7 +2670,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_A3" name="{=Settlements.Settlement.name.castle_A3}Ain Baliq Castle" owner="Faction.clan_aserai_7" posX="323.167" posY="186.28" culture="Culture.aserai" gate_posX="322.2627" gate_posY="187.7981">
+	<Settlement id="castle_A3" name="{=Settlements.Settlement.name.castle_A3}Ain Baliq Castle" owner="Faction.clan_aserai_7" posX="323.167" posY="186.28" culture="Culture.sarranid" gate_posX="322.2627" gate_posY="187.7981">
 		<Components>
 			<Town id="castle_comp_A3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="980"/>
 		</Components>
@@ -2680,7 +2680,7 @@
 			<Location id="prison" scene_name="aserai_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_A3_1" name="{=Settlements.Settlement.name.castle_village_A3_1}Ain Baliq" posX="283.666" posY="187.29" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A3_1" name="{=Settlements.Settlement.name.castle_village_A3_1}Ain Baliq" posX="283.666" posY="187.29" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A3_1" village_type="VillageType.desert_horse_ranch" hearth="375" bound="Settlement.castle_A3" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2693,7 +2693,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_A3_2" name="{=Settlements.Settlement.name.castle_village_A3_2}Deir Hawa" posX="344.876" posY="192.836" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A3_2" name="{=Settlements.Settlement.name.castle_village_A3_2}Deir Hawa" posX="344.876" posY="192.836" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A3_2" village_type="VillageType.silver_mine" hearth="375" bound="Settlement.castle_A3" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2706,7 +2706,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_A4" name="{=Settlements.Settlement.name.castle_A4}Medeni Castle" owner="Faction.clan_aserai_2" posX="444.093" posY="150.416" culture="Culture.aserai" gate_posX="445.8025" gate_posY="150.8632">
+	<Settlement id="castle_A4" name="{=Settlements.Settlement.name.castle_A4}Medeni Castle" owner="Faction.clan_aserai_2" posX="444.093" posY="150.416" culture="Culture.sarranid" gate_posX="445.8025" gate_posY="150.8632">
 		<Components>
 			<Town id="castle_comp_A4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="750"/>
 		</Components>
@@ -2716,7 +2716,7 @@
 			<Location id="prison" scene_name="aserai_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_A4_1" name="{=Settlements.Settlement.name.castle_village_A4_1}Medeni" posX="436.693" posY="178.229" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A4_1" name="{=Settlements.Settlement.name.castle_village_A4_1}Medeni" posX="436.693" posY="178.229" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A4_1" village_type="VillageType.date_farm" hearth="540" bound="Settlement.castle_A4" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2729,7 +2729,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_A4_2" name="{=Settlements.Settlement.name.castle_village_A4_2}Qidnar" posX="423.748" posY="135.275" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A4_2" name="{=Settlements.Settlement.name.castle_village_A4_2}Qidnar" posX="423.748" posY="135.275" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A4_2" village_type="VillageType.date_farm" hearth="540" bound="Settlement.castle_A4" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2742,7 +2742,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_A5" name="{=Settlements.Settlement.name.castle_A5}Jamayeh Castle" owner="Faction.clan_aserai_4" posX="516.555" posY="130.572" culture="Culture.aserai" gate_posX="514.7328" gate_posY="130.8227">
+	<Settlement id="castle_A5" name="{=Settlements.Settlement.name.castle_A5}Jamayeh Castle" owner="Faction.clan_aserai_4" posX="516.555" posY="130.572" culture="Culture.sarranid" gate_posX="514.7328" gate_posY="130.8227">
 		<Components>
 			<Town id="castle_comp_A5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="610"/>
 		</Components>
@@ -2752,7 +2752,7 @@
 			<Location id="prison" scene_name="aserai_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_A5_1" name="{=Settlements.Settlement.name.castle_village_A5_1}Jamayeh" posX="530.507" posY="139.644" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A5_1" name="{=Settlements.Settlement.name.castle_village_A5_1}Jamayeh" posX="530.507" posY="139.644" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A5_1" village_type="VillageType.olive_trees" hearth="610" bound="Settlement.castle_A5" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2765,7 +2765,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_A6" name="{=Settlements.Settlement.name.castle_A6}Shibal Zumr Castle" owner="Faction.clan_aserai_3" posX="666.93" posY="245.247" culture="Culture.aserai" gate_posX="665.921" gate_posY="246.1539">
+	<Settlement id="castle_A6" name="{=Settlements.Settlement.name.castle_A6}Shibal Zumr Castle" owner="Faction.clan_aserai_3" posX="666.93" posY="245.247" culture="Culture.sarranid" gate_posX="665.921" gate_posY="246.1539">
 		<Components>
 			<Town id="castle_comp_A6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="570"/>
 		</Components>
@@ -2775,7 +2775,7 @@
 			<Location id="prison" scene_name="aserai_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_A6_1" name="{=Settlements.Settlement.name.castle_village_A6_1}Shibal Zumr" posX="679.928" posY="245.814" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A6_1" name="{=Settlements.Settlement.name.castle_village_A6_1}Shibal Zumr" posX="679.928" posY="245.814" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A6_1" village_type="VillageType.wheat_farm" hearth="120" gate_rotation="0.508" bound="Settlement.castle_A6" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2788,7 +2788,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_A7" name="{=Settlements.Settlement.name.castle_A7}Uqba Castle" owner="Faction.clan_aserai_7" posX="357.485" posY="216.349" culture="Culture.aserai" gate_posX="358.5762" gate_posY="214.9592">
+	<Settlement id="castle_A7" name="{=Settlements.Settlement.name.castle_A7}Uqba Castle" owner="Faction.clan_aserai_7" posX="357.485" posY="216.349" culture="Culture.sarranid" gate_posX="358.5762" gate_posY="214.9592">
 		<Components>
 			<Town id="castle_comp_A7" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="550"/>
 		</Components>
@@ -2798,7 +2798,7 @@
 			<Location id="prison" scene_name="aserai_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_A7_1" name="{=Settlements.Settlement.name.castle_village_A7_1}Uqba" posX="378.735" posY="220.777" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A7_1" name="{=Settlements.Settlement.name.castle_village_A7_1}Uqba" posX="378.735" posY="220.777" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A7_1" village_type="VillageType.date_farm" hearth="477" bound="Settlement.castle_A7" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2811,7 +2811,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_A7_2" name="{=Settlements.Settlement.name.castle_village_A7_2}Bunqaz" posX="322.492" posY="210.122" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A7_2" name="{=Settlements.Settlement.name.castle_village_A7_2}Bunqaz" posX="322.492" posY="210.122" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A7_2" village_type="VillageType.olive_trees" hearth="477" bound="Settlement.castle_A7" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2824,7 +2824,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_A8" name="{=Settlements.Settlement.name.castle_A8}Tamnuh Castle" owner="Faction.clan_aserai_8" posX="650.405" posY="210.393" culture="Culture.aserai" gate_posX="649.2784" gate_posY="211.1711">
+	<Settlement id="castle_A8" name="{=Settlements.Settlement.name.castle_A8}Tamnuh Castle" owner="Faction.clan_aserai_8" posX="650.405" posY="210.393" culture="Culture.sarranid" gate_posX="649.2784" gate_posY="211.1711">
 		<Components>
 			<Town id="castle_comp_A8" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="590"/>
 		</Components>
@@ -2834,7 +2834,7 @@
 			<Location id="prison" scene_name="aserai_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_A8_1" name="{=Settlements.Settlement.name.castle_village_A8_1}Tamnuh" posX="641.98" posY="241.732" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A8_1" name="{=Settlements.Settlement.name.castle_village_A8_1}Tamnuh" posX="641.98" posY="241.732" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A8_1" village_type="VillageType.clay_mine" hearth="352" gate_rotation="0.008" bound="Settlement.castle_A8" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2847,7 +2847,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_A9" name="{=Settlements.Settlement.name.castle_A9}Barihal Castle" owner="Faction.clan_aserai_9" posX="339.854" posY="156.395" culture="Culture.aserai" gate_posX="338.7608" gate_posY="155.534">
+	<Settlement id="castle_A9" name="{=Settlements.Settlement.name.castle_A9}Barihal Castle" owner="Faction.clan_aserai_9" posX="339.854" posY="156.395" culture="Culture.sarranid" gate_posX="338.7608" gate_posY="155.534">
 		<Components>
 			<Town id="castle_comp_A9" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="610"/>
 		</Components>
@@ -2857,7 +2857,7 @@
 			<Location id="prison" scene_name="aserai_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_A9_1" name="{=Settlements.Settlement.name.castle_village_A9_1}Barihal" posX="357.184" posY="162.152" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A9_1" name="{=Settlements.Settlement.name.castle_village_A9_1}Barihal" posX="357.184" posY="162.152" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A9_1" village_type="VillageType.desert_horse_ranch" hearth="202" gate_rotation="0.008" bound="Settlement.castle_A9" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2871,7 +2871,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- Shariz, Banu Qild  -->
-	<Settlement id="town_A1" name="{=Settlements.Settlement.name.town_A1}Shariz" owner="Faction.clan_aserai_1" posX="299.553" posY="264.853" culture="Culture.aserai" gate_posX="300.6186" gate_posY="261.9282" text="{=!}Placeholder.">
+	<Settlement id="town_A1" name="{=Settlements.Settlement.name.town_A1}Shariz" owner="Faction.clan_aserai_1" posX="299.553" posY="264.853" culture="Culture.sarranid" gate_posX="300.6186" gate_posY="261.9282" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_A1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_aserai_2" wait_mesh="wait_aserai_town" gate_rotation="0.108" prosperity="4000"/>
 		</Components>
@@ -2892,7 +2892,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A1_1" name="{=Settlements.Settlement.name.village_A1_1}Tasheba" posX="314.183" posY="256.015" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A1_1" name="{=Settlements.Settlement.name.village_A1_1}Tasheba" posX="314.183" posY="256.015" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A1_1" village_type="VillageType.fisherman" hearth="300" bound="Settlement.town_A1" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2905,7 +2905,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A1_2" name="{=Settlements.Settlement.name.village_A1_2}Baq" posX="296.806" posY="241.59" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A1_2" name="{=Settlements.Settlement.name.village_A1_2}Baq" posX="296.806" posY="241.59" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A1_2" village_type="VillageType.olive_trees" hearth="235" bound="Settlement.town_A1" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2918,7 +2918,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_A1_2" name="{=Settlements.Settlement.name.castle_village_A1_2}Fanab" posX="272.077" posY="253.368" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A1_2" name="{=Settlements.Settlement.name.castle_village_A1_2}Fanab" posX="272.077" posY="253.368" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A1_2" village_type="VillageType.olive_trees" hearth="137" bound="Settlement.castle_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2931,7 +2931,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A1_4" name="{=Settlements.Settlement.name.village_A1_4}Hiblet" posX="279.042" posY="231.398" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A1_4" name="{=Settlements.Settlement.name.village_A1_4}Hiblet" posX="279.042" posY="231.398" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A1_4" village_type="VillageType.date_farm" hearth="183" bound="Settlement.town_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2945,7 +2945,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- Husn Fulq, Qild-->
-	<Settlement id="town_A2" name="{=Settlements.Settlement.name.town_A2}Husn Fulq" owner="Faction.clan_aserai_2" posX="686.263" posY="234.344" culture="Culture.aserai" gate_posX="686.6509" gate_posY="235.8163" text="{=!}Placeholder.">
+	<Settlement id="town_A2" name="{=Settlements.Settlement.name.town_A2}Husn Fulq" owner="Faction.clan_aserai_2" posX="686.263" posY="234.344" culture="Culture.sarranid" gate_posX="686.6509" gate_posY="235.8163" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_A2" is_castle="false" level="3" background_crop_position="0.235" background_mesh="menu_aserai_1" wait_mesh="wait_aserai_town" gate_rotation="0.808" prosperity="4200"/>
 		</Components>
@@ -2966,7 +2966,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_A6_2" name="{=Settlements.Settlement.name.castle_village_A6_2}Lamesa" posX="659.674" posY="230.062" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A6_2" name="{=Settlements.Settlement.name.castle_village_A6_2}Lamesa" posX="659.674" posY="230.062" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A6_2" village_type="VillageType.desert_horse_ranch" hearth="327" bound="Settlement.castle_A6" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2979,7 +2979,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A2_2" name="{=Settlements.Settlement.name.village_A2_2}Abu Khih" posX="706.23" posY="202.192" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A2_2" name="{=Settlements.Settlement.name.village_A2_2}Abu Khih" posX="706.23" posY="202.192" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A2_2" village_type="VillageType.date_farm" hearth="297" bound="Settlement.town_A2" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -2992,7 +2992,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A2_3" name="{=Settlements.Settlement.name.village_A2_3}Hoqqa" posX="725.889" posY="249.251" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A2_3" name="{=Settlements.Settlement.name.village_A2_3}Hoqqa" posX="725.889" posY="249.251" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A2_3" village_type="VillageType.desert_horse_ranch" hearth="243" bound="Settlement.town_A2" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3005,7 +3005,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="town_A3" name="{=Settlements.Settlement.name.town_A3}Bariyye" owner="Faction.clan_aserai_4" posX="493.537" posY="111.743" culture="Culture.aserai" gate_posX="492.1279" gate_posY="114.4126" text="{=!}Placeholder.">
+	<Settlement id="town_A3" name="{=Settlements.Settlement.name.town_A3}Bariyye" owner="Faction.clan_aserai_4" posX="493.537" posY="111.743" culture="Culture.sarranid" gate_posX="492.1279" gate_posY="114.4126" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_A3" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.508" prosperity="1800"/>
 		</Components>
@@ -3026,7 +3026,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A3_1" name="{=Settlements.Settlement.name.village_A3_1}Abba" posX="474.865" posY="101.265" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A3_1" name="{=Settlements.Settlement.name.village_A3_1}Abba" posX="474.865" posY="101.265" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A3_1" village_type="VillageType.wheat_farm" hearth="282" bound="Settlement.town_A3" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3039,7 +3039,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_A5_2" name="{=Settlements.Settlement.name.castle_village_A5_2}Hunab" posX="493.275" posY="130.275" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A5_2" name="{=Settlements.Settlement.name.castle_village_A5_2}Hunab" posX="493.275" posY="130.275" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A5_2" village_type="VillageType.desert_horse_ranch" hearth="370" bound="Settlement.castle_A5" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3052,7 +3052,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A3_3" name="{=Settlements.Settlement.name.village_A3_3}Bir Seif" posX="522.539" posY="111.056" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A3_3" name="{=Settlements.Settlement.name.village_A3_3}Bir Seif" posX="522.539" posY="111.056" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A3_3" village_type="VillageType.clay_mine" hearth="131" gate_rotation="0.008" bound="Settlement.town_A3" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3065,7 +3065,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="town_A4" name="{=Settlements.Settlement.name.town_A4}Ahmerrad" owner="Faction.clan_aserai_2" posX="615.08" posY="180.537" culture="Culture.aserai" gate_posX="613.8578" gate_posY="177.6383" text="{=!}Placeholder.">
+	<Settlement id="town_A4" name="{=Settlements.Settlement.name.town_A4}Ahmerrad" owner="Faction.clan_aserai_2" posX="615.08" posY="180.537" culture="Culture.sarranid" gate_posX="613.8578" gate_posY="177.6383" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_A4" is_castle="false" level="1" background_crop_position="0.241" background_mesh="menu_aserai_1" wait_mesh="wait_aserai_town" gate_rotation="0.208" prosperity="4500"/>
 		</Components>
@@ -3086,7 +3086,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A4_1" name="{=Settlements.Settlement.name.village_A4_1}Qablab" posX="591.506" posY="153.62" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A4_1" name="{=Settlements.Settlement.name.village_A4_1}Qablab" posX="591.506" posY="153.62" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A4_1" village_type="VillageType.salt_mine" hearth="502" gate_rotation="0.208" bound="Settlement.town_A4" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3099,7 +3099,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A4_2" name="{=Settlements.Settlement.name.village_A4_2}Mussum" posX="630.013" posY="167.928" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A4_2" name="{=Settlements.Settlement.name.village_A4_2}Mussum" posX="630.013" posY="167.928" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A4_2" village_type="VillageType.date_farm" hearth="454" gate_rotation="0.108" bound="Settlement.town_A4" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3112,7 +3112,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_A8_2" name="{=Settlements.Settlement.name.castle_village_A8_2}Kuqa" posX="652.9301" posY="189.194" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A8_2" name="{=Settlements.Settlement.name.castle_village_A8_2}Kuqa" posX="652.9301" posY="189.194" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A8_2" village_type="VillageType.date_farm" hearth="454" gate_rotation="0.108" bound="Settlement.castle_A8" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3125,7 +3125,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A4_4" name="{=Settlements.Settlement.name.village_A4_4}Doqa" posX="630.642" posY="182.594" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A4_4" name="{=Settlements.Settlement.name.village_A4_4}Doqa" posX="630.642" posY="182.594" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A4_4" village_type="VillageType.fisherman" hearth="454" gate_rotation="0.108" bound="Settlement.town_A4" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3139,7 +3139,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- eastern towns -->
-	<Settlement id="town_A5" name="{=Settlements.Settlement.name.town_A5}Hubyar" owner="Faction.clan_aserai_3" posX="560.451" posY="107.058" culture="Culture.aserai" gate_posX="557.2956" gate_posY="108.9494" text="{=!}Placeholder.">
+	<Settlement id="town_A5" name="{=Settlements.Settlement.name.town_A5}Hubyar" owner="Faction.clan_aserai_3" posX="560.451" posY="107.058" culture="Culture.sarranid" gate_posX="557.2956" gate_posY="108.9494" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_A5" is_castle="false" level="2" background_crop_position="0.179" background_mesh="menu_aserai_2" wait_mesh="wait_aserai_town" gate_rotation="0.908" prosperity="3200"/>
 		</Components>
@@ -3160,7 +3160,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A5_1" name="{=Settlements.Settlement.name.village_A5_1}Mahloul" posX="590.001" posY="117.982" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A5_1" name="{=Settlements.Settlement.name.village_A5_1}Mahloul" posX="590.001" posY="117.982" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A5_1" village_type="VillageType.desert_horse_ranch" hearth="231" bound="Settlement.town_A5" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3173,7 +3173,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A5_2" name="{=Settlements.Settlement.name.village_A5_2}Liwas" posX="537.583" posY="111.158" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A5_2" name="{=Settlements.Settlement.name.village_A5_2}Liwas" posX="537.583" posY="111.158" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A5_2" village_type="VillageType.desert_horse_ranch" hearth="150" bound="Settlement.town_A5" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3186,7 +3186,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A5_3" name="{=Settlements.Settlement.name.village_A5_3}Waltas" posX="545.949" posY="129.287" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A5_3" name="{=Settlements.Settlement.name.village_A5_3}Waltas" posX="545.949" posY="129.287" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A5_3" village_type="VillageType.flax_plant" hearth="155" bound="Settlement.town_A5" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3199,7 +3199,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="town_A6" name="{=Settlements.Settlement.name.town_A6}Durquba" owner="Faction.clan_aserai_1" posX="401.068" posY="207.927" culture="Culture.aserai" gate_posX="403.1414" gate_posY="205.9388" text="{=!}Placeholder.">
+	<Settlement id="town_A6" name="{=Settlements.Settlement.name.town_A6}Durquba" owner="Faction.clan_aserai_1" posX="401.068" posY="207.927" culture="Culture.sarranid" gate_posX="403.1414" gate_posY="205.9388" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_A6" is_castle="false" level="3" background_crop_position="0.401" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.408" prosperity="4300"/>
 		</Components>
@@ -3220,7 +3220,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A6_1" name="{=Settlements.Settlement.name.village_A6_1}Mijayit" posX="410.054" posY="178.898" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A6_1" name="{=Settlements.Settlement.name.village_A6_1}Mijayit" posX="410.054" posY="178.898" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A6_1" village_type="VillageType.wheat_farm" hearth="330" gate_rotation="0.008" bound="Settlement.town_A6" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3233,7 +3233,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A6_2" name="{=Settlements.Settlement.name.village_A6_2}Hamoshawat" posX="394.921" posY="177.046" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A6_2" name="{=Settlements.Settlement.name.village_A6_2}Hamoshawat" posX="394.921" posY="177.046" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A6_2" village_type="VillageType.wheat_farm" hearth="210" gate_rotation="0.508" bound="Settlement.town_A6" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3246,7 +3246,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A6_3" name="{=Settlements.Settlement.name.village_A6_3}Jahasim" posX="390.38" posY="216.602" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A6_3" name="{=Settlements.Settlement.name.village_A6_3}Jahasim" posX="390.38" posY="216.602" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A6_3" village_type="VillageType.fisherman" hearth="610" bound="Settlement.town_A6" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3259,7 +3259,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A6_4" name="{=Settlements.Settlement.name.village_A6_4}Nahlan" posX="404.877" posY="160.318" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A6_4" name="{=Settlements.Settlement.name.village_A6_4}Nahlan" posX="404.877" posY="160.318" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A6_4" village_type="VillageType.wheat_farm" hearth="220" bound="Settlement.town_A6" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3272,7 +3272,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="town_A7" name="{=Settlements.Settlement.name.town_A7}Askar" owner="Faction.clan_aserai_5" posX="379.425" posY="118.472" culture="Culture.aserai" gate_posX="380.7408" gate_posY="119.9328" text="{=!}Placeholder.">
+	<Settlement id="town_A7" name="{=Settlements.Settlement.name.town_A7}Askar" owner="Faction.clan_aserai_5" posX="379.425" posY="118.472" culture="Culture.sarranid" gate_posX="380.7408" gate_posY="119.9328" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_A7" is_castle="false" level="3" background_crop_position="0.401" background_mesh="menu_aserai_1" wait_mesh="wait_aserai_town" gate_rotation="0.408" prosperity="2100"/>
 		</Components>
@@ -3293,7 +3293,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_A9_2" name="{=Settlements.Settlement.name.castle_village_A9_2}Wadar" posX="355.391" posY="140.124" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="castle_village_A9_2" name="{=Settlements.Settlement.name.castle_village_A9_2}Wadar" posX="355.391" posY="140.124" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_A9_2" village_type="VillageType.desert_horse_ranch" hearth="305" bound="Settlement.castle_A9" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3306,7 +3306,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A7_2" name="{=Settlements.Settlement.name.village_A7_2}Bait Hatif" posX="421.323" posY="106.433" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A7_2" name="{=Settlements.Settlement.name.village_A7_2}Bait Hatif" posX="421.323" posY="106.433" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A7_2" village_type="VillageType.desert_horse_ranch" hearth="219" bound="Settlement.town_A7" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3319,7 +3319,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A7_3" name="{=Settlements.Settlement.name.village_A7_3}Mabwaz" posX="413.587" posY="124.973" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A7_3" name="{=Settlements.Settlement.name.village_A7_3}Mabwaz" posX="413.587" posY="124.973" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A7_3" village_type="VillageType.wheat_farm" hearth="235" gate_rotation="0.508" bound="Settlement.town_A7" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3332,7 +3332,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A7_4" name="{=Settlements.Settlement.name.village_A7_4}Zalm" posX="390.254" posY="97.643" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A7_4" name="{=Settlements.Settlement.name.village_A7_4}Zalm" posX="390.254" posY="97.643" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A7_4" village_type="VillageType.wheat_farm" hearth="258" gate_rotation="0.508" bound="Settlement.town_A7" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3345,7 +3345,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="town_A8" name="{=Settlements.Settlement.name.town_A8}Qasira" owner="Faction.clan_aserai_6" posX="490.694" posY="163.097" culture="Culture.aserai" gate_posX="487.2882" gate_posY="161.0079" text="{=!}Placeholder.">
+	<Settlement id="town_A8" name="{=Settlements.Settlement.name.town_A8}Qasira" owner="Faction.clan_aserai_6" posX="490.694" posY="163.097" culture="Culture.sarranid" gate_posX="487.2882" gate_posY="161.0079" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_A8" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_aserai_2" wait_mesh="wait_aserai_town" gate_rotation="0.508" prosperity="3500"/>
 		</Components>
@@ -3366,7 +3366,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A8_1" name="{=Settlements.Settlement.name.village_A8_1}Ezbet Nahul" posX="509.571" posY="147.601" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A8_1" name="{=Settlements.Settlement.name.village_A8_1}Ezbet Nahul" posX="509.571" posY="147.601" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A8_1" village_type="VillageType.wheat_farm" hearth="326" gate_rotation="0.108" bound="Settlement.town_A8" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -3379,7 +3379,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_A8_2" name="{=Settlements.Settlement.name.village_A8_2}Abghan" posX="465.728" posY="168.624" culture="Culture.aserai" text="{=!}Placeholder.">
+	<Settlement id="village_A8_2" name="{=Settlements.Settlement.name.village_A8_2}Abghan" posX="465.728" posY="168.624" culture="Culture.sarranid" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_A8_2" village_type="VillageType.fisherman" hearth="233" gate_rotation="0.108" bound="Settlement.town_A8" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai"/>
 		</Components>
@@ -4780,7 +4780,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- Khuzaits, 6 cities, 19 villages, 5 castles, 3.16 villages per town, 26% castle ratio  -->
-	<Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Usek Castle" owner="Faction.clan_khuzait_3" posX="704.358" posY="451.659" culture="Culture.khuzait" gate_posX="706.3667" gate_posY="451.9997">
+	<Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Usek Castle" owner="Faction.clan_khuzait_3" posX="704.358" posY="451.659" culture="Culture.khergit" gate_posX="706.3667" gate_posY="451.9997">
 		<Components>
 			<Town id="castle_comp_K1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="420"/>
 		</Components>
@@ -4790,7 +4790,7 @@
 			<Location id="prison" scene_name="khuzait_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_K1_1" name="{=Settlements.Settlement.name.castle_village_K1_1}Usek" posX="690.542" posY="441.721" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K1_1" name="{=Settlements.Settlement.name.castle_village_K1_1}Usek" posX="690.542" posY="441.721" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K1_1" village_type="VillageType.sheep_farm" hearth="130" gate_rotation="0.508" bound="Settlement.castle_K1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -4803,7 +4803,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_K1_2" name="{=Settlements.Settlement.name.castle_village_K1_2}Esme" posX="717.091" posY="465.939" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K1_2" name="{=Settlements.Settlement.name.castle_village_K1_2}Esme" posX="717.091" posY="465.939" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K1_2" village_type="VillageType.steppe_horse_ranch" hearth="106" gate_rotation="0.508" bound="Settlement.castle_K1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -4816,7 +4816,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_K2" name="{=Settlements.Settlement.name.castle_K2}Akiser Castle" owner="Faction.clan_khuzait_4" posX="709.885" posY="371.244" culture="Culture.khuzait" gate_posX="707.9659" gate_posY="371.5294">
+	<Settlement id="castle_K2" name="{=Settlements.Settlement.name.castle_K2}Akiser Castle" owner="Faction.clan_khuzait_4" posX="709.885" posY="371.244" culture="Culture.khergit" gate_posX="707.9659" gate_posY="371.5294">
 		<Components>
 			<Town id="castle_comp_K2" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="480"/>
 		</Components>
@@ -4826,7 +4826,7 @@
 			<Location id="prison" scene_name="khuzait_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_K2_1" name="{=Settlements.Settlement.name.castle_village_K2_1}Akiser" posX="713.851" posY="397.271" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K2_1" name="{=Settlements.Settlement.name.castle_village_K2_1}Akiser" posX="713.851" posY="397.271" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K2_1" village_type="VillageType.iron_mine" hearth="194" gate_rotation="0.508" bound="Settlement.castle_K2" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -4839,7 +4839,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_K3" name="{=Settlements.Settlement.name.castle_K3}Hakkun Castle" owner="Faction.clan_khuzait_8" posX="721.218" posY="410.942" culture="Culture.khuzait" gate_posX="722.9106" gate_posY="410.3058">
+	<Settlement id="castle_K3" name="{=Settlements.Settlement.name.castle_K3}Hakkun Castle" owner="Faction.clan_khuzait_8" posX="721.218" posY="410.942" culture="Culture.khergit" gate_posX="722.9106" gate_posY="410.3058">
 		<Components>
 			<Town id="castle_comp_K3" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="660"/>
 		</Components>
@@ -4849,7 +4849,7 @@
 			<Location id="prison" scene_name="khuzait_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_K3_1" name="{=Settlements.Settlement.name.castle_village_K3_1}Hakkun" posX="708.536" posY="417.264" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K3_1" name="{=Settlements.Settlement.name.castle_village_K3_1}Hakkun" posX="708.536" posY="417.264" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K3_1" village_type="VillageType.silver_mine" hearth="132" gate_rotation="0.508" bound="Settlement.castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -4862,7 +4862,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_K4" name="{=Settlements.Settlement.name.castle_K4}Tepes Castle" owner="Faction.clan_khuzait_1" posX="710.073" posY="498.92" culture="Culture.khuzait" gate_posX="710.8811" gate_posY="500.6931">
+	<Settlement id="castle_K4" name="{=Settlements.Settlement.name.castle_K4}Tepes Castle" owner="Faction.clan_khuzait_1" posX="710.073" posY="498.92" culture="Culture.khergit" gate_posX="710.8811" gate_posY="500.6931">
 		<Components>
 			<Town id="castle_comp_K4" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="530"/>
 		</Components>
@@ -4872,7 +4872,7 @@
 			<Location id="prison" scene_name="khuzait_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_K4_1" name="{=Settlements.Settlement.name.castle_village_K4_1}Tepes" posX="698.84" posY="500.487" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K4_1" name="{=Settlements.Settlement.name.castle_village_K4_1}Tepes" posX="698.84" posY="500.487" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K4_1" village_type="VillageType.lumberjack" hearth="465" gate_rotation="0.508" bound="Settlement.castle_K4" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -4885,7 +4885,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_K5" name="{=Settlements.Settlement.name.castle_K5}Khimli Castle" owner="Faction.clan_khuzait_7" posX="746.521" posY="472.011" culture="Culture.khuzait" gate_posX="744.9202" gate_posY="472.3744">
+	<Settlement id="castle_K5" name="{=Settlements.Settlement.name.castle_K5}Khimli Castle" owner="Faction.clan_khuzait_7" posX="746.521" posY="472.011" culture="Culture.khergit" gate_posX="744.9202" gate_posY="472.3744">
 		<Components>
 			<Town id="castle_comp_K5" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="520"/>
 		</Components>
@@ -4895,7 +4895,7 @@
 			<Location id="prison" scene_name="khuzait_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_K5_1" name="{=Settlements.Settlement.name.castle_village_K5_1}Khimli" posX="740.446" posY="484.562" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K5_1" name="{=Settlements.Settlement.name.castle_village_K5_1}Khimli" posX="740.446" posY="484.562" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K5_1" village_type="VillageType.clay_mine" hearth="363" gate_rotation="0.508" bound="Settlement.castle_K5" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -4908,7 +4908,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_K6" name="{=Settlements.Settlement.name.castle_K6}Dinar Castle" owner="Faction.clan_khuzait_6" posX="695.454" posY="573.924" culture="Culture.khuzait" gate_posX="693.9964" gate_posY="572.9048">
+	<Settlement id="castle_K6" name="{=Settlements.Settlement.name.castle_K6}Dinar Castle" owner="Faction.clan_khuzait_6" posX="695.454" posY="573.924" culture="Culture.khergit" gate_posX="693.9964" gate_posY="572.9048">
 		<Components>
 			<Town id="castle_comp_K6" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="620"/>
 		</Components>
@@ -4918,7 +4918,7 @@
 			<Location id="prison" scene_name="khuzait_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_K6_1" name="{=Settlements.Settlement.name.castle_village_K6_1}Dinar" posX="719.816" posY="580.276" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K6_1" name="{=Settlements.Settlement.name.castle_village_K6_1}Dinar" posX="719.816" posY="580.276" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K6_1" village_type="VillageType.sheep_farm" hearth="240" gate_rotation="0.508" bound="Settlement.castle_K6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -4931,7 +4931,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_K6_2" name="{=Settlements.Settlement.name.castle_village_K6_2}Karahalli" posX="692.123" posY="588.924" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K6_2" name="{=Settlements.Settlement.name.castle_village_K6_2}Karahalli" posX="692.123" posY="588.924" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K6_2" village_type="VillageType.sheep_farm" hearth="415" gate_rotation="0.508" bound="Settlement.castle_K6" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -4944,7 +4944,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_K7" name="{=Settlements.Settlement.name.castle_K7}Simira Castle" owner="Faction.clan_khuzait_7" posX="773.039" posY="379.774" culture="Culture.khuzait" gate_posX="772.9034" gate_posY="377.9733">
+	<Settlement id="castle_K7" name="{=Settlements.Settlement.name.castle_K7}Simira Castle" owner="Faction.clan_khuzait_7" posX="773.039" posY="379.774" culture="Culture.khergit" gate_posX="772.9034" gate_posY="377.9733">
 		<Components>
 			<Town id="castle_comp_K7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="420"/>
 		</Components>
@@ -4954,7 +4954,7 @@
 			<Location id="prison" scene_name="khuzait_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_K7_1" name="{=Settlements.Settlement.name.castle_village_K7_1}Simira" posX="780.221" posY="400.774" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K7_1" name="{=Settlements.Settlement.name.castle_village_K7_1}Simira" posX="780.221" posY="400.774" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K7_1" village_type="VillageType.cattle_farm" hearth="177" gate_rotation="0.508" bound="Settlement.castle_K7" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -4967,7 +4967,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_K8" name="{=Settlements.Settlement.name.castle_K8}Erzenur Castle" owner="Faction.clan_khuzait_9" posX="712.864" posY="333.277" culture="Culture.khuzait" gate_posX="711.4721" gate_posY="332.2444">
+	<Settlement id="castle_K8" name="{=Settlements.Settlement.name.castle_K8}Erzenur Castle" owner="Faction.clan_khuzait_9" posX="712.864" posY="333.277" culture="Culture.khergit" gate_posX="711.4721" gate_posY="332.2444">
 		<Components>
 			<Town id="castle_comp_K8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="430"/>
 		</Components>
@@ -4977,7 +4977,7 @@
 			<Location id="prison" scene_name="khuzait_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_K8_1" name="{=Settlements.Settlement.name.castle_village_K8_1}Erzenur" posX="719.985" posY="262.71" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K8_1" name="{=Settlements.Settlement.name.castle_village_K8_1}Erzenur" posX="719.985" posY="262.71" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K8_1" village_type="VillageType.iron_mine" hearth="370" gate_rotation="0.508" bound="Settlement.castle_K8" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -4990,7 +4990,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_K9" name="{=Settlements.Settlement.name.castle_K9}Kaysar Castle" owner="Faction.clan_khuzait_6" posX="707.939" posY="547.437" culture="Culture.khuzait" gate_posX="707.3231" gate_posY="546.0911">
+	<Settlement id="castle_K9" name="{=Settlements.Settlement.name.castle_K9}Kaysar Castle" owner="Faction.clan_khuzait_6" posX="707.939" posY="547.437" culture="Culture.khergit" gate_posX="707.3231" gate_posY="546.0911">
 		<Components>
 			<Town id="castle_comp_K9" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" prosperity="520"/>
 		</Components>
@@ -5000,7 +5000,7 @@
 			<Location id="prison" scene_name="khuzait_dungeon_a"/>
 		</Locations>
 	</Settlement>
-	<Settlement id="castle_village_K9_1" name="{=Settlements.Settlement.name.castle_village_K9_1}Kaysar" posX="726.58" posY="549.436" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K9_1" name="{=Settlements.Settlement.name.castle_village_K9_1}Kaysar" posX="726.58" posY="549.436" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K9_1" village_type="VillageType.cattle_farm" hearth="339" gate_rotation="0.508" bound="Settlement.castle_K9" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -5013,7 +5013,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_K9_2" name="{=Settlements.Settlement.name.castle_village_K9_2}Payam" posX="715.06" posY="563.231" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K9_2" name="{=Settlements.Settlement.name.castle_village_K9_2}Payam" posX="715.06" posY="563.231" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K9_2" village_type="VillageType.wheat_farm" hearth="204" gate_rotation="0.508" bound="Settlement.castle_K9" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania"/>
 		</Components>
@@ -5027,7 +5027,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- clan 3, Arkits, lords 5, 9, 15 -->
-	<Settlement id="town_K1" name="{=Settlements.Settlement.name.town_K1}Ichamur" owner="Faction.clan_khuzait_2" posX="732.504" posY="536.542" culture="Culture.khuzait" gate_posX="730.2615" gate_posY="536.8068" text="{=!}Placeholder.">
+	<Settlement id="town_K1" name="{=Settlements.Settlement.name.town_K1}Ichamur" owner="Faction.clan_khuzait_2" posX="732.504" posY="536.542" culture="Culture.khergit" gate_posX="730.2615" gate_posY="536.8068" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_K1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" prosperity="1800"/>
 		</Components>
@@ -5048,7 +5048,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K1_1" name="{=Settlements.Settlement.name.village_K1_1}Fisnar" posX="708.931" posY="531.474" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K1_1" name="{=Settlements.Settlement.name.village_K1_1}Fisnar" posX="708.931" posY="531.474" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K1_1" village_type="VillageType.sheep_farm" hearth="152" bound="Settlement.town_K1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5061,7 +5061,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K1_2" name="{=Settlements.Settlement.name.village_K1_2}Ulaan" posX="727.05" posY="567.562" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K1_2" name="{=Settlements.Settlement.name.village_K1_2}Ulaan" posX="727.05" posY="567.562" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K1_2" village_type="VillageType.flax_plant" hearth="224" bound="Settlement.town_K1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5074,7 +5074,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_K4_2" name="{=Settlements.Settlement.name.castle_village_K4_2}Kuruluk" posX="713.453" posY="517.762" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K4_2" name="{=Settlements.Settlement.name.castle_village_K4_2}Kuruluk" posX="713.453" posY="517.762" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K4_2" village_type="VillageType.steppe_horse_ranch" hearth="235" bound="Settlement.castle_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5087,7 +5087,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K1_4" name="{=Settlements.Settlement.name.village_K1_4}Asalig" posX="735.834" posY="514.359" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K1_4" name="{=Settlements.Settlement.name.village_K1_4}Asalig" posX="735.834" posY="514.359" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K1_4" village_type="VillageType.steppe_horse_ranch" hearth="321" bound="Settlement.town_K1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5101,7 +5101,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- White fortress-->
-	<Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Akkalat" owner="Faction.clan_khuzait_4" posX="726.701" posY="372.704" culture="Culture.khuzait" gate_posX="726.4065" gate_posY="370.1996" text="{=!}Placeholder.">
+	<Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Akkalat" owner="Faction.clan_khuzait_4" posX="726.701" posY="372.704" culture="Culture.khergit" gate_posX="726.4065" gate_posY="370.1996" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_K2" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" prosperity="1700"/>
 		</Components>
@@ -5122,7 +5122,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K2_1" name="{=Settlements.Settlement.name.village_K2_1}Karakalat" posX="755.17" posY="395.284" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K2_1" name="{=Settlements.Settlement.name.village_K2_1}Karakalat" posX="755.17" posY="395.284" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K2_1" village_type="VillageType.steppe_horse_ranch" hearth="216" bound="Settlement.town_K2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5135,7 +5135,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K2_2" name="{=Settlements.Settlement.name.village_K2_2}Tismil" posX="718.979" posY="355.624" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K2_2" name="{=Settlements.Settlement.name.village_K2_2}Tismil" posX="718.979" posY="355.624" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K2_2" village_type="VillageType.sheep_farm" hearth="162" bound="Settlement.town_K2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5148,7 +5148,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_K8_2" name="{=Settlements.Settlement.name.castle_village_K8_2}Gereden" posX="703.672" posY="321.564" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K8_2" name="{=Settlements.Settlement.name.castle_village_K8_2}Gereden" posX="703.672" posY="321.564" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K8_2" village_type="VillageType.clay_mine" hearth="272" bound="Settlement.castle_K8" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5161,7 +5161,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_K3_2" name="{=Settlements.Settlement.name.castle_village_K3_2}Kiraz" posX="738.013" posY="406.449" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K3_2" name="{=Settlements.Settlement.name.castle_village_K3_2}Kiraz" posX="738.013" posY="406.449" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K3_2" village_type="VillageType.sheep_farm" hearth="253" bound="Settlement.castle_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5176,7 +5176,7 @@
 	</Settlement>
 	<!-- clan 1, Urkhunait, lords 1, 7, 10, 13 -->
 	<!-- swamp city, Atil -->
-	<Settlement id="town_K3" name="{=Settlements.Settlement.name.town_K3}Narra" owner="Faction.clan_khuzait_1" posX="685.692" posY="480.056" culture="Culture.khuzait" gate_posX="683.6556" gate_posY="480.812" text="{=!}Placeholder.">
+	<Settlement id="town_K3" name="{=Settlements.Settlement.name.town_K3}Narra" owner="Faction.clan_khuzait_1" posX="685.692" posY="480.056" culture="Culture.khergit" gate_posX="683.6556" gate_posY="480.812" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_K3" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" prosperity="3700"/>
 		</Components>
@@ -5197,7 +5197,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K3_1" name="{=Settlements.Settlement.name.village_K3_1}Shapeshte" posX="685.203" posY="495.721" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K3_1" name="{=Settlements.Settlement.name.village_K3_1}Shapeshte" posX="685.203" posY="495.721" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K3_1" village_type="VillageType.salt_mine" hearth="212" gate_rotation="0.008" bound="Settlement.town_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5210,7 +5210,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K3_2" name="{=Settlements.Settlement.name.village_K3_2}Hanekhy" posX="713.596" posY="491.358" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K3_2" name="{=Settlements.Settlement.name.village_K3_2}Hanekhy" posX="713.596" posY="491.358" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K3_2" village_type="VillageType.iron_mine" hearth="139" bound="Settlement.town_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5223,7 +5223,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K3_3" name="{=Settlements.Settlement.name.village_K3_3}Mazen" posX="679.939" posY="466.064" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K3_3" name="{=Settlements.Settlement.name.village_K3_3}Mazen" posX="679.939" posY="466.064" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K3_3" village_type="VillageType.fisherman" hearth="178" bound="Settlement.town_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5237,7 +5237,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- clan 2, Khergits. lords 3, 4f, 8, 14 -->
-	<Settlement id="town_K4" name="{=Settlements.Settlement.name.town_K4}Tulga" owner="Faction.clan_khuzait_3" posX="745.826" posY="448.187" culture="Culture.khuzait" gate_posX="743.0511" gate_posY="443.6095" text="{=!}Placeholder.">
+	<Settlement id="town_K4" name="{=Settlements.Settlement.name.town_K4}Tulga" owner="Faction.clan_khuzait_3" posX="745.826" posY="448.187" culture="Culture.khergit" gate_posX="743.0511" gate_posY="443.6095" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_K4" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" prosperity="3200"/>
 		</Components>
@@ -5258,7 +5258,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_K5_2" name="{=Settlements.Settlement.name.castle_village_K5_2}Omrotok" posX="764.184" posY="455.996" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K5_2" name="{=Settlements.Settlement.name.castle_village_K5_2}Omrotok" posX="764.184" posY="455.996" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K5_2" village_type="VillageType.lumberjack" hearth="370" gate_rotation="0.508" bound="Settlement.castle_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5271,7 +5271,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K4_2" name="{=Settlements.Settlement.name.village_K4_2}Ransam" posX="765.346" posY="421.777" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K4_2" name="{=Settlements.Settlement.name.village_K4_2}Ransam" posX="765.346" posY="421.777" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K4_2" village_type="VillageType.steppe_horse_ranch" hearth="108" bound="Settlement.town_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5284,7 +5284,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K4_3" name="{=Settlements.Settlement.name.village_K4_3}Mivanjan" posX="778.934" posY="435.546" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K4_3" name="{=Settlements.Settlement.name.village_K4_3}Mivanjan" posX="778.934" posY="435.546" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K4_3" village_type="VillageType.sheep_farm" hearth="204" bound="Settlement.town_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5297,7 +5297,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K4_4" name="{=Settlements.Settlement.name.village_K4_4}Urunjan" posX="729.983" posY="428.774" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K4_4" name="{=Settlements.Settlement.name.village_K4_4}Urunjan" posX="729.983" posY="428.774" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K4_4" village_type="VillageType.cattle_farm" hearth="159" bound="Settlement.town_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5310,7 +5310,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="town_K5" name="{=Settlements.Settlement.name.town_K5}Halmar" owner="Faction.clan_khuzait_1" posX="684.811" posY="421.592" culture="Culture.khuzait" gate_posX="684.8689" gate_posY="419.071" text="{=!}Placeholder.">
+	<Settlement id="town_K5" name="{=Settlements.Settlement.name.town_K5}Halmar" owner="Faction.clan_khuzait_1" posX="684.811" posY="421.592" culture="Culture.khergit" gate_posX="684.8689" gate_posY="419.071" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_K5" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.508" prosperity="3900"/>
 		</Components>
@@ -5331,7 +5331,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_K2_2" name="{=Settlements.Settlement.name.castle_village_K2_2}Kamshar" posX="677.361" posY="384.64" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K2_2" name="{=Settlements.Settlement.name.castle_village_K2_2}Kamshar" posX="677.361" posY="384.64" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K2_2" village_type="VillageType.clay_mine" hearth="150" bound="Settlement.castle_K2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" gate_rotation="0.008"/>
 		</Components>
@@ -5344,7 +5344,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K5_2" name="{=Settlements.Settlement.name.village_K5_2}Okhutan" posX="689.435" posY="406.915" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K5_2" name="{=Settlements.Settlement.name.village_K5_2}Okhutan" posX="689.435" posY="406.915" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K5_2" village_type="VillageType.wheat_farm" hearth="326" bound="Settlement.town_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5357,7 +5357,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K5_3" name="{=Settlements.Settlement.name.village_K5_3}Ispantar" posX="692.479" posY="396.231" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K5_3" name="{=Settlements.Settlement.name.village_K5_3}Ispantar" posX="692.479" posY="396.231" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K5_3" village_type="VillageType.sheep_farm" hearth="327" bound="Settlement.town_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5370,7 +5370,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K5_4" name="{=Settlements.Settlement.name.village_K5_4}Pabastan" posX="677.576" posY="439.742" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K5_4" name="{=Settlements.Settlement.name.village_K5_4}Pabastan" posX="677.576" posY="439.742" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K5_4" village_type="VillageType.wheat_farm" hearth="239" gate_rotation="0.008" bound="Settlement.town_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5383,7 +5383,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="town_K6" name="{=Settlements.Settlement.name.town_K6}Odokh" owner="Faction.clan_khuzait_5" posX="752.864" posY="336.823" culture="Culture.khuzait" gate_posX="750.5866" gate_posY="335.7404" text="{=!}Placeholder.">
+	<Settlement id="town_K6" name="{=Settlements.Settlement.name.town_K6}Odokh" owner="Faction.clan_khuzait_5" posX="752.864" posY="336.823" culture="Culture.khergit" gate_posX="750.5866" gate_posY="335.7404" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_K6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" prosperity="1700"/>
 		</Components>
@@ -5404,7 +5404,7 @@
 			<Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K6_1" name="{=Settlements.Settlement.name.village_K6_1}Karahan" posX="760.082" posY="309.814" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K6_1" name="{=Settlements.Settlement.name.village_K6_1}Karahan" posX="760.082" posY="309.814" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K6_1" village_type="VillageType.steppe_horse_ranch" hearth="221" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" gate_rotation="0.008"/>
 		</Components>
@@ -5417,7 +5417,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K6_2" name="{=Settlements.Settlement.name.village_K6_2}Nutyuk" posX="772.258" posY="313.308" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K6_2" name="{=Settlements.Settlement.name.village_K6_2}Nutyuk" posX="772.258" posY="313.308" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K6_2" village_type="VillageType.sheep_farm" hearth="168" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5430,7 +5430,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="village_K6_3" name="{=Settlements.Settlement.name.village_K6_3}Danara" posX="752.231" posY="354.592" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="village_K6_3" name="{=Settlements.Settlement.name.village_K6_3}Danara" posX="752.231" posY="354.592" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="village_comp_K6_3" village_type="VillageType.salt_mine" hearth="272" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
@@ -5443,7 +5443,7 @@
 			<Area type="Bog" name="{=iXA5SttU}Bog"/>
 		</CommonAreas>
 	</Settlement>
-	<Settlement id="castle_village_K7_2" name="{=Settlements.Settlement.name.castle_village_K7_2}Kohi Ajik" posX="775.679" posY="358.509" culture="Culture.khuzait" text="{=!}Placeholder.">
+	<Settlement id="castle_village_K7_2" name="{=Settlements.Settlement.name.castle_village_K7_2}Kohi Ajik" posX="775.679" posY="358.509" culture="Culture.khergit" text="{=!}Placeholder.">
 		<Components>
 			<Village id="castle_village_comp_K7_2" village_type="VillageType.steppe_horse_ranch" hearth="230" bound="Settlement.castle_K7" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait"/>
 		</Components>
