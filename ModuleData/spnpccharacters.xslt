@@ -18,12 +18,22 @@
         @id='villager_sturgia' or
         @id='villager_aserai' or
         @id='villager_khuzait' or
-        @id='villager_empire' or
-        @id='looter'
+        @id='villager_empire'
       ]">
         <xsl:copy>
             <xsl:apply-templates select="@*[name() != 'name']"/>
             <xsl:attribute name="name">Peasant</xsl:attribute>
+            <xsl:apply-templates select="node()[not(self::upgrade_targets)]"/>
+            <upgrade_targets>
+                <upgrade_target id="NPCCharacter.geroian_recruit"/>
+            </upgrade_targets>
+        </xsl:copy>
+    </xsl:template>
+
+    <xsl:template match="NPCCharacter[
+        @id='looter'
+      ]">
+        <xsl:copy>
             <xsl:apply-templates select="node()[not(self::upgrade_targets)]"/>
             <upgrade_targets>
                 <upgrade_target id="NPCCharacter.geroian_recruit"/>
