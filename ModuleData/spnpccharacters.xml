@@ -2575,7 +2575,7 @@
       <EquipmentRoster civilian="true" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="calsean_guard" default_group="Infantry" name="Imperial Guard" level="26" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false">
+  <NPCCharacter id="calsean_guard" default_group="Infantry" name="Varangian Guard" level="26" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false">
     <face>
       <BodyProperties version="4" age="24.03" weight="0.1867" build="0.2423" key="00000400000002412110000001211010010411111010002221111001301101000064300306112000000000000000000000000000000000000000000000D00000" />
       <BodyPropertiesMax version="4" age="42.04" weight="0.9336" build="0.9244" key="0008F00C40003690FEFEEFFEBBBFFFFFFFFFFF979EF8FFFEFFFFFFEFFFEFFFFE08EEE0890EFFFFFF000000000000000000000000000000000000000077C89105" />

@@ -111,11 +111,7 @@
 		</clan_names>
 		<cultural_feats>
 			<feat
-				id="sturgian_cheaper_recruits_infantry" />
-			<feat
-				id="sturgian_decreased_cohesion_rate" />
-			<feat
-				id="sturgian_increased_decision_penalty" />
+				id="empire_army_influence" />
 		</cultural_feats>
 		<possible_clan_banner_icon_ids>
 			<icon
@@ -225,14 +221,6 @@
 		</notable_and_wanderer_templates>
 		<lord_templates>
 			<template
-				name="NPCCharacter.spc_skolderbrotva_leader_0" />
-			<template
-				name="NPCCharacter.spc_skolderbrotva_leader_1" />
-			<template
-				name="NPCCharacter.spc_skolderbrotva_leader_2" />
-			<template
-				name="NPCCharacter.spc_skolderbrotva_leader_3" />
-			<template
 				name="NPCCharacter.spc_lakepike_leader_0" />
 			<template
 				name="NPCCharacter.spc_lakepike_leader_1" />
@@ -241,24 +229,16 @@
 			<template
 				name="NPCCharacter.spc_lakepike_leader_3" />
 			<template
-				name="NPCCharacter.spc_forest_people_leader_0" />
+				name="NPCCharacter.spc_wolfskins_leader_0" />
 			<template
-				name="NPCCharacter.spc_forest_people_leader_1" />
+				name="NPCCharacter.spc_wolfskins_leader_1" />
 			<template
-				name="NPCCharacter.spc_forest_people_leader_2" />
+				name="NPCCharacter.spc_wolfskins_leader_2" />
 			<template
-				name="NPCCharacter.spc_forest_people_leader_3" />
+				name="NPCCharacter.spc_wolfskins_leader_3" />
 		</lord_templates>
 		<rebellion_hero_templates>
 			<template
-				name="NPCCharacter.spc_skolderbrotva_leader_0" />
-			<template
-				name="NPCCharacter.spc_skolderbrotva_leader_1" />
-			<template
-				name="NPCCharacter.spc_skolderbrotva_leader_2" />
-			<template
-				name="NPCCharacter.spc_skolderbrotva_leader_3" />
-			<template
 				name="NPCCharacter.spc_lakepike_leader_0" />
 			<template
 				name="NPCCharacter.spc_lakepike_leader_1" />
@@ -267,13 +247,14 @@
 			<template
 				name="NPCCharacter.spc_lakepike_leader_3" />
 			<template
-				name="NPCCharacter.spc_forest_people_leader_0" />
+				name="NPCCharacter.spc_wolfskins_leader_0" />
 			<template
-				name="NPCCharacter.spc_forest_people_leader_1" />
+				name="NPCCharacter.spc_wolfskins_leader_1" />
 			<template
-				name="NPCCharacter.spc_forest_people_leader_2" />
+				name="NPCCharacter.spc_wolfskins_leader_2" />
 			<template
-				name="NPCCharacter.spc_forest_people_leader_3" />
+				name="NPCCharacter.spc_wolfskins_leader_3" />
+
 		</rebellion_hero_templates>
 		<tournament_team_templates_one_participant>
 			<template
@@ -298,8 +279,6 @@
 				name="NPCCharacter.tournament_template_sturgia_four_participant_set_v3" />
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
-			<template
-				name="NPCCharacter.eastern_mercenary" />
 			<template
 				name="NPCCharacter.western_mercenary" />
 			<template
@@ -418,10 +397,6 @@
 		<cultural_feats>
 			<feat
 				id="sturgian_cheaper_recruits_infantry" />
-			<feat
-				id="sturgian_decreased_cohesion_rate" />
-			<feat
-				id="sturgian_increased_decision_penalty" />
 		</cultural_feats>
 		<possible_clan_banner_icon_ids>
 			<icon
@@ -539,21 +514,13 @@
 			<template
 				name="NPCCharacter.spc_skolderbrotva_leader_3" />
 			<template
-				name="NPCCharacter.spc_lakepike_leader_0" />
+				name="NPCCharacter.spc_wolfskins_leader_0" />
 			<template
-				name="NPCCharacter.spc_lakepike_leader_1" />
+				name="NPCCharacter.spc_wolfskins_leader_1" />
 			<template
-				name="NPCCharacter.spc_lakepike_leader_2" />
+				name="NPCCharacter.spc_wolfskins_leader_2" />
 			<template
-				name="NPCCharacter.spc_lakepike_leader_3" />
-			<template
-				name="NPCCharacter.spc_forest_people_leader_0" />
-			<template
-				name="NPCCharacter.spc_forest_people_leader_1" />
-			<template
-				name="NPCCharacter.spc_forest_people_leader_2" />
-			<template
-				name="NPCCharacter.spc_forest_people_leader_3" />
+				name="NPCCharacter.spc_wolfskins_leader_3" />
 		</lord_templates>
 		<rebellion_hero_templates>
 			<template
@@ -565,21 +532,13 @@
 			<template
 				name="NPCCharacter.spc_skolderbrotva_leader_3" />
 			<template
-				name="NPCCharacter.spc_lakepike_leader_0" />
+				name="NPCCharacter.spc_wolfskins_leader_0" />
 			<template
-				name="NPCCharacter.spc_lakepike_leader_1" />
+				name="NPCCharacter.spc_wolfskins_leader_1" />
 			<template
-				name="NPCCharacter.spc_lakepike_leader_2" />
+				name="NPCCharacter.spc_wolfskins_leader_2" />
 			<template
-				name="NPCCharacter.spc_lakepike_leader_3" />
-			<template
-				name="NPCCharacter.spc_forest_people_leader_0" />
-			<template
-				name="NPCCharacter.spc_forest_people_leader_1" />
-			<template
-				name="NPCCharacter.spc_forest_people_leader_2" />
-			<template
-				name="NPCCharacter.spc_forest_people_leader_3" />
+				name="NPCCharacter.spc_wolfskins_leader_3" />
 		</rebellion_hero_templates>
 		<tournament_team_templates_one_participant>
 			<template
@@ -604,8 +563,6 @@
 				name="NPCCharacter.tournament_template_sturgia_four_participant_set_v3" />
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
-			<template
-				name="NPCCharacter.eastern_mercenary" />
 			<template
 				name="NPCCharacter.western_mercenary" />
 			<template
@@ -723,10 +680,6 @@
 		<cultural_feats>
 			<feat
 				id="vlandian_renown_mercenary_income" />
-			<feat
-				id="vlandian_villages_production_bonus" />
-			<feat
-				id="vlandian_increased_army_influence_cost" />
 		</cultural_feats>
 		<possible_clan_banner_icon_ids>
 			<icon
@@ -848,13 +801,13 @@
 		</notable_and_wanderer_templates>
 		<lord_templates>
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_0" />
+				name="NPCCharacter.spc_forest_people_leader_0" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_1" />
+				name="NPCCharacter.spc_forest_people_leader_1" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_2" />
+				name="NPCCharacter.spc_forest_people_leader_2" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_3" />
+				name="NPCCharacter.spc_forest_people_leader_3" />
 			<template
 				name="NPCCharacter.spc_brotherhood_of_woods_leader_0" />
 			<template
@@ -866,13 +819,13 @@
 		</lord_templates>
 		<rebellion_hero_templates>
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_0" />
+				name="NPCCharacter.spc_forest_people_leader_0" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_1" />
+				name="NPCCharacter.spc_forest_people_leader_1" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_2" />
+				name="NPCCharacter.spc_forest_people_leader_2" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_3" />
+				name="NPCCharacter.spc_forest_people_leader_3" />
 			<template
 				name="NPCCharacter.spc_brotherhood_of_woods_leader_0" />
 			<template
@@ -1028,11 +981,7 @@
 		</clan_names>
 		<cultural_feats>
 			<feat
-				id="vlandian_renown_mercenary_income" />
-			<feat
 				id="vlandian_villages_production_bonus" />
-			<feat
-				id="vlandian_increased_army_influence_cost" />
 		</cultural_feats>
 		<possible_clan_banner_icon_ids>
 			<icon
@@ -1142,13 +1091,13 @@
 		</notable_and_wanderer_templates>
 		<lord_templates>
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_0" />
+				name="NPCCharacter.spc_forest_people_leader_0" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_1" />
+				name="NPCCharacter.spc_forest_people_leader_1" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_2" />
+				name="NPCCharacter.spc_forest_people_leader_2" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_3" />
+				name="NPCCharacter.spc_forest_people_leader_3" />
 			<template
 				name="NPCCharacter.spc_brotherhood_of_woods_leader_0" />
 			<template
@@ -1160,21 +1109,21 @@
 		</lord_templates>
 		<rebellion_hero_templates>
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_0" />
+				name="NPCCharacter.spc_wolfskins_leader_0" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_1" />
+				name="NPCCharacter.spc_wolfskins_leader_1" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_2" />
+				name="NPCCharacter.spc_wolfskins_leader_2" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_3" />
+				name="NPCCharacter.spc_wolfskins_leader_3" />
 			<template
-				name="NPCCharacter.spc_brotherhood_of_woods_leader_0" />
+				name="NPCCharacter.spc_forest_people_leader_0" />
 			<template
-				name="NPCCharacter.spc_brotherhood_of_woods_leader_1" />
+				name="NPCCharacter.spc_forest_people_leader_1" />
 			<template
-				name="NPCCharacter.spc_brotherhood_of_woods_leader_2" />
+				name="NPCCharacter.spc_forest_people_leader_2" />
 			<template
-				name="NPCCharacter.spc_brotherhood_of_woods_leader_3" />
+				name="NPCCharacter.spc_forest_people_leader_3" />
 		</rebellion_hero_templates>
 		<tournament_team_templates_one_participant>
 			<template
@@ -1322,11 +1271,7 @@
 		</clan_names>
 		<cultural_feats>
 			<feat
-				id="vlandian_renown_mercenary_income" />
-			<feat
-				id="vlandian_villages_production_bonus" />
-			<feat
-				id="vlandian_increased_army_influence_cost" />
+				id="empire_decreased_garrison_wage" />
 		</cultural_feats>
 		<possible_clan_banner_icon_ids>
 			<icon
@@ -1436,13 +1381,21 @@
 		</notable_and_wanderer_templates>
 		<lord_templates>
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_0" />
+				name="NPCCharacter.spc_wolfskins_leader_0" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_1" />
+				name="NPCCharacter.spc_wolfskins_leader_1" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_2" />
+				name="NPCCharacter.spc_wolfskins_leader_2" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_3" />
+				name="NPCCharacter.spc_wolfskins_leader_3" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_0" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_1" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_2" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_3" />
 			<template
 				name="NPCCharacter.spc_brotherhood_of_woods_leader_0" />
 			<template
@@ -1454,13 +1407,13 @@
 		</lord_templates>
 		<rebellion_hero_templates>
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_0" />
+				name="NPCCharacter.spc_forest_people_leader_0" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_1" />
+				name="NPCCharacter.spc_forest_people_leader_1" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_2" />
+				name="NPCCharacter.spc_forest_people_leader_2" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_3" />
+				name="NPCCharacter.spc_forest_people_leader_3" />
 			<template
 				name="NPCCharacter.spc_brotherhood_of_woods_leader_0" />
 			<template
@@ -2102,11 +2055,7 @@
 		</clan_names>
 		<cultural_feats>
 			<feat
-				id="empire_decreased_garrison_wage" />
-			<feat
-				id="empire_army_influence" />
-			<feat
-				id="empire_slower_hearth_production" />
+				id="sturgian_decreased_cohesion_rate" />
 		</cultural_feats>
 		<possible_clan_banner_icon_ids>
 			<icon
@@ -2270,13 +2219,21 @@
 		</notable_and_wanderer_templates>
 		<lord_templates>
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_0" />
+				name="NPCCharacter.spc_wolfskins_leader_0" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_1" />
+				name="NPCCharacter.spc_wolfskins_leader_1" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_2" />
+				name="NPCCharacter.spc_wolfskins_leader_2" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_3" />
+				name="NPCCharacter.spc_wolfskins_leader_3" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_0" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_1" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_2" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_3" />
 			<template
 				name="NPCCharacter.spc_brotherhood_of_woods_leader_0" />
 			<template
@@ -2288,13 +2245,21 @@
 		</lord_templates>
 		<rebellion_hero_templates>
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_0" />
+				name="NPCCharacter.spc_wolfskins_leader_0" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_1" />
+				name="NPCCharacter.spc_wolfskins_leader_1" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_2" />
+				name="NPCCharacter.spc_wolfskins_leader_2" />
 			<template
-				name="NPCCharacter.spc_company_of_the_boar_leader_3" />
+				name="NPCCharacter.spc_wolfskins_leader_3" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_0" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_1" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_2" />
+			<template
+				name="NPCCharacter.spc_forest_people_leader_3" />
 			<template
 				name="NPCCharacter.spc_brotherhood_of_woods_leader_0" />
 			<template
@@ -2325,8 +2290,6 @@
 				name="NPCCharacter.tournament_template_empire_four_participant_set_v3" />
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
-			<template
-				name="NPCCharacter.eastern_mercenary" />
 			<template
 				name="NPCCharacter.western_mercenary" />
 			<template
@@ -2684,11 +2647,7 @@
 		</clan_names>
 		<cultural_feats>
 			<feat
-				id="aserai_cheaper_caravans" />
-			<feat
 				id="aserai_desert_speed" />
-			<feat
-				id="aserai_increased_wages" />
 		</cultural_feats>
 		<possible_clan_banner_icon_ids>
 			<icon
@@ -3249,10 +3208,6 @@
 		<cultural_feats>
 			<feat
 				id="khuzait_cheaper_recruits_mounted" />
-			<feat
-				id="khuzait_increased_animal_production" />
-			<feat
-				id="khuzait_decreased_town_tax" />
 		</cultural_feats>
 		<possible_clan_banner_icon_ids>
 			<icon

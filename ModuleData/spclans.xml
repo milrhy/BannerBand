@@ -574,7 +574,7 @@
 		culture="Culture.vaegir"
 		super_faction="Kingdom.empire"
 		is_noble="true"
-		banner_key="24.124.30.3000.-1574.831.762.1.0.90.421.30.124.247.267.764.760.0.1.-90" />
+		banner_key="24.124.30.3000.-1574.831.762.1.0.90.421.30.30.366.396.764.760.0.1.-90.419.30.30.171.185.764.781.0.1.-90" />
 	<!--
 	Sympathetic: O
 	Philosophical clan? Views Osticos as most likely to restore republic
@@ -679,7 +679,7 @@
 		culture="Culture.geroia"
 		super_faction="Kingdom.empire_w"
 		is_noble="true"
-		banner_key="11.149.149.2109.-2286.773.779.1.0.178.324.131.131.429.429.765.772.0.0.0" />
+		banner_key="11.149.149.2109.-2286.773.779.1.0.178.324.131.131.429.429.764.863.0.0.0.500.131.131.372.135.764.673.0.0.179.503.131.131.92.128.764.674.0.0.179" />
 	<!--
 	Fully unsympathetic clan - terrorizes their valley
 	Apokos, Father - debauched, based on Alexius Apokaukos, master schemer	
@@ -736,7 +736,7 @@
 		culture="Culture.geroia"
 		super_faction="Kingdom.empire_w"
 		is_noble="true"
-		banner_key="11.149.149.2109.-2286.773.779.1.0.178.308.131.131.429.429.765.772.0.0.0" />
+		banner_key="11.149.149.2109.-2286.773.779.1.0.178.506.131.131.74.49.621.949.0.0.81.506.131.131.74.49.684.965.0.0.81.506.131.131.74.49.969.965.0.0.67.506.131.131.74.49.891.981.0.0.104.506.131.131.74.49.787.1017.0.0.104.506.131.131.74.49.720.1027.0.0.75.506.131.131.74.49.863.1029.0.0.75.506.131.131.74.49.931.1033.0.0.75.301.131.131.540.575.740.767.0.0.191.506.131.131.74.49.762.1079.0.0.75" />
 	<Faction
 		id="clan_empire_west_8"
 		name="{=pdz4YsEf}Viscant"
@@ -754,7 +754,7 @@
 		culture="Culture.geroia"
 		super_faction="Kingdom.empire_w"
 		is_noble="true"
-		banner_key="11.149.149.2109.-2286.773.779.1.0.178.346.131.131.429.429.765.772.0.0.0" />
+		banner_key="11.149.149.2109.-2286.773.779.1.0.178.114.131.131.429.429.759.825.0.0.0.503.131.131.245.245.710.644.0.0.0" />
 	<!-- Monarchist starting kingdom -->
 	<Faction
 		id="clan_empire_south_1"
@@ -785,7 +785,7 @@
 		culture="Culture.calsea"
 		super_faction="Kingdom.empire_s"
 		is_noble="true"
-		banner_key="11.8.8.2109.-2286.773.779.1.0.178.344.9.9.437.437.750.770.0.0.0" />
+		banner_key="11.8.8.2109.-2286.773.779.1.0.178.428.9.9.432.432.790.695.0.0.153.344.9.9.386.386.760.802.0.0.0" />
 	<!--
 	Mestricaros - Long list of grievances against other large families, sided with Pathros by default
 	Uncle - Cunning, frustrated
@@ -921,7 +921,7 @@
 		culture="Culture.sarranid"
 		super_faction="Kingdom.aserai"
 		is_noble="true"
-		banner_key="11.7.7.1656.-1794.764.764.1.0.90.426.14.14.508.508.764.764.0.0.0" />
+		banner_key="11.7.7.1656.-1794.764.764.1.0.90.426.14.14.508.508.695.764.0.0.0.521.14.14.308.308.854.764.0.0.0" />
 	<Faction
 		id="clan_aserai_6"
 		name="{=l6JtB97p}Atij"
@@ -1047,7 +1047,7 @@
 		culture="Culture.swadia"
 		super_faction="Kingdom.vlandia"
 		is_noble="true"
-		banner_key="11.148.148.1836.1596.768.788.1.0.180.160.116.116.518.518.764.764.1.1.0" />
+		banner_key="11.148.148.1836.1596.768.788.1.0.180.346.116.116.236.236.817.712.0.0.0.306.116.116.365.365.688.781.0.0.25" />
 	<Faction
 		id="clan_vlandia_7"
 		name="{=LZVzzczs}Fortes"
@@ -1056,7 +1056,7 @@
 		culture="Culture.swadia"
 		super_faction="Kingdom.vlandia"
 		is_noble="true"
-		banner_key="11.148.148.1836.1596.768.788.1.0.180.152.116.116.518.518.764.764.0.0.0" />
+		banner_key="11.148.148.1836.1596.768.788.1.0.180.152.116.116.473.473.760.803.0.0.0.512.116.116.170.170.760.626.0.0.-1.512.116.116.170.170.658.626.0.0.-1" />
 	<Faction
 		id="clan_vlandia_8"
 		name="{=9NWQNInC}Molarn"
@@ -1114,7 +1114,7 @@
 		culture="Culture.rhodok"
 		super_faction="Kingdom.battania"
 		is_noble="true"
-		banner_key="11.2.2.1836.1596.768.788.1.0.180.139.116.116.-559.504.764.764.0.0.0" />
+		banner_key="11.2.2.1836.1596.768.788.1.0.180.308.116.116.-593.604.764.756.0.1.0.341.116.116.-295.265.782.843.0.1.63" />
 	<!--		
 		Patriarch: Ergeon, 5_3 whitebeard, arthur-type. Submits to Gruffendoc because they realize latter's capacity to lead
 		Active queen: Mywin 5_4, holds her own lands and fights in her own right
@@ -1150,7 +1150,7 @@
 		culture="Culture.rhodok"
 		super_faction="Kingdom.battania"
 		is_noble="true"
-		banner_key="11.2.2.1836.1596.768.788.1.0.180.203.116.116.-559.504.764.764.0.0.0" />
+		banner_key="11.2.2.1836.1596.768.788.1.0.180.203.116.116.-330.297.654.817.0.0.0.203.116.116.-330.297.765.760.0.0.0.203.116.116.-330.297.887.811.0.0.0" />
 	<Faction
 		id="clan_battania_5"
 		name="{=ObBvcDhJ}Garmal"
@@ -1177,7 +1177,7 @@
 		culture="Culture.rhodok"
 		super_faction="Kingdom.battania"
 		is_noble="true"
-		banner_key="11.2.2.1836.1596.768.788.1.0.180.308.116.116.-593.604.764.756.0.1.0.341.116.116.-295.265.782.843.0.1.63" />
+		banner_key="11.2.2.1836.1596.768.788.1.0.180.139.116.116.-501.451.775.847.0.0.0.302.116.116.-472.425.638.616.0.0.150" />
 	<!-- Caernacht, resentful clan -->
 	<Faction
 		id="clan_battania_8"
