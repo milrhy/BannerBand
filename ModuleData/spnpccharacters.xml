@@ -43,7 +43,7 @@
         <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
         <equipment slot="Leg" id="Item.leather_shoes" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="swadian_militia" default_group="Infantry" name="Swadian Militia" level="11" occupation="Soldier" culture="Culture.swadia" is_basic_troop="false" is_female="false">
@@ -89,7 +89,7 @@
         <equipment slot="Leg" id="Item.leather_shoes" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="swadian_footman" default_group="Infantry" name="Swadian Footman" level="16" occupation="Soldier" culture="Culture.swadia" is_basic_troop="false" is_female="false">
@@ -136,7 +136,7 @@
         <equipment slot="Body" id="Item.white_coat_over_mail" />
         <equipment slot="Leg" id="Item.leather_shoes" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="swadian_infantry" default_group="Infantry" name="Swadian Infantry" level="21" occupation="Soldier" culture="Culture.swadia" is_basic_troop="false" is_female="false">
@@ -183,7 +183,7 @@
         <equipment slot="Leg" id="Item.mail_chausses" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="swadian_sergeant" default_group="Infantry" name="Swadian Sergeant" level="26" occupation="Soldier" culture="Culture.swadia" is_basic_troop="false" is_female="false">
@@ -220,7 +220,7 @@
         <equipment slot="Leg" id="Item.plated_strip_boots" />
         <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="swadian_manatarms" default_group="Cavalry" name="Swadian Man-at-Arms" level="21" occupation="Soldier" culture="Culture.swadia" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.war_horse">
@@ -263,7 +263,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.hunter" />
         <equipment slot="HorseHarness" id="Item.light_harness" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="swadian_knight" default_group="Cavalry" name="Swadian Knight" level="26" occupation="Soldier" culture="Culture.swadia" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.war_horse">
@@ -305,7 +305,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.war_horse" />
         <equipment slot="HorseHarness" id="Item.chain_barding" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="swadian_skirmisher" default_group="Ranged" name="Swadian Skirmisher" level="16" occupation="Soldier" culture="Culture.swadia" is_basic_troop="false" is_female="false">
@@ -336,7 +336,7 @@
         <equipment slot="Body" id="Item.aketon" />
         <equipment slot="Leg" id="Item.sturgia_boots_d" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="swadian_crossbowman" default_group="Ranged" name="Swadian Crossbowman" level="21" occupation="Soldier" culture="Culture.swadia" is_basic_troop="false" is_female="false">
@@ -377,7 +377,7 @@
         <equipment slot="Body" id="Item.nordic_sloven_leather" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="swadian_sharpshooter" default_group="Ranged" name="Swadian Sharpshooter" level="26" occupation="Soldier" culture="Culture.swadia" is_basic_troop="false" is_female="false">
@@ -419,7 +419,7 @@
         <equipment slot="Gloves" id="Item.leather_gloves" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sarranid_recruit" default_group="Infantry" name="Sarranid Recruit" level="6" occupation="Soldier" culture="Culture.sarranid" is_basic_troop="true" is_female="false">
@@ -479,7 +479,7 @@
         <equipment slot="Leg" id="Item.eastern_leather_boots" />
         <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sarranid_footman" default_group="Infantry" name="Sarranid Footman" level="11" occupation="Soldier" culture="Culture.sarranid" is_basic_troop="false" is_female="false">
@@ -512,7 +512,7 @@
         <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
         <equipment slot="Cape" id="Item.desert_leather_shoulderpad" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sarranid_skirmisher" default_group="Infantry" name="Sarranid Skirmisher" level="16" occupation="Soldier" culture="Culture.sarranid" is_basic_troop="false" is_female="false">
@@ -544,7 +544,7 @@
         <equipment slot="Leg" id="Item.khuzait_curved_boots" />
         <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sarranid_archer" default_group="Ranged" name="Sarranid Archer" level="21" occupation="Soldier" culture="Culture.sarranid" is_basic_troop="false" is_female="false">
@@ -576,7 +576,7 @@
         <equipment slot="Leg" id="Item.khuzait_curved_boots" />
         <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sarranid_master_archer" default_group="Ranged" name="Sarranid Master Archer" level="26" occupation="Soldier" culture="Culture.sarranid" is_basic_troop="false" is_female="false">
@@ -606,7 +606,7 @@
         <equipment slot="Leg" id="Item.plated_strip_boots" />
         <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sarranid_veteran_footman" default_group="Infantry" name="Sarranid Veteran Footman" level="16" occupation="Soldier" culture="Culture.sarranid" is_basic_troop="false" is_female="false">
@@ -638,7 +638,7 @@
         <equipment slot="Body" id="Item.eastern_studded_leather" />
         <equipment slot="Leg" id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sarranid_infantry" default_group="Infantry" name="Sarranid Infantry" level="21" occupation="Soldier" culture="Culture.sarranid" is_basic_troop="false" is_female="false">
@@ -669,7 +669,7 @@
         <equipment slot="Body" id="Item.aserai_archer_armor" />
         <equipment slot="Leg" id="Item.khuzait_curved_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sarranid_guard" default_group="Infantry" name="Sarranid Guard" level="26" occupation="Soldier" culture="Culture.sarranid" is_basic_troop="false" is_female="false">
@@ -709,7 +709,7 @@
         <equipment slot="Leg" id="Item.mail_cavalier_boots" />
         <equipment slot="Gloves" id="Item.leather_gloves" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sarranid_horseman" default_group="Cavalry" name="Sarranid Horseman" level="21" occupation="Soldier" culture="Culture.sarranid" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.horse">
@@ -742,7 +742,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.aserai_horse_tournament" />
         <equipment slot="HorseHarness" id="Item.light_harness" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="sarranid_mamluke" default_group="Cavalry" name="Sarranid Mamluke" level="26" occupation="Soldier" culture="Culture.sarranid" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.war_horse">
@@ -774,7 +774,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.charger" />
         <equipment slot="HorseHarness" id="Item.mail_and_plate_barding" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="rhodok_tribesman" default_group="Infantry" name="Rhodok Tribesman" level="6" occupation="Soldier" culture="Culture.rhodok" is_basic_troop="true" is_female="false">
@@ -810,7 +810,7 @@
         <equipment slot="Leg" id="Item.wrapped_shoes" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="rhodok_spearman" default_group="Infantry" name="Rhodok Spearman" level="11" occupation="Soldier" culture="Culture.rhodok" is_basic_troop="false" is_female="false">
@@ -841,7 +841,7 @@
         <equipment slot="Leg" id="Item.ragged_boots" />
         <equipment slot="Cape" id="Item.battania_scarf_a" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="rhodok_trained_spearman" default_group="Infantry" name="Rhodok Trained Spearman" level="16" occupation="Soldier" culture="Culture.rhodok" is_basic_troop="false" is_female="false">
@@ -870,7 +870,7 @@
         <equipment slot="Body" id="Item.layered_leather_tunic" />
         <equipment slot="Leg" id="Item.sturgia_boots_a" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="rhodok_veteran_spearman" default_group="Infantry" name="Rhodok Veteran Spearman" level="21" occupation="Soldier" culture="Culture.rhodok" is_basic_troop="false" is_female="false">
@@ -908,7 +908,7 @@
         <equipment slot="Leg" id="Item.plated_strip_boots" />
         <equipment slot="Gloves" id="Item.leather_gloves" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="rhodok_sergeant" default_group="Infantry" name="Rhodok Sergeant" level="26" occupation="Soldier" culture="Culture.rhodok" is_basic_troop="false" is_female="false">
@@ -937,7 +937,7 @@
         <equipment slot="Leg" id="Item.mail_chausses" />
         <equipment slot="Gloves" id="Item.mail_mitten" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="rhodok_crossbowman" default_group="Ranged" name="Rhodok Crossbowman" level="11" occupation="Soldier" culture="Culture.rhodok" is_basic_troop="false" is_female="false">
@@ -969,7 +969,7 @@
         <equipment slot="Leg" id="Item.ragged_boots" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="rhodok_trained_crossbowman" default_group="Ranged" name="Rhodok Trained Crossbowman" level="16" occupation="Soldier" culture="Culture.rhodok" is_basic_troop="false" is_female="false">
@@ -1002,7 +1002,7 @@
         <equipment slot="Gloves" id="Item.padded_vambrace" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="rhodok_veteran_crossbowman" default_group="Ranged" name="Rhodok Veteran Crossbowman" level="21" occupation="Soldier" culture="Culture.rhodok" is_basic_troop="false" is_female="false">
@@ -1033,7 +1033,7 @@
         <equipment slot="Body" id="Item.imperial_padded_cloth" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="rhodok_sharpshooter" default_group="Ranged" name="Rhodok Sharpshooter" level="26" occupation="Soldier" culture="Culture.rhodok" is_basic_troop="false" is_female="false">
@@ -1071,7 +1071,7 @@
         <equipment slot="Body" id="Item.white_coat_over_mail" />
         <equipment slot="Leg" id="Item.plated_strip_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="nord_recruit" default_group="Infantry" name="Nord Recruit" level="6" occupation="Soldier" culture="Culture.nords" is_basic_troop="true" is_female="false">
@@ -1106,7 +1106,7 @@
         <equipment slot="Body" id="Item.leather_coat_over_cloth" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="nord_huntsman" default_group="Ranged" name="Nord Huntsman" level="11" occupation="Soldier" culture="Culture.nords" is_basic_troop="false" is_female="false">
@@ -1137,7 +1137,7 @@
         <equipment slot="Leg" id="Item.folded_town_boots" />
         <equipment slot="Gloves" id="Item.studded_vambraces" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="nord_archer" default_group="Ranged" name="Nord Archer" level="16" occupation="Soldier" culture="Culture.nords" is_basic_troop="false" is_female="false">
@@ -1169,7 +1169,7 @@
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
         <equipment slot="Gloves" id="Item.studded_vambraces" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="nord_veteran_archer" default_group="Ranged" name="Nord Veteran Archer" level="21" occupation="Soldier" culture="Culture.nords" is_basic_troop="false" is_female="false">
@@ -1199,7 +1199,7 @@
         <equipment slot="Leg" id="Item.empire_horseman_boots" />
         <equipment slot="Cape" id="Item.desert_leather_shoulderpad" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="nord_footman" default_group="Infantry" name="Nord Footman" level="11" occupation="Soldier" culture="Culture.nords" is_basic_troop="false" is_female="false">
@@ -1238,7 +1238,7 @@
         <equipment slot="Body" id="Item.khuzait_civil_coat_b" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="nord_trained_footman" default_group="Infantry" name="Nord Trained Footman" level="16" occupation="Soldier" culture="Culture.nords" is_basic_troop="false" is_female="false">
@@ -1268,7 +1268,7 @@
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
         <equipment slot="Cape" id="Item.desert_leather_shoulderpad" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="nord_warrior" default_group="Infantry" name="Nord Warrior" level="21" occupation="Soldier" culture="Culture.nords" is_basic_troop="false" is_female="false">
@@ -1305,7 +1305,7 @@
         <equipment slot="Body" id="Item.battania_woodland_chainmail" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="nord_veteran" default_group="Infantry" name="Nord Veteran" level="26" occupation="Soldier" culture="Culture.nords" is_basic_troop="false" is_female="false">
@@ -1345,7 +1345,7 @@
         <equipment slot="Leg" id="Item.plated_strip_boots" />
         <equipment slot="Gloves" id="Item.leather_gloves" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="nord_huscarl" default_group="Infantry" name="Nord Huscarl" level="31" occupation="Soldier" culture="Culture.nords" is_basic_troop="false" is_female="false">
@@ -1386,7 +1386,7 @@
         <equipment slot="Leg" id="Item.strapped_mail_chausses" />
         <equipment slot="Gloves" id="Item.mail_mitten" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="khergit_tribesman" default_group="Infantry" name="Khergit Tribesman" level="6" occupation="Soldier" culture="Culture.khergit" is_basic_troop="true" is_female="false">
@@ -1417,7 +1417,7 @@
         <equipment slot="Body" id="Item.belted_leather_cuirass" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="khergit_skirmisher" default_group="HorseArcher" name="Khergit Skirmisher" level="11" occupation="Soldier" culture="Culture.khergit" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.horse">
@@ -1451,7 +1451,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.khuzait_horse_tournament" />
         <equipment slot="HorseHarness" id="Item.bandit_saddle_steppe" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="khergit_horseman" default_group="HorseArcher" name="Khergit Horseman" level="16" occupation="Soldier" culture="Culture.khergit" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.horse">
@@ -1486,7 +1486,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.khuzait_horse_tournament" />
         <equipment slot="HorseHarness" id="Item.bandit_saddle_steppe" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="khergit_lancer" default_group="Cavalry" name="Khergit Lancer" level="21" occupation="Soldier" culture="Culture.khergit" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.war_horse">
@@ -1518,7 +1518,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.steppe_war_horse" />
         <equipment slot="HorseHarness" id="Item.steppe_harness" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="khergit_horse_archer" default_group="HorseArcher" name="Khergit Horse Archer" level="21" occupation="Soldier" culture="Culture.khergit" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.horse">
@@ -1562,7 +1562,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.khuzait_horse_tournament" />
         <equipment slot="HorseHarness" id="Item.steppe_harness" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="khergit_veteran_horse_archer" default_group="HorseArcher" name="Khergit Veteran Horse Archer" level="26" occupation="Soldier" culture="Culture.khergit" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.noble_horse">
@@ -1606,7 +1606,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.noble_horse_southern" />
         <equipment slot="HorseHarness" id="Item.steppe_harness" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="vaegir_recruit" default_group="Infantry" name="Vaegir Recruit" level="6" occupation="Soldier" culture="Culture.vaegir" is_basic_troop="true" is_female="false">
@@ -1643,7 +1643,7 @@
         <equipment slot="Body" id="Item.light_tunic" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="vaegir_footman" default_group="Infantry" name="Vaegir Footman" level="11" occupation="Soldier" culture="Culture.vaegir" is_basic_troop="false" is_female="false">
@@ -1681,7 +1681,7 @@
         <equipment slot="Body" id="Item.fur_coat_over_tunic" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="vaegir_veteran" default_group="Infantry" name="Vaegir Veteran" level="16" occupation="Soldier" culture="Culture.vaegir" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.horse">
@@ -1723,7 +1723,7 @@
         <equipment slot="Body" id="Item.nordic_sloven_leather" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="vaegir_infantry" default_group="Infantry" name="Vaegir Infantry" level="21" occupation="Soldier" culture="Culture.vaegir" is_basic_troop="false" is_female="false">
@@ -1754,7 +1754,7 @@
         <equipment slot="Body" id="Item.mail_shirt" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="vaegir_guard" default_group="Infantry" name="Vaegir Guard" level="26" occupation="Soldier" culture="Culture.vaegir" is_basic_troop="false" is_female="false">
@@ -1784,7 +1784,7 @@
         <equipment slot="Gloves" id="Item.leather_gloves" />
         <equipment slot="Cape" id="Item.empire_plate_armor_shoulder_b" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="vaegir_horseman" default_group="Cavalry" name="Vaegir Horseman" level="21" occupation="Soldier" culture="Culture.vaegir" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.horse">
@@ -1817,7 +1817,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.hunter" />
         <equipment slot="HorseHarness" id="Item.steppe_fur_harness" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="vaegir_knight" default_group="Cavalry" name="Vaegir Knight" level="26" occupation="Soldier" culture="Culture.vaegir" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.war_horse">
@@ -1861,7 +1861,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.hunter" />
         <equipment slot="HorseHarness" id="Item.chain_barding" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="vaegir_skirmisher" default_group="Ranged" name="Vaegir Skirmisher" level="16" occupation="Soldier" culture="Culture.vaegir" is_basic_troop="false" is_female="false">
@@ -1900,7 +1900,7 @@
         <equipment slot="Body" id="Item.nordic_sloven" />
         <equipment slot="Leg" id="Item.strapped_leather_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="vaegir_archer" default_group="Ranged" name="Vaegir Archer" level="21" occupation="Soldier" culture="Culture.vaegir" is_basic_troop="false" is_female="false">
@@ -1941,7 +1941,7 @@
         <equipment slot="Leg" id="Item.ragged_boots" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="vaegir_marksman" default_group="Ranged" name="Vaegir Marksman" level="26" occupation="Soldier" culture="Culture.vaegir" is_basic_troop="false" is_female="false">
@@ -1982,7 +1982,7 @@
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_recruit" default_group="Infantry" name="Hired Thug" level="6" occupation="Soldier" culture="Culture.geroia" is_basic_troop="true" is_female="false">
@@ -2026,7 +2026,7 @@
         <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
         <equipment slot="Leg" id="Item.leather_shoes" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_militia" default_group="Infantry" name="Watchman" level="11" occupation="Soldier" culture="Culture.geroia" is_basic_troop="false" is_female="false">
@@ -2066,7 +2066,7 @@
         <equipment slot="Body" id="Item.empire_warrior_padded_armor_a" />
         <equipment slot="Leg" id="Item.leather_shoes" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_footman" default_group="Infantry" name="Hired Spear" level="16" occupation="Soldier" culture="Culture.geroia" is_basic_troop="false" is_female="false">
@@ -2105,7 +2105,7 @@
         <equipment slot="Body" id="Item.mail_shirt" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_infantry" default_group="Infantry" name="Hired Pike" level="21" occupation="Soldier" culture="Culture.geroia" is_basic_troop="false" is_female="false">
@@ -2150,7 +2150,7 @@
         <equipment slot="Leg" id="Item.mail_chausses" />
         <equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_caraguard" default_group="HorseArcher" name="Caravan Guard" level="16" occupation="Soldier" culture="Culture.geroia" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.horse">
@@ -2183,7 +2183,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.vlandia_horse_tournament" />
         <equipment slot="HorseHarness" id="Item.desert_cloth_harness" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_manatarms" default_group="Cavalry" name="Mercenary Horseman" level="21" occupation="Soldier" culture="Culture.geroia" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.noble_horse">
@@ -2225,7 +2225,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.noble_horse_southern" />
         <equipment slot="HorseHarness" id="Item.halfchain_barding" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_knight" default_group="Cavalry" name="Mercenary Cavalry" level="26" occupation="Soldier" culture="Culture.geroia" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.war_horse">
@@ -2269,7 +2269,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.war_horse" />
         <equipment slot="HorseHarness" id="Item.chain_horse_harness" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_skirmisher" default_group="Ranged" name="Hired Crossbow" level="16" occupation="Soldier" culture="Culture.geroia" is_basic_troop="false" is_female="false">
@@ -2301,7 +2301,7 @@
         <equipment slot="Leg" id="Item.wrapped_shoes" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_crossbowman" default_group="Ranged" name="Hired Sharpshooter" level="21" occupation="Soldier" culture="Culture.geroia" is_basic_troop="false" is_female="false">
@@ -2340,7 +2340,7 @@
         <equipment slot="Body" id="Item.nordic_sloven_leather" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_swordsman" default_group="Infantry" name="Mercenary Swordsman" level="21" occupation="Soldier" culture="Culture.geroia" is_basic_troop="false" is_female="false">
@@ -2377,7 +2377,7 @@
         <equipment slot="Body" id="Item.mail_shirt" />
         <equipment slot="Leg" id="Item.mail_chausses" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="geroian_blade" default_group="Infantry" name="Hired Blade" level="26" occupation="Soldier" culture="Culture.geroia" is_basic_troop="false" is_female="false">
@@ -2417,7 +2417,7 @@
         <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="calsean_recruit" default_group="Infantry" name="Imperial Recruit" level="6" occupation="Soldier" culture="Culture.calsea" is_basic_troop="true" is_female="false">
@@ -2463,7 +2463,7 @@
         <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
         <equipment slot="Leg" id="Item.leather_shoes" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="calsean_militia" default_group="Infantry" name="Imperial Militia" level="11" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false">
@@ -2501,7 +2501,7 @@
         <equipment slot="Body" id="Item.empire_warrior_padded_armor_a" />
         <equipment slot="Leg" id="Item.leather_shoes" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="calsean_footman" default_group="Infantry" name="Imperial Footman" level="16" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.horse">
@@ -2541,7 +2541,7 @@
         <equipment slot="Body" id="Item.nordic_sloven_leather" />
         <equipment slot="Leg" id="Item.sturgia_boots_c" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="calsean_spearman" default_group="Infantry" name="Imperial Spearman" level="21" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false">
@@ -2572,7 +2572,7 @@
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="calsean_guard" default_group="Infantry" name="Varangian Guard" level="26" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false">
@@ -2614,7 +2614,7 @@
         <equipment slot="Gloves" id="Item.mail_mitten" />
         <equipment slot="Cape" id="Item.battania_shoulder_strap" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="calsean_horseman" default_group="Cavalry" name="Imperial Cavalry" level="21" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.horse">
@@ -2648,7 +2648,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.hunter" />
         <equipment slot="HorseHarness" id="Item.half_scale_barding" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="calsean_knight" default_group="Cavalry" name="Imperial Cataphract" level="26" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false" upgrade_requires="ItemCategory.war_horse">
@@ -2692,7 +2692,7 @@
         <equipment slot="ArmorItemEndSlot" id="Item.hunter" />
         <equipment slot="HorseHarness" id="Item.imperial_scale_barding" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="calsean_skirmisher" default_group="Ranged" name="Imperial Skirmisher" level="16" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false">
@@ -2730,7 +2730,7 @@
         <equipment slot="Body" id="Item.nordic_sloven" />
         <equipment slot="Leg" id="Item.leather_shoes" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="calsean_archer" default_group="Ranged" name="Imperial Archer" level="21" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false">
@@ -2773,7 +2773,7 @@
         <equipment slot="Gloves" id="Item.padded_vambrace" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="calsean_vetarcher" default_group="Ranged" name="Imperial Veteran Archer" level="26" occupation="Soldier" culture="Culture.calsea" is_basic_troop="false" is_female="false">
@@ -2813,10 +2813,10 @@
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
         <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
       </EquipmentRoster>
-      <EquipmentRoster civilian="true" />
+      
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="bbsword_sisters_sister_t3" default_group="Ranged" name="{=r8npO8hG}Camp Follower" level="16" occupation="Mercenary" culture="Culture.neutral_culture" is_basic_troop="true" is_female="true">
+  <NPCCharacter id="bbsword_sisters_sister_t3" default_group="Ranged" name="{=r8npO8hG}Camp Follower" level="11" occupation="Mercenary" culture="Culture.neutral_culture" is_basic_troop="true" is_female="true">
     <face>
       <BodyProperties version="4" age="25.57" weight="0.3164" build="0.2485" key="00052008000000010070030000001603003300110010200000000001010000000144501304010000000000000000000000000000000000000000000010880000" />
       <BodyPropertiesMax version="4" age="39" weight="0.7223" build="0.7052" key="0010F80FC000370FFFFFEFEFFEEFFF7EEEFFFFFFFEF7EFFEFFFFFFFFFEFFFFFF07CBF0780CFFFFEF000000000000000000000000000000000000000061809105" />
@@ -2856,7 +2856,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="bbsword_sisters_sister_t4" default_group="Ranged" name="{=ZK0GXYCx}Camp Defender" level="21" occupation="Mercenary" culture="Culture.neutral_culture" is_basic_troop="false" is_female="true">
+  <NPCCharacter id="bbsword_sisters_sister_t4" default_group="Ranged" name="{=ZK0GXYCx}Camp Defender" level="16" occupation="Mercenary" culture="Culture.neutral_culture" is_basic_troop="false" is_female="true">
     <face>
       <BodyProperties version="4" age="25.57" weight="0.3164" build="0.2485" key="00052008000000010070030000001603003300110010200000000001010000000144501304010000000000000000000000000000000000000000000010880000" />
       <BodyPropertiesMax version="4" age="39" weight="0.7223" build="0.7052" key="0010F80FC000370FFFFFEFEFFEEFFF7EEEFFFFFFFEF7EFFEFFFFFFFFFEFFFFFF07CBF0780CFFFFEF000000000000000000000000000000000000000061809105" />
@@ -2872,7 +2872,6 @@
       <skill id="Throwing" value="20" />
     </skills>
     <upgrade_targets>
-      <upgrade_target id="NPCCharacter.bbsword_sisters_sister_t5" />
       <upgrade_target id="NPCCharacter.bbsword_sisters_sister_infantry_t5" />
     </upgrade_targets>
     <Equipments>
@@ -2894,6 +2893,50 @@
         <equipment slot="NumAllWeaponSlots" id="Item.aserai_villager_female_headdress" />
         <equipment slot="Body" id="Item.aserai_robe_c_chain" />
         <equipment slot="Leg" id="Item.sturgia_boots_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="WeaponItemBeginSlot" id="Item.empire_sword_2_t3" />
+        <equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+        <equipment slot="Leg" id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="bbsword_sisters_sister_infantry_t5" default_group="Ranged" name="{=0gi5Fp8c}Huntress" level="21" occupation="Mercenary" culture="Culture.neutral_culture" is_basic_troop="false" is_female="true">
+    <face>
+      <BodyProperties version="4" age="25.57" weight="0.3164" build="0.2485" key="00052008000000010070030000001603003300110010200000000001010000000144501304010000000000000000000000000000000000000000000010880000" />
+      <BodyPropertiesMax version="4" age="39" weight="0.7223" build="0.7052" key="0010F80FC000370FFFFFEFEFFEEFFF7EEEFFFFFFFEF7EFFEFFFFFFFFFEFFFFFF07CBF0780CFFFFEF000000000000000000000000000000000000000061809105" />
+    </face>
+    <skills>
+      <skill id="Athletics" value="130" />
+      <skill id="Riding" value="50" />
+      <skill id="OneHanded" value="130" />
+      <skill id="TwoHanded" value="45" />
+      <skill id="Polearm" value="45" />
+      <skill id="Bow" value="150" />
+      <skill id="Crossbow" value="150" />
+      <skill id="Throwing" value="20" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.bbsword_sisters_sister_t5" />
+    </upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="false">
+        <equipment slot="WeaponItemBeginSlot" id="Item.glen_ranger_bow" />
+        <equipment slot="Weapon1" id="Item.bodkin_arrows_b" />
+        <equipment slot="Weapon2" id="Item.sturgia_sword_5_t5" />
+        <equipment slot="Weapon3" id="Item.northern_round_shield" />
+        <equipment slot="Body" id="Item.empire_horseman_armor" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
+        <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="false">
+        <equipment slot="WeaponItemBeginSlot" id="Item.crossbow_d" />
+        <equipment slot="Weapon1" id="Item.bolt_b" />
+        <equipment slot="Weapon2" id="Item.vlandia_polearm_1_t5" />
+        <equipment slot="Weapon3" id="Item.viking_round_shield" />
+        <equipment slot="NumAllWeaponSlots" id="Item.nasal_helmet_with_mail" />
+        <equipment slot="Body" id="Item.basic_imperial_leather_armor" />
+        <equipment slot="Leg" id="Item.strapped_shoes" />
       </EquipmentRoster>
       <EquipmentRoster civilian="true">
         <equipment slot="WeaponItemBeginSlot" id="Item.empire_sword_2_t3" />
@@ -2951,48 +2994,6 @@
         <equipment slot="Gloves" id="Item.padded_mitten" />
         <equipment slot="ArmorItemEndSlot" id="Item.t2_empire_horse" />
         <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="bbsword_sisters_sister_infantry_t5" default_group="Ranged" name="{=0gi5Fp8c}Huntress" level="26" occupation="Mercenary" culture="Culture.neutral_culture" is_basic_troop="false" is_female="true">
-    <face>
-      <BodyProperties version="4" age="25.57" weight="0.3164" build="0.2485" key="00052008000000010070030000001603003300110010200000000001010000000144501304010000000000000000000000000000000000000000000010880000" />
-      <BodyPropertiesMax version="4" age="39" weight="0.7223" build="0.7052" key="0010F80FC000370FFFFFEFEFFEEFFF7EEEFFFFFFFEF7EFFEFFFFFFFFFEFFFFFF07CBF0780CFFFFEF000000000000000000000000000000000000000061809105" />
-    </face>
-    <skills>
-      <skill id="Athletics" value="130" />
-      <skill id="Riding" value="50" />
-      <skill id="OneHanded" value="130" />
-      <skill id="TwoHanded" value="45" />
-      <skill id="Polearm" value="45" />
-      <skill id="Bow" value="150" />
-      <skill id="Crossbow" value="150" />
-      <skill id="Throwing" value="20" />
-    </skills>
-    <upgrade_targets />
-    <Equipments>
-      <EquipmentRoster civilian="false">
-        <equipment slot="WeaponItemBeginSlot" id="Item.glen_ranger_bow" />
-        <equipment slot="Weapon1" id="Item.bodkin_arrows_b" />
-        <equipment slot="Weapon2" id="Item.sturgia_sword_5_t5" />
-        <equipment slot="Weapon3" id="Item.northern_round_shield" />
-        <equipment slot="Body" id="Item.empire_horseman_armor" />
-        <equipment slot="Leg" id="Item.strapped_shoes" />
-        <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
-      </EquipmentRoster>
-      <EquipmentRoster civilian="false">
-        <equipment slot="WeaponItemBeginSlot" id="Item.crossbow_d" />
-        <equipment slot="Weapon1" id="Item.bolt_b" />
-        <equipment slot="Weapon2" id="Item.vlandia_polearm_1_t5" />
-        <equipment slot="Weapon3" id="Item.viking_round_shield" />
-        <equipment slot="NumAllWeaponSlots" id="Item.nasal_helmet_with_mail" />
-        <equipment slot="Body" id="Item.basic_imperial_leather_armor" />
-        <equipment slot="Leg" id="Item.strapped_shoes" />
-      </EquipmentRoster>
-      <EquipmentRoster civilian="true">
-        <equipment slot="WeaponItemBeginSlot" id="Item.empire_sword_2_t3" />
-        <equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
-        <equipment slot="Leg" id="Item.strapped_leather_boots" />
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>

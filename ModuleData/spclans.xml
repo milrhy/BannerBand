@@ -679,7 +679,7 @@
 		culture="Culture.geroia"
 		super_faction="Kingdom.empire_w"
 		is_noble="true"
-		banner_key="11.149.149.2109.-2286.773.779.1.0.178.324.131.131.429.429.764.863.0.0.0.500.131.131.372.135.764.673.0.0.179.503.131.131.92.128.764.674.0.0.179" />
+		banner_key="11.149.149.2109.-2286.773.779.1.0.178.324.131.131.429.429.764.863.0.0.0.504.131.131.203.128.764.674.0.0.-1" />
 	<!--
 	Fully unsympathetic clan - terrorizes their valley
 	Apokos, Father - debauched, based on Alexius Apokaukos, master schemer	
@@ -785,7 +785,7 @@
 		culture="Culture.calsea"
 		super_faction="Kingdom.empire_s"
 		is_noble="true"
-		banner_key="11.8.8.2109.-2286.773.779.1.0.178.428.9.9.432.432.790.695.0.0.153.344.9.9.386.386.760.802.0.0.0" />
+		banner_key="11.8.8.2109.-2286.773.779.1.0.178.500.9.9.347.347.760.744.0.0.153.344.9.9.386.386.760.802.0.0.0" />
 	<!--
 	Mestricaros - Long list of grievances against other large families, sided with Pathros by default
 	Uncle - Cunning, frustrated

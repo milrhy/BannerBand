@@ -181,6 +181,15 @@
 			</IncludedGameTypes>
 		</XmlNode>
 		<XmlNode>
+			<XmlName id="EquipmentRosters" path="cc_equipment_sets"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
 			<XmlName id="GameText" path="module_strings" />
 			<IncludedGameTypes>
 				<GameType value="Campaign" />

@@ -294,7 +294,7 @@
 		text="The Sarranid Sultanate is situated in the harsh southern deserts, where the open, arid landscape shapes both its economy and warfare. Led by a ruling sultan with a network of emirs who manage local affairs, they rely on a mix of fast skirmishers and heavy cavalry." />
 	<string
 		id="str_culture_rich_name.sarranid"
-		text="Sarranid" />
+		text="Sarranids" />
 	<string
 		id="str_faction_ruler_name_with_title.sarranid"
 		text="{?RULER.GENDER}Sultana{?}Sultan{\?} {RULER.NAME}" />
@@ -323,7 +323,7 @@
 		text="Sarranid" />
 	<string
 		id="str_short_term_for_faction.aserai"
-		text="Sarranid" />
+		text="Sarranids" />
 	<string
 		id="str_faction_formal_name_for_culture.sarranid"
 		text="Sarranid Sultanate" />
@@ -332,10 +332,10 @@
 		text="the Sarranid" />
 	<string
 		id="str_adjective_for_culture.sarranid"
-		text="Sarranid" />
+		text="Sarranids" />
 	<string
 		id="str_neutral_term_for_culture.sarranid"
-		text="Sarranid" />
+		text="Sarranids" />
 	<!-- Khergit -->
 	<string
 		id="str_culture_description.khergit"

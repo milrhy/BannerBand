@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentRosters>
+
+	<EquipmentRoster
+		id="comingofage_kid_ger_cutscene_template"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.leather_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_swa_cutscene_template"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.leather_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_rhod_cutscene_template"
+		culture="Culture.rhodok">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.leather_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_cals_cutscene_template"
+		culture="Culture.calsea">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.leather_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_vaeg_cutscene_template"
+		culture="Culture.vaegir">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_nords_cutscene_template"
+		culture="Culture.nords">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_sloven" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_sar_cutscene_template"
+		culture="Culture.sarranid">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.aserai_civil_a" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="comingofage_kid_kher_cutscene_template"
+		culture="Culture.khergit">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_civil_coat_b" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+<!-- Motherfather -->
+
+	<EquipmentRoster
+		id="mother_char_creation_0_calsea"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Head"
+				id="Item.head_wrapped" />
+			<Equipment
+				slot="Body"
+				id="Item.empire_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_0_calsea"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.imperial_lamellar_over_leather" />
+			<Equipment
+				slot="Leg"
+				id="Item.fine_town_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="mother_char_creation_0_geroia"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Head"
+				id="Item.head_wrapped" />
+			<Equipment
+				slot="Body"
+				id="Item.empire_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_0_geroia"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.padded_short_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="mother_char_creation_0_sarranid"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Head"
+				id="Item.aserai_female_civil_hscarf" />
+			<Equipment
+				slot="Body"
+				id="Item.fine_southern_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_0_sarranid"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Head"
+				id="Item.aserai_civil_e_hscarf" />
+			<Equipment
+				slot="Body"
+				id="Item.tassled_southern_robes" />
+			<Equipment
+				slot="Leg"
+				id="Item.steppe_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="mother_char_creation_0_vaegir"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.cloth_apron" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+			<Equipment
+				slot="Head"
+				id="Item.head_wrapped" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_0_vaegir"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Head"
+				id="Item.nordic_fur_cap" />
+			<Equipment
+				slot="Body"
+				id="Item.nordic_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="mother_char_creation_0_nords"
+		culture="Culture.sturgia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.cut_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_0_nords"
+		culture="Culture.sturgia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.merchants_fur_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="mother_char_creation_0_khergit"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.steppe_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.khuzait_curved_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_0_khergit"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Head"
+				id="Item.peaked_fur_hood" />
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_fortified_armor" />
+			<Equipment
+				slot="Leg"
+				id="Item.khuzait_curved_boots" />
+			<Equipment
+				slot="Gloves"
+				id="Item.steppe_leather_vambraces" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="mother_char_creation_0_rhodok"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.cloth_apron" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_0_rhodok"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.bandit_leather_water_flask" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_cavalier_boots" />
+			<Equipment
+				slot="Head"
+				id="Item.leather_cap" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="mother_char_creation_0_swadia"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Head"
+				id="Item.head_wrapped" />
+			<Equipment
+				slot="Body"
+				id="Item.laced_dress" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="father_char_creation_0_swadia"
+		culture="Culture.empire">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.padded_short_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+<!-- CHILDHOOD Equipment Sets -->
+
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_calsea_0_m"
+		culture="Culture.calsea">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.fine_town_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_cavalier_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_calsea_0_m"
+		culture="Culture.calsea">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.fine_town_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_cavalier_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_calsea_0_f"
+		culture="Culture.calsea">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.fine_town_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_calsea_0_f"
+		culture="Culture.calsea">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.fine_town_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_geroia_0_m"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.fine_town_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_cavalier_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_geroia_0_m"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.fine_town_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_cavalier_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_geroia_0_f"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.fine_town_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_geroia_0_f"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.fine_town_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_swadia_0_m"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.tunic_with_rolled_cloth" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_swadia_0_m"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.tunic_with_rolled_cloth" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_swadia_0_f"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.tunic_with_rolled_cloth" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_swadia_0_f"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.tunic_with_rolled_cloth" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_rhodok_0_m"
+		culture="Culture.rhodok">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_rhodok_0_m"
+		culture="Culture.rhodok">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_rhodok_0_f"
+		culture="Culture.rhodok">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_rhodok_0_f"
+		culture="Culture.rhodok">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_nords_0_m"
+		culture="Culture.nords">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_nords_0_m"
+		culture="Culture.nords">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_nords_0_f"
+		culture="Culture.nords">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_nords_0_f"
+		culture="Culture.nords">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_vaegir_0_m"
+		culture="Culture.vaegir">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_vaegir_0_m"
+		culture="Culture.vaegir">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_vaegir_0_f"
+		culture="Culture.vaegir">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_vaegir_0_f"
+		culture="Culture.vaegir">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.long_hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.ladys_shoe" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_sarranid_0_m"
+		culture="Culture.sarranid">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.aserai_civil_d" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+			<Equipment
+				slot="Head"
+				id="Item.aserai_civil_d_hscarf" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_sarranid_0_m"
+		culture="Culture.sarranid">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.aserai_civil_d" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+			<Equipment
+				slot="Head"
+				id="Item.aserai_civil_d_hscarf" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_sarranid_0_f"
+		culture="Culture.sarranid">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.aserai_civil_d" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+			<Equipment
+				slot="Head"
+				id="Item.desert_headdress" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_sarranid_0_f"
+		culture="Culture.sarranid">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.aserai_civil_d" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+			<Equipment
+				slot="Head"
+				id="Item.desert_headdress" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_khergit_0_m"
+		culture="Culture.khergit">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_civil_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_khergit_0_m"
+		culture="Culture.khergit">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_civil_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_childhood_age_khergit_0_f"
+		culture="Culture.khergit">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_civil_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_education_age_khergit_0_f"
+		culture="Culture.khergit">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_civil_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.southern_moccasins" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+
+<!-- STARTING Equipment Sets -->
+
+	<EquipmentRoster
+		id="player_char_creation_rhodok_1_m"
+		culture="Culture.rhodok">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.vlandia_sword_1_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.small_flat_heater_shield" />
+			<Equipment slot="Item2" id="Item.crossbow_e" />
+			<Equipment slot="Item3" id="Item.bolt_b" />
+			<Equipment
+				slot="Body"
+				id="Item.padded_leather_shirt" />
+			<Equipment
+				slot="Leg"
+				id="Item.empire_horseman_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.vlandia_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.padded_leather_shirt" />
+			<Equipment
+				slot="Leg"
+				id="Item.empire_horseman_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_rhodok_1_f"
+		culture="Culture.rhodok">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.vlandia_sword_1_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.small_flat_heater_shield" />
+			<Equipment slot="Item2" id="Item.crossbow_e" />
+			<Equipment slot="Item3" id="Item.bolt_b" />
+			<Equipment
+				slot="Body"
+				id="Item.padded_leather_shirt" />
+			<Equipment
+				slot="Leg"
+				id="Item.empire_horseman_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.vlandia_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.padded_leather_shirt" />
+			<Equipment
+				slot="Leg"
+				id="Item.empire_horseman_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_swadia_1_m"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.vlandia_sword_1_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.small_flat_heater_shield" />
+			<Equipment slot="Item2" id="Item.crossbow_e" />
+			<Equipment slot="Item3" id="Item.bolt_b" />
+			<Equipment
+				slot="Body"
+				id="Item.padded_leather_shirt" />
+			<Equipment
+				slot="Leg"
+				id="Item.empire_horseman_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.vlandia_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.padded_leather_shirt" />
+			<Equipment
+				slot="Leg"
+				id="Item.empire_horseman_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_swadia_1_f"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.vlandia_sword_1_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.small_flat_heater_shield" />
+			<Equipment slot="Item2" id="Item.crossbow_e" />
+			<Equipment slot="Item3" id="Item.bolt_b" />
+			<Equipment
+				slot="Body"
+				id="Item.padded_leather_shirt" />
+			<Equipment
+				slot="Leg"
+				id="Item.empire_horseman_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.vlandia_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.padded_leather_shirt" />
+			<Equipment
+				slot="Leg"
+				id="Item.empire_horseman_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_geroia_1_m"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.imperial_spear_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.western_javelin_1_t2" />
+			<Equipment
+				slot="Item3"
+				id="Item.empire_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.stripped_leather_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.empire_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_geroia_1_f"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.imperial_spear_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.western_javelin_1_t2" />
+			<Equipment
+				slot="Item3"
+				id="Item.empire_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.stripped_leather_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.empire_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.hemp_tunic" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_calsea_1_m"
+		culture="Culture.calsea">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.empire_sword_1_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.hunting_bow" />
+			<Equipment
+				slot="Item2"
+				id="Item.default_arrows" />
+			<Equipment
+				slot="Body"
+				id="Item.empire_warrior_padded_armor_e" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.stripped_leather_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.empire_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.empire_warrior_padded_armor_e" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_calsea_1_f"
+		culture="Culture.calsea">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.empire_sword_1_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.hunting_bow" />
+			<Equipment
+				slot="Item2"
+				id="Item.default_arrows" />
+			<Equipment
+				slot="Body"
+				id="Item.empire_warrior_padded_armor_e" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.stripped_leather_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.empire_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.empire_warrior_padded_armor_e" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_vaegir_1_m"
+		culture="Culture.vaegir">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_spear_1_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.sturgia_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.heavy_nordic_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+			<Equipment
+				slot="Head"
+				id="Item.northern_fur_cap" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.sturgia_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.heavy_nordic_coat" />
+			<Equipment
+				slot="Head"
+				id="Item.northern_fur_cap" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_vaegir_1_f"
+		culture="Culture.vaegir">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_spear_1_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.sturgia_sword_1_t2" />
+			<Equipment
+				slot="Head"
+				id="Item.northern_fur_cap" />
+			<Equipment
+				slot="Body"
+				id="Item.heavy_nordic_coat" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.light_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.sturgia_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.heavy_nordic_coat" />
+			<Equipment
+				slot="Head"
+				id="Item.northern_fur_cap" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_nords_1_m"
+		culture="Culture.nords">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_spear_1_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.highland_throwing_axe_1_t2" />
+			<Equipment
+				slot="Item3"
+				id="Item.battania_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.fur_armor_with_strap" />
+			<Equipment
+				slot="Leg"
+				id="Item.ragged_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.bandit_saddle_highland" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.battania_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.battania_civil_b" />
+			<Equipment
+				slot="Leg"
+				id="Item.ragged_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_nords_1_f"
+		culture="Culture.nords">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.northern_spear_1_t2" />
+			<Equipment
+				slot="Item2"
+				id="Item.highland_throwing_axe_1_t2" />
+			<Equipment
+				slot="Item3"
+				id="Item.battania_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.fur_armor_with_strap" />
+			<Equipment
+				slot="Leg"
+				id="Item.ragged_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.bandit_saddle_highland" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.battania_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.battania_female_civil_a" />
+			<Equipment
+				slot="Leg"
+				id="Item.ragged_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_sarranid_1_m"
+		culture="Culture.sarranid">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.aserai_sword_1_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.bound_adarga" />
+			<Equipment
+				slot="Item2"
+				id="Item.hunting_bow" />
+			<Equipment
+				slot="Item3"
+				id="Item.default_arrows" />
+			<Equipment
+				slot="Body"
+				id="Item.aserai_civil_e" />
+			<Equipment
+				slot="Head"
+				id="Item.aserai_civil_hscarf_a" />
+			<Equipment
+				slot="Leg"
+				id="Item.khuzait_curved_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.aseran_village_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.aserai_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.aserai_civil_e" />
+			<Equipment
+				slot="Head"
+				id="Item.aserai_civil_hscarf_a" />
+			<Equipment
+				slot="Leg"
+				id="Item.khuzait_curved_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_sarranid_1_f"
+		culture="Culture.sarranid">
+		<EquipmentSet>
+			<Equipment
+				slot="Item0"
+				id="Item.aserai_sword_1_t2" />
+			<Equipment
+				slot="Item1"
+				id="Item.bound_adarga" />
+			<Equipment
+				slot="Item2"
+				id="Item.hunting_bow" />
+			<Equipment
+				slot="Item3"
+				id="Item.default_arrows" />
+			<Equipment
+				slot="Body"
+				id="Item.aserai_civil_e" />
+			<Equipment
+				slot="Head"
+				id="Item.aserai_civil_hscarf_a" />
+			<Equipment
+				slot="Leg"
+				id="Item.khuzait_curved_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.aseran_village_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.aserai_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.aserai_female_civil_b" />
+			<Equipment
+				slot="Head"
+				id="Item.aserai_civil_hscarf_a" />
+			<Equipment
+				slot="Leg"
+				id="Item.khuzait_curved_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+	<EquipmentRoster
+		id="player_char_creation_khergit_1_m"
+		culture="Culture.khergit">
+		<EquipmentSet>
+			<Equipment
+				slot="Item1"
+				id="Item.default_arrows" />
+			<Equipment
+				slot="Item2"
+				id="Item.khuzait_sword_1_t2" />
+			<Equipment
+				slot="Item0"
+				id="Item.steppe_bow" />
+			<Equipment
+				slot="Head"
+				id="Item.fur_hat" />
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_belt_leather" />
+			<Equipment
+				slot="Leg"
+				id="Item.khuzait_curved_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.steppe_fur_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.khuzait_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_belt_leather" />
+			<Equipment
+				slot="Leg"
+				id="Item.khuzait_curved_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_khergit_1_f"
+		culture="Culture.khergit">
+		<EquipmentSet>
+			<Equipment
+				slot="Item1"
+				id="Item.default_arrows" />
+			<Equipment
+				slot="Item2"
+				id="Item.khuzait_sword_1_t2" />
+			<Equipment
+				slot="Item0"
+				id="Item.steppe_bow" />
+			<Equipment
+				slot="Head"
+				id="Item.fur_hat" />
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_belt_leather" />
+			<Equipment
+				slot="Leg"
+				id="Item.khuzait_curved_boots" />
+			<Equipment
+				slot="Horse"
+				id="Item.sumpter_horse" />
+			<Equipment
+				slot="HorseHarness"
+				id="Item.steppe_fur_harness" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.khuzait_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.khuzait_belt_leather" />
+			<Equipment
+				slot="Leg"
+				id="Item.khuzait_curved_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+<!-- "Show clothes" -->
+
+	<EquipmentRoster
+		id="player_char_creation_show_vaegir"
+		culture="Culture.vaegir">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_lamellar_vest" />
+			<Equipment
+				slot="Gloves"
+				id="Item.highland_gloves" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.battania_mace_2_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_show_nords"
+		culture="Culture.nords">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.nordic_lamellar_vest" />
+			<Equipment
+				slot="Gloves"
+				id="Item.highland_gloves" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.battania_mace_2_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_show_swadia"
+		culture="Culture.swadia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.banded_leather_over_mail" />
+			<Equipment
+				slot="Gloves"
+				id="Item.leather_gloves" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.battania_mace_2_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_show_rhodok"
+		culture="Culture.rhodok">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.banded_leather_over_mail" />
+			<Equipment
+				slot="Gloves"
+				id="Item.leather_gloves" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.battania_mace_2_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_show_geroia"
+		culture="Culture.geroia">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.banded_leather_over_mail" />
+			<Equipment
+				slot="Gloves"
+				id="Item.leather_gloves" />
+			<Equipment
+				slot="Leg"
+				id="Item.leather_shoes" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.battania_mace_2_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_show_calsea"
+		culture="Culture.calsea">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.basic_imperial_leather_armor" />
+			<Equipment
+				slot="Gloves"
+				id="Item.reinforced_padded_mitten" />
+			<Equipment
+				slot="Leg"
+				id="Item.strapped_leather_boots" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.battania_mace_2_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_show_khergit"
+		culture="Culture.khergit">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.reinforced_suede_armor" />
+			<Equipment
+				slot="Leg"
+				id="Item.steppe_leather_boots" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.battania_mace_2_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+	<EquipmentRoster
+		id="player_char_creation_show_sarranid"
+		culture="Culture.sarranid">
+		<EquipmentSet>
+			<Equipment
+				slot="Body"
+				id="Item.desert_robe_over_mail" />
+			<Equipment
+				slot="Gloves"
+				id="Item.guarded_padded_vambrace" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_shoes" />
+		</EquipmentSet>
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.battania_mace_2_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.northern_leather_vest" />
+			<Equipment
+				slot="Leg"
+				id="Item.wrapped_leather_boots" />
+		</EquipmentSet>
+	</EquipmentRoster>
+
+
+</EquipmentRosters>

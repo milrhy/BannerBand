@@ -31,7 +31,6 @@
 		armed_trader="NPCCharacter.armed_trader_vaegir"
 		caravan_guard="NPCCharacter.caravan_guard_vaegir"
 		veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_vaegir"
-
 		prison_guard="NPCCharacter.prison_guard_sturgia"
 		guard="NPCCharacter.guard_sturgia"
 		blacksmith="NPCCharacter.blacksmith_sturgia"
@@ -92,22 +91,55 @@
 		</banner_bearer_replacement_weapons>
 		<default_policies />
 		<male_names>
-			<name
-				name="{=jVPr0ZzB}Achyr" />
-			<name
-				name="{=iFJbnbCQ}Agdil" />
+			<name name="Vlodomyr" />
+			<name name="Yarostav" />
+			<name name="Borivoy" />
+			<name name="Svyatoslav" />
+			<name name="Dobrognev" />
+			<name name="Radosvek" />
+			<name name="Mstigor" />
+			<name name="Vsevolod" />
+			<name name="Zdislav" />
+			<name name="Kazimyr" />
+			<name name="Lyubomir" />
+			<name name="Ratibor" />
+			<name name="Stanislev" />
+			<name name="Bogumir" />
+			<name name="Zoryan" />
 		</male_names>
 		<female_names>
-			<name
-				name="{=vz038vX7}Achita" />
-			<name
-				name="{=UaOynysV}Agna" />
+			<name name="Yarhosta" />
+			<name name="Ludmara" />
+			<name name="Zvenista" />
+			<name name="Velesta" />
+			<name name="Svetlana" />
+			<name name="Mylessa" />
+			<name name="Dobrosla" />
+			<name name="Zhivana" />
+			<name name="Kresimira" />
+			<name name="Vasilissa" />
+			<name name="Zoryana" />
+			<name name="Bozhena" />
+			<name name="Nadezhda" />
+			<name name="Vesna" />
+			<name name="Ladosla" />
 		</female_names>
 		<clan_names>
-			<name
-				name="{=tGEChxdb}Achanoving" />
-			<name
-				name="{=OLLYkaWd}Asraloving" />
+			<name name="Volkhar" />
+			<name name="Drakonov" />
+			<name name="Goryanov" />
+			<name name="Zimovyr" />
+			<name name="Voronin" />
+			<name name="Knyazhek" />
+			<name name="Stalgrad" />
+			<name name="Hromov" />
+			<name name="Belyakov" />
+			<name name="Vetrogon" />
+			<name name="Zmeyevich" />
+			<name name="Drevanir" />
+			<name name="Morozov" />
+			<name name="Ognislav" />
+			<name name="Turov" />
 		</clan_names>
 		<cultural_feats>
 			<feat
@@ -377,22 +409,55 @@
 		</banner_bearer_replacement_weapons>
 		<default_policies />
 		<male_names>
-			<name
-				name="{=jVPr0ZzB}Achyr" />
-			<name
-				name="{=iFJbnbCQ}Agdil" />
+			<name name="Eiryck" />
+			<name name="Thoryn" />
+			<name name="Bjarn" />
+			<name name="Ulvgar" />
+			<name name="Ragnvald" />
+			<name name="Sigvarr" />
+			<name name="Hjalmund" />
+			<name name="Fenryk" />
+			<name name="Grimwulf" />
+			<name name="Vidar" />
+			<name name="Stenrik" />
+			<name name="Ivar" />
+			<name name="Orlyk" />
+			<name name="Hakon" />
+			<name name="Eyvindr" />
 		</male_names>
 		<female_names>
-			<name
-				name="{=vz038vX7}Achita" />
-			<name
-				name="{=UaOynysV}Agna" />
+			<name name="Astrilde" />
+			<name name="Sigryd" />
+			<name name="Gunnhild" />
+			<name name="Freyja" />
+			<name name="Ylvine" />
+			<name name="Brynhild" />
+			<name name="Eirwyn" />
+			<name name="Ragnhild" />
+			<name name="Svala" />
+			<name name="Thordis" />
+			<name name="Ingvild" />
+			<name name="Hjordis" />
+			<name name="Fjora" />
+			<name name="Vigdis" />
+			<name name="Skadi" />
 		</female_names>
 		<clan_names>
-			<name
-				name="{=tGEChxdb}Achanoving" />
-			<name
-				name="{=OLLYkaWd}Asraloving" />
+			<name name="Jotunhegg" />
+			<name name="Fenrykjar" />
+			<name name="Ulvengard" />
+			<name name="Stormcrag" />
+			<name name="Ironfjord" />
+			<name name="Draugrholm" />
+			<name name="Thrymsson" />
+			<name name="Frostmantle" />
+			<name name="Valkyrn" />
+			<name name="Brynjar" />
+			<name name="Hrafnkel" />
+			<name name="Eisenmark" />
+			<name name="Vargfang" />
+			<name name="Ymirborn" />
+			<name name="Stormcrown" />
 		</clan_names>
 		<cultural_feats>
 			<feat
@@ -660,22 +725,55 @@
 		</banner_bearer_replacement_weapons>
 		<default_policies />
 		<male_names>
-			<name
-				name="{=fUQlCkCQ}Anbard" />
-			<name
-				name="{=bHTdXTwC}Alary" />
+			<name name="Aldoric" />
+			<name name="Gianthar" />
+			<name name="Federic" />
+			<name name="Ludomar" />
+			<name name="Valterius" />
+			<name name="Raimondo" />
+			<name name="Wolfrano" />
+			<name name="Enzolf" />
+			<name name="Bertol" />
+			<name name="Hugo" />
+			<name name="Siegfrid" />
+			<name name="Orlandt" />
+			<name name="Gunther" />
+			<name name="Leo" />
+			<name name="Volkmar" />
 		</male_names>
 		<female_names>
-			<name
-				name="{=ybDa8V4I}Adalis" />
-			<name
-				name="{=lac74G8a}Agatheuda" />
+			<name name="Bianhila" />
+			<name name="Gisellina" />
+			<name name="Adalina" />
+			<name name="Claramund" />
+			<name name="Fiorhild" />
+			<name name="Ludmilla" />
+			<name name="Rosalindt" />
+			<name name="Brunhissa" />
+			<name name="Margrete" />
+			<name name="Elisabeta" />
+			<name name="Gundrada" />
+			<name name="Luitgarde" />
+			<name name="Violante" />
+			<name name="Theodorina" />
+			<name name="Walpurga" />
 		</female_names>
 		<clan_names>
-			<name
-				name="{=p1dFvTAc}Geroia Def" />
-			<name
-				name="{=p1dFvTAc}Geroia Ja" />
+			<name name="Montefels" />
+			<name name="Altheim" />
+			<name name="Lombarost" />
+			<name name="Valburg" />
+			<name name="Stahlfonte" />
+			<name name="Gianthar" />
+			<name name="Eisenfiori" />
+			<name name="Wulfencio" />
+			<name name="Bronzebach" />
+			<name name="Fenicewald" />
+			<name name="Torricelli" />
+			<name name="Hochspire" />
+			<name name="Marmorburg" />
+			<name name="Veldorazio" />
+			<name name="Stahlherz" />
 		</clan_names>
 		<cultural_feats>
 			<feat
@@ -962,22 +1060,55 @@
 		</banner_bearer_replacement_weapons>
 		<default_policies />
 		<male_names>
-			<name
-				name="{=fUQlCkCQ}Anbard" />
-			<name
-				name="{=bHTdXTwC}Alary" />
+			<name name="Beranz" />
+			<name name="Clais" />
+			<name name="Deglan" />
+			<name name="Delinard" />
+			<name name="Reynard" />
+			<name name="Gautier" />
+			<name name="Hrodmar" />
+			<name name="Montfroy" />
+			<name name="Bastiard" />
+			<name name="Florimond" />
+			<name name="Loranz" />
+			<name name="Vauquelin" />
+			<name name="Theodric" />
+			<name name="Foulques" />
+			<name name="Girard" />
 		</male_names>
 		<female_names>
-			<name
-				name="{=ybDa8V4I}Adalis" />
-			<name
-				name="{=lac74G8a}Agatheuda" />
+			<name name="Lysandra" />
+			<name name="Elisende" />
+			<name name="Marquise" />
+			<name name="Beatrix" />
+			<name name="Clarimonde" />
+			<name name="Giselle" />
+			<name name="Ysabeau" />
+			<name name="Melisande" />
+			<name name="Eloïse" />
+			<name name="Aveline" />
+			<name name="Guilhemine" />
+			<name name="Marcelline" />
+			<name name="Rohais" />
+			<name name="Sibylle" />
+			<name name="Tourvel" />
 		</female_names>
 		<clan_names>
-			<name
-				name="{=p1dFvTAc}Swadia Def" />
-			<name
-				name="{=p1dFvTAc}Swadia Ja" />
+			<name name="Montclair" />
+			<name name="Vaufroide" />
+			<name name="Beaumarais" />
+			<name name="Longchamp" />
+			<name name="Trempont" />
+			<name name="Hauterive" />
+			<name name="Fauconberg" />
+			<name name="Lorvais" />
+			<name name="Marchefort" />
+			<name name="Valroche" />
+			<name name="Bellemont" />
+			<name name="Rochefort" />
+			<name name="Villedieu" />
+			<name name="Champdore" />
+			<name name="Lioncourt" />
 		</clan_names>
 		<cultural_feats>
 			<feat
@@ -1191,7 +1322,6 @@
 		armed_trader="NPCCharacter.armed_trader_rhodok"
 		caravan_guard="NPCCharacter.caravan_guard_rhodok"
 		veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_rhodok"
-
 		prison_guard="NPCCharacter.prison_guard_vlandia"
 		guard="NPCCharacter.guard_vlandia"
 		blacksmith="NPCCharacter.blacksmith_vlandia"
@@ -1252,22 +1382,55 @@
 		</banner_bearer_replacement_weapons>
 		<default_policies />
 		<male_names>
-			<name
-				name="{=fUQlCkCQ}Anbard" />
-			<name
-				name="{=bHTdXTwC}Alary" />
+			<name name="Etrosq" />
+			<name name="Falsevor" />
+			<name name="Fraichin" />
+			<name name="Fudreim" />
+			<name name="Gerluchs" />
+			<name name="Gharmall" />
+			<name name="Kurnias" />
+			<name name="Laruqen" />
+			<name name="Matheas" />
+			<name name="Raichs" />
+			<name name="Reichsin" />
+			<name name="Rimusk" />
+			<name name="Tarchias" />
+			<name name="Tribidan" />
+			<name name="Vardek" />
 		</male_names>
 		<female_names>
-			<name
-				name="{=ybDa8V4I}Adalis" />
-			<name
-				name="{=lac74G8a}Agatheuda" />
+			<name name="Gharmalla" />
+			<name name="Kurnia" />
+			<name name="Fraichina" />
+			<name name="Talasza" />
+			<name name="Reichsna" />
+			<name name="Voroska" />
+			<name name="Zvetka" />
+			<name name="Drascana" />
+			<name name="Braniska" />
+			<name name="Milovena" />
+			<name name="Krunislava" />
+			<name name="Tarchia" />
+			<name name="Vlasta" />
+			<name name="Zdenka" />
+			<name name="Bozhana" />
 		</female_names>
 		<clan_names>
-			<name
-				name="{=p1dFvTAc}Rhodok Def" />
-			<name
-				name="{=p1dFvTAc}Rhodok Ja" />
+			<name name="Etrosgrad" />
+			<name name="Fudreimark" />
+			<name name="Kurnspire" />
+			<name name="Trimbauhold" />
+			<name name="Gutlansburg" />
+			<name name="Vorosq" />
+			<name name="Stonehauf" />
+			<name name="Ironcross" />
+			<name name="Highspar" />
+			<name name="Felsenturm" />
+			<name name="Schildwacht" />
+			<name name="Donnerpass" />
+			<name name="Steinwacht" />
+			<name name="Pikenwall" />
+			<name name="Redoubt" />
 		</clan_names>
 		<cultural_feats>
 			<feat
@@ -1550,508 +1713,55 @@
 		</banner_bearer_replacement_weapons>
 		<default_policies />
 		<male_names>
-			<name
-				name="{=v9B50R0Q}Acarion" />
-			<name
-				name="{=aeLgc0cU}Acthon" />
-			<name
-				name="{=tWDyWroN}Amnon" />
-			<name
-				name="{=uTFjknE2}Andros" />
-			<name
-				name="{=fXgftgNv}Aphanys" />
-			<name
-				name="{=QjJAbaoT}Apys" />
-			<name
-				name="{=zInIqBD0}Arenicos" />
-			<name
-				name="{=W1uwgvAQ}Arion" />
-			<name
-				name="{=5VzWRMTn}Artimendros" />
-			<name
-				name="{=rGuYLmez}Ascyron" />
-			<name
-				name="{=J1nh9YiN}Atilon" />
-			<name
-				name="{=NBAGX54b}Avigos" />
-			<name
-				name="{=9cDw6vPF}Cadomenos" />
-			<name
-				name="{=R11i2uVl}Calytos" />
-			<name
-				name="{=lD1sl2XC}Camnon" />
-			<name
-				name="{=LP7yYoGQ}Caribos" />
-			<name
-				name="{=VhbasI9J}Castor" />
-			<name
-				name="{=VG9ng2n2}Chandion" />
-			<name
-				name="{=aezwJGvY}Chenon" />
-			<name
-				name="{=acp2IcMs}Crotor" />
-			<name
-				name="{=XKxeaF0I}Dalidos" />
-			<name
-				name="{=pCBkH35Q}Danos" />
-			<name
-				name="{=2OJEyP0d}Dasys" />
-			<name
-				name="{=SoTUisL3}Deltisos" />
-			<name
-				name="{=2uKoNaSG}Denos" />
-			<name
-				name="{=HfuAdGQX}Destor" />
-			<name
-				name="{=lEHtUGed}Diocosos" />
-			<name
-				name="{=5EiKEdi5}Dorion" />
-			<name
-				name="{=yAZC6F7P}Ecsorios" />
-			<name
-				name="{=hyOgAehG}Emarys" />
-			<name
-				name="{=rUvnbDi2}Encurion" />
-			<name
-				name="{=KjzJjj5n}Eronys" />
-			<name
-				name="{=gYit4RTe}Euchor" />
-			<name
-				name="{=oQCZp9qv}Eumenys" />
-			<name
-				name="{=uW38UtSH}Eupitor" />
-			<name
-				name="{=WfAuSpJq}Eutos" />
-			<name
-				name="{=RyorjCXF}Galon" />
-			<name
-				name="{=ZFlIT1tH}Ganimynos" />
-			<name
-				name="{=f3hTGKIP}Garitops" />
-			<name
-				name="{=nqxxr9We}Gavalon" />
-			<name
-				name="{=iDxygnVF}Gerotheon" />
-			<name
-				name="{=rFbAjSWM}Gorigos" />
-			<name
-				name="{=NxDJcR2c}Haratheos" />
-			<name
-				name="{=tgVJZ1Uc}Hecaron" />
-			<name
-				name="{=wQJGxBJI}Hophtalamos" />
-			<name
-				name="{=4lEEqyCg}Jacorios" />
-			<name
-				name="{=DwzrsJxS}Jamanys" />
-			<name
-				name="{=IU63oxWD}Jemynon" />
-			<name
-				name="{=t1OpnZph}Jeremos" />
-			<name
-				name="{=katzUyMI}Joron" />
-			<name
-				name="{=GWaJ7Ksq}Joculos" />
-			<name
-				name="{=iJvIH6NP}Jutheros" />
-			<name
-				name="{=BCy1KpvR}Lacalion" />
-			<name
-				name="{=6LMiTKZz}Lamenon" />
-			<name
-				name="{=F13aYbuk}Lavalios" />
-			<name
-				name="{=NFIQZOPQ}Leosios" />
-			<name
-				name="{=lbTMVAcI}Lerosion" />
-			<name
-				name="{=bHbR5Mgy}Losys" />
-			<name
-				name="{=CbxLZdVg}Lycos" />
-			<name
-				name="{=HCXHcBzT}Mattis" />
-			<name
-				name="{=X21PahQn}Menaclys" />
-			<name
-				name="{=am2UnbAK}Menor" />
-			<name
-				name="{=tTuaiLS6}Meritor" />
-			<name
-				name="{=qqW5n5Ox}Milos" />
-			<name
-				name="{=5yFy4U4i}Morynon" />
-			<name
-				name="{=ud6rhXbn}Mostiros" />
-			<name
-				name="{=04zSjaRe}Nartiros" />
-			<name
-				name="{=FF3dQKc1}Nethor" />
-			<name
-				name="{=u1lTJoPO}Nemos" />
-			<name
-				name="{=sDFb1PRI}Nortos" />
-			<name
-				name="{=QGIAbglw}Obron" />
-			<name
-				name="{=AEaRpupL}Ocheros" />
-			<name
-				name="{=ZmQx4gT3}Olichor" />
-			<name
-				name="{=pq0w8kry}Orachos" />
-			<name
-				name="{=JFVseSa3}Oros" />
-			<name
-				name="{=7UkzXWTQ}Osarios" />
-			<name
-				name="{=cZIhxH9e}Pacarios" />
-			<name
-				name="{=9sokmYMZ}Padmos" />
-			<name
-				name="{=NXOOJs2X}Patrys" />
-			<name
-				name="{=plx8kkxa}Pelicos" />
-			<name
-				name="{=1cKxsHSh}Penton" />
-			<name
-				name="{=vgBRa2BE}Poraclys" />
-			<name
-				name="{=q186AQHt}Phadon" />
-			<name
-				name="{=yhfJVEe0}Phelenos" />
-			<name
-				name="{=LMWiJi6V}Phirentos" />
-			<name
-				name="{=XZxIpCQH}Phorys" />
-			<name
-				name="{=VJbAdJe4}Purios" />
-			<name
-				name="{=M9CWBbMe}Rhanos" />
-			<name
-				name="{=P1zsoSPN}Rhovarion" />
-			<name
-				name="{=Ho6zsGTI}Sachanion" />
-			<name
-				name="{=5eTb2xr7}Sanion" />
-			<name
-				name="{=Zm4a2xsf}Salusios" />
-			<name
-				name="{=egCbjHDT}Semnon" />
-			<name
-				name="{=GeJobcre}Sinor" />
-			<name
-				name="{=E4WhEvu7}Sotherys" />
-			<name
-				name="{=FClEZIkT}Sovos" />
-			<name
-				name="{=rVUhYuvE}Suterios" />
-			<name
-				name="{=PDK4FHAx}Suvys" />
-			<name
-				name="{=Axe5FkET}Talison" />
-			<name
-				name="{=PR4IqkTW}Temeon" />
-			<name
-				name="{=9xyXdX4I}Tharos" />
-			<name
-				name="{=zfUhnG7y}Themestios" />
-			<name
-				name="{=9mQuSI3c}Thucasys" />
-			<name
-				name="{=P7iNhhPl}Turiados" />
-			<name
-				name="{=kfNW01y5}Tynops" />
-			<name
-				name="{=amlzciqP}Ucasios" />
-			<name
-				name="{=wbJzSg3X}Ulbesos" />
-			<name
-				name="{=SRncaw79}Urios" />
-			<name
-				name="{=pRbKbPK3}Vadrios" />
-			<name
-				name="{=TiJOjUi5}Valaos" />
-			<name
-				name="{=5nEh20ju}Vasylops" />
-			<name
-				name="{=VN1D1Qps}Velanor" />
-			<name
-				name="{=QNtdUfis}Vemioros" />
-			<name
-				name="{=bWb245zO}Voleos" />
-			<name
-				name="{=aH2ncPbK}Zalasos" />
-			<name
-				name="{=WTePYMNF}Zaraclys" />
-			<name
-				name="{=p0hcyZdp}Zenon" />
-			<name
-				name="{=3RBVn5yi}Zoros" />
-			<name
-				name="{=uCyAnus4}Zostios" />
-			<name
-				name="{=7hYr7jQ7}Leutros" />
-			<name
-				name="{=e7dayl1i}Mavinon" />
-			<name
-				name="{=3EZMoUlp}Narmys" />
-			<name
-				name="{=PvoTcJHa}Naselos" />
-			<name
-				name="{=QumqvLnP}Ochivos" />
-			<name
-				name="{=gxHrt6bC}Phamynor" />
-			<name
-				name="{=6IDmRZ5k}Phestos" />
-			<name
-				name="{=ek1Q2TJz}Polon" />
+			<name name="Konstantios" />
+			<name name="Theodrakon" />
+			<name name="Nikepharion" />
+			<name name="Basileon" />
+			<name name="Leontarion" />
+			<name name="Alexarkhos" />
+			<name name="Drakophos" />
+			<name name="Ioustirion" />
+			<name name="Zenoctes" />
+			<name name="Heraklion" />
+			<name name="Photarion" />
+			<name name="Kyrillos" />
+			<name name="Maurikios" />
+			<name name="Theophylax" />
+			<name name="Heliodrakon" />
 		</male_names>
 		<female_names>
-			<name
-				name="{=h8DsXm7X}Achena" />
-			<name
-				name="{=BNnLbOkN}Adinea" />
-			<name
-				name="{=EGatdCLg}Alena" />
-			<name
-				name="{=UPaP0B2L}Alchyla" />
-			<name
-				name="{=QyXwJXIV}Andrasa" />
-			<name
-				name="{=NM5f1Q6I}Ariada" />
-			<name
-				name="{=3RbayfTG}Ascytala" />
-			<name
-				name="{=bmHAYBwX}Catila" />
-			<name
-				name="{=AdK4Ilzw}Chalia" />
-			<name
-				name="{=xVSOKf0p}Chara" />
-			<name
-				name="{=915frsPd}Corena" />
-			<name
-				name="{=KPQqENbd}Carinila" />
-			<name
-				name="{=BNuZ6nvd}Daniria" />
-			<name
-				name="{=sEgUB3jW}Deasora" />
-			<name
-				name="{=YBGCXSEx}Debana" />
-			<name
-				name="{=93hivVp6}Donysa" />
-			<name
-				name="{=0dHy2430}Echalera" />
-			<name
-				name="{=Oy5dH7gZ}Elea" />
-			<name
-				name="{=2YbgWjTK}Emyna" />
-			<name
-				name="{=rA3KybBX}Ethirea" />
-			<name
-				name="{=qiTtJyHE}Gala" />
-			<name
-				name="{=fGmpS0Dr}Gandarina" />
-			<name
-				name="{=ecJRFHyY}Gisetha" />
-			<name
-				name="{=a6qaFH7L}Herena" />
-			<name
-				name="{=LE9mRhSs}Hespedia" />
-			<name
-				name="{=tGhrpQ0D}Hyradia" />
-			<name
-				name="{=0MJi7mre}Hyscasia" />
-			<name
-				name="{=JQdqGaaB}Isibala" />
-			<name
-				name="{=RHXdqjQY}Ilina" />
-			<name
-				name="{=HSlPLC4m}Ira" />
-			<name
-				name="{=PNR2CvvX}Ithicala" />
-			<name
-				name="{=eOHeCKxn}Jespara" />
-			<name
-				name="{=6vtmYjTW}Jolanna" />
-			<name
-				name="{=Ew69yN84}Juthys" />
-			<name
-				name="{=028iCb8B}Jythea" />
-			<name
-				name="{=Jif1C3X3}Laria" />
-			<name
-				name="{=LX1YS9DW}Lasilea" />
-			<name
-				name="{=2oy7atk6}Lundana" />
-			<name
-				name="{=dwFZFQ6V}Lysica" />
-			<name
-				name="{=2fYYfHUI}Martira" />
-			<name
-				name="{=cqSaKXzl}Matha" />
-			<name
-				name="{=Vxt0xTvV}Mavea" />
-			<name
-				name="{=lgvtLEDA}Melchea" />
-			<name
-				name="{=QvfUqzpF}Mina" />
-			<name
-				name="{=11KckWau}Mitara" />
-			<name
-				name="{=IJlw8V5D}Mystesa" />
-			<name
-				name="{=uLjRHv9p}Nadea" />
-			<name
-				name="{=hreO0wwb}Nerhea" />
-			<name
-				name="{=04dAbdjM}Nyvia" />
-			<name
-				name="{=dLOlnl8m}Palysira" />
-			<name
-				name="{=pXBvPxHI}Penestea" />
-			<name
-				name="{=FUT6eXfw}Phaea" />
-			<name
-				name="{=WrAMfIG1}Phenoria" />
-			<name
-				name="{=uYbmhjI6}Rhamira" />
-			<name
-				name="{=BIAEZaVx}Rhandana" />
-			<name
-				name="{=H7oJaxqM}Rhelasa" />
-			<name
-				name="{=XMTD2clw}Rhoe" />
-			<name
-				name="{=0XEaaoah}Rosazia" />
-			<name
-				name="{=L9weGfoX}Salea" />
-			<name
-				name="{=nSoJkeBI}Sittacea" />
-			<name
-				name="{=V1QLbhRl}Sora" />
-			<name
-				name="{=qMJ7UZvk}Surena" />
-			<name
-				name="{=gmD9mgR1}Synira" />
-			<name
-				name="{=Cxazvjr3}Tamarea" />
-			<name
-				name="{=b2aRoXsb}Tessa" />
-			<name
-				name="{=bQKbW8Tx}Thasyna" />
-			<name
-				name="{=YVVCaQE5}Thera" />
-			<name
-				name="{=CvVJyKYA}Thelea" />
-			<name
-				name="{=jJV5Tn09}Tethyclesa" />
-			<name
-				name="{=e4jAHUX0}Tymata" />
-			<name
-				name="{=z2KE7glc}Thylea" />
-			<name
-				name="{=3bIc2X2l}Vaminesa" />
-			<name
-				name="{=VzhbUL60}Vendelia" />
-			<name
-				name="{=a2ajWcI3}Viria" />
-			<name
-				name="{=5VZ0GF6Y}Zalisa" />
-			<name
-				name="{=wbLqHvjE}Zerosica" />
-			<name
-				name="{=zxZH2WbD}Zimena" />
-			<name
-				name="{=AccBcEIt}Zoana" />
+			<name name="Theoxene" />
+			<name name="Eirethraia" />
+			<name name="Seledra" />
+			<name name="Zosimene" />
+			<name name="Kassandris" />
+			<name name="Heliodora" />
+			<name name="Aikaterine" />
+			<name name="Sophronia" />
+			<name name="Thalassa" />
+			<name name="Anastrasya" />
+			<name name="Pulcheris" />
+			<name name="Eudoxara" />
+			<name name="Irenepha" />
+			<name name="Chrysanthe" />
+			<name name="Theophanis" />
 		</female_names>
 		<clan_names>
-			<name
-				name="{=pRA9EzNv}Acapanos" />
-			<name
-				name="{=vdOWVAoz}Altesios" />
-			<name
-				name="{=ogq9oxDn}Angarys" />
-			<name
-				name="{=TNI6qRbQ}Astrethides" />
-			<name
-				name="{=NTRPMben}Atragorys" />
-			<name
-				name="{=MgDUudOx}Balastisos" />
-			<name
-				name="{=t36SVqzP}Bustamys" />
-			<name
-				name="{=xyKumbJI}Calastides" />
-			<name
-				name="{=Rvww4Kxi}Corstases" />
-			<name
-				name="{=jhlwsyqq}Chromasos" />
-			<name
-				name="{=kWiQaFLM}Delicos" />
-			<name
-				name="{=aaOSBHrI}Dinamontes" />
-			<name
-				name="{=DiB4ukeK}Elysos" />
-			<name
-				name="{=7lixVdYb}Erchisasos" />
-			<name
-				name="{=FakFqJf1}Eurtimides" />
-			<name
-				name="{=pUvrTrHT}Gessios" />
-			<name
-				name="{=sgIlIqrI}Goronos" />
-			<name
-				name="{=fsOUhzLv}Jalos" />
-			<name
-				name="{=GcgpbmWB}Jintasos" />
-			<name
-				name="{=IK7uQU2p}Lasirys" />
-			<name
-				name="{=CuocGtTq}Lestharos" />
-			<name
-				name="{=w4u0LxQb}Lovanides" />
-			<name
-				name="{=lsOtNjxl}Manitesos" />
-			<name
-				name="{=FVl3D2qT}Meones" />
-			<name
-				name="{=8CQuY3RO}Munitides" />
-			<name
-				name="{=fAKa9JfU}Nathanys" />
-			<name
-				name="{=HSpdZCr5}Nebranos" />
-			<name
-				name="{=024kHRwG}Nomanides" />
-			<name
-				name="{=RhwPmahK}Opynates" />
-			<name
-				name="{=E1NB09bP}Otsamides" />
-			<name
-				name="{=PbxaX8F5}Othalotos" />
-			<name
-				name="{=OL6fbZRY}Paltos" />
-			<name
-				name="{=ild3wLKb}Pylitax" />
-			<name
-				name="{=eRg4Ngl1}Pharchasys" />
-			<name
-				name="{=HPrHkie6}Phenigos" />
-			<name
-				name="{=XWqBgFzc}Phorides" />
-			<name
-				name="{=Yl3c9WaM}Salastrys" />
-			<name
-				name="{=DYdI0faN}Stracanasthes" />
-			<name
-				name="{=g7etVhSO}Sumessos" />
-			<name
-				name="{=U9kQ2sTU}Tasyx" />
-			<name
-				name="{=lMxYCQYF}Teminides" />
-			<name
-				name="{=oGf1fUpP}Therycos" />
-			<name
-				name="{=AeNqteUX}Zebales" />
-			<name
-				name="{=63ZZltcm}Zalastros" />
+			<name name="Chrysopolis" />
+			<name name="Basilikar" />
+			<name name="Hierophant" />
+			<name name="Drakonides" />
+			<name name="Thalassokrator" />
+			<name name="Porphyrogen" />
+			<name name="Marmarospilia" />
+			<name name="Heliostratos" />
+			<name name="Astyraptor" />
+			<name name="Kontoskalion" />
+			<name name="Megasynedrion" />
+			<name name="Chrysokeras" />
+			<name name="Pantokratar" />
+			<name name="Prophthasia" />
+			<name name="Themaion" />
 		</clan_names>
 		<cultural_feats>
 			<feat
@@ -2388,262 +2098,55 @@
 		</banner_bearer_replacement_weapons>
 		<default_policies />
 		<male_names>
-			<name
-				name="{=n2FdWOtE}Adram" />
-			<name
-				name="{=HEGo3ArK}Atis" />
-			<name
-				name="{=kErcuRlk}Ayyam" />
-			<name
-				name="{=YRzakgRB}Bidal" />
-			<name
-				name="{=6p3qkhil}Biliya" />
-			<name
-				name="{=jgr2xo9r}Darim" />
-			<name
-				name="{=Emsd1xmS}Dhashwal" />
-			<name
-				name="{=xC3kCGte}Dhiyul" />
-			<name
-				name="{=hF3F3u8u}Duwain" />
-			<name
-				name="{=evXLa2XX}Farim" />
-			<name
-				name="{=bVtVsEUr}Ghulassen" />
-			<name
-				name="{=NOchnEwX}Ghuzid" />
-			<name
-				name="{=gDMdWisO}Haqr" />
-			<name
-				name="{=cdQO1eLv}Hasseidh" />
-			<name
-				name="{=GK18UxoX}Hur" />
-			<name
-				name="{=sWRKG0e1}Iltas" />
-			<name
-				name="{=2mhCIkuB}Jaim" />
-			<name
-				name="{=nyCtbjg6}Jamair" />
-			<name
-				name="{=3oeb8Bav}Jassid" />
-			<name
-				name="{=egOzKsKS}Kannar" />
-			<name
-				name="{=YIpKt79X}Kusr" />
-			<name
-				name="{=r0dXXtoU}Kharid" />
-			<name
-				name="{=MRTWZuF4}Khilam" />
-			<name
-				name="{=ZSraCpCs}Lakhem" />
-			<name
-				name="{=b7PVGEFM}Lath" />
-			<name
-				name="{=0ZTMVxzw}Lazif" />
-			<name
-				name="{=PknomRIt}Madwan" />
-			<name
-				name="{=la6HgVXN}Mitunis" />
-			<name
-				name="{=KSsRA8xm}Munim" />
-			<name
-				name="{=8UGqSVH5}Nathun" />
-			<name
-				name="{=UlPJ9OYH}Nidr" />
-			<name
-				name="{=rmpKsJwg}Nuldan" />
-			<name
-				name="{=3pgwKPsf}Qarais" />
-			<name
-				name="{=Qx7ZfdbV}Quth" />
-			<name
-				name="{=M9gqEb6D}Radan" />
-			<name
-				name="{=f7u2p3x3}Rutwar" />
-			<name
-				name="{=xyIDKleR}Saidh" />
-			<name
-				name="{=3rXHA6fI}Samar" />
-			<name
-				name="{=5QHosdnk}Sudais" />
-			<name
-				name="{=eAro6IVf}Shalar" />
-			<name
-				name="{=yToKqfa3}Shumsan" />
-			<name
-				name="{=5O81vNIS}Tahya" />
-			<name
-				name="{=fWKnmnXb}Taq" />
-			<name
-				name="{=Q2qLCrn2}Thais" />
-			<name
-				name="{=SOkQ7b7r}Thaqir" />
-			<name
-				name="{=zCaeJ7GC}Thul" />
-			<name
-				name="{=0atYAnDF}Tulul" />
-			<name
-				name="{=xUSeJEd6}Wahan" />
-			<name
-				name="{=EKUSZBBj}Wusur" />
-			<name
-				name="{=5LY1iQWh}Yaqus" />
-			<name
-				name="{=aU9Cbb7j}Athrar" />
-			<name
-				name="{=at4MdVBJ}Fathid" />
-			<name
-				name="{=NJvui1La}Iskar" />
-			<name
-				name="{=FyVS24JZ}Khundal" />
-			<name
-				name="{=7Gt27Agy}Malub" />
-			<name
-				name="{=t63KuB1X}Suthain" />
-			<name
-				name="{=u3ZpGN5e}Yuha" />
+			<name name="Amdarr" />
+			<name name="Atish" />
+			<name name="Ayyamin" />
+			<name name="Azadunir" />
+			<name name="Biliyad" />
+			<name name="Dhashwal" />
+			<name name="Dhiyulesh" />
+			<name name="Ghanawath" />
+			<name name="Ghulassen" />
+			<name name="Hamezann" />
+			<name name="Hiwanqar" />
+			<name name="Lakhemir" />
+			<name name="Muhnir" />
+			<name name="Quryas" />
+			<name name="Tilimsar" />
 		</male_names>
 		<female_names>
-			<name
-				name="{=vAKB54zO}Arwa" />
-			<name
-				name="{=3LHG5Efi}Ayasa" />
-			<name
-				name="{=krMVSoId}Bawthan" />
-			<name
-				name="{=YwwaCRSr}Barisha" />
-			<name
-				name="{=Y9030sOS}Darya" />
-			<name
-				name="{=qwab4ICX}Dima" />
-			<name
-				name="{=PukaQLbR}Dula" />
-			<name
-				name="{=nhwnbFJ0}Ghalaza" />
-			<name
-				name="{=b0rI89ob}Hara" />
-			<name
-				name="{=qDLWQjuC}Hasawa" />
-			<name
-				name="{=Q26RhEj6}Ifar" />
-			<name
-				name="{=H1OFdfEe}Isna" />
-			<name
-				name="{=aqd6QHES}Janab" />
-			<name
-				name="{=JhLPgr5x}Jinda" />
-			<name
-				name="{=BfbZAB2K}Kanizat" />
-			<name
-				name="{=JR1LKjIc}Khalisa" />
-			<name
-				name="{=q8awVLdN}Laitha" />
-			<name
-				name="{=ljYVVV1s}Luqa" />
-			<name
-				name="{=YwQbvO9O}Lulya" />
-			<name
-				name="{=UAHJ2jTp}Mahayl" />
-			<name
-				name="{=QtyF13kv}Mata" />
-			<name
-				name="{=SNjqoBfZ}Nawa" />
-			<name
-				name="{=t4OvAlBq}Nus" />
-			<name
-				name="{=Cj8vDOqR}Rahan" />
-			<name
-				name="{=bdhXiiWK}Rayma" />
-			<name
-				name="{=yJz9AxjY}Rinana" />
-			<name
-				name="{=TN5MjMJU}Risa" />
-			<name
-				name="{=yd39Cman}Ruwa" />
-			<name
-				name="{=QCiqeUHm}Sabila" />
-			<name
-				name="{=N0cNsII3}Safiya" />
-			<name
-				name="{=nTYJWGAa}Shatha" />
-			<name
-				name="{=vYQ2SMEv}Siban" />
-			<name
-				name="{=v7tfA4y6}Siyafan" />
-			<name
-				name="{=6d09RcZT}Sulatha" />
-			<name
-				name="{=LfP4vsfD}Sur" />
-			<name
-				name="{=imBaF78b}Thuneikha" />
-			<name
-				name="{=9aPxu1EB}Tinab" />
-			<name
-				name="{=mWCY0aSL}Wara" />
-			<name
-				name="{=CYXRzc1D}Wisan" />
-			<name
-				name="{=528J5D3b}Yasmila" />
-			<name
-				name="{=ieube15m}Zahara" />
-			<name
-				name="{=wYPWlhme}Zandina" />
-			<name
-				name="{=8RolYmff}Zuwaira" />
+			<name name="Arwa" />
+			<name name="Azara" />
+			<name name="Bilqisma" />
+			<name name="Dhiyula" />
+			<name name="Ghulassana" />
+			<name name="Hameza" />
+			<name name="Lakhema" />
+			<name name="Muhnira" />
+			<name name="Nuwassa" />
+			<name name="Qamara" />
+			<name name="Raddouna" />
+			<name name="Tilimsa" />
+			<name name="Uqaissa" />
+			<name name="Zahraka" />
+			<name name="Najmira" />
 		</female_names>
 		<clan_names>
-			<name
-				name="{=VV6p47Ee}Banu Arumaq" />
-			<name
-				name="{=By82n3gR}Banu Aska" />
-			<name
-				name="{=QBtprltg}Banu Ayan" />
-			<name
-				name="{=uwalgjVy}Banu Dilis" />
-			<name
-				name="{=IcB0xdbd}Banu Dhamin" />
-			<name
-				name="{=86LT9H6v}Banu Fasus" />
-			<name
-				name="{=0znqTt5G}Banu Harranad" />
-			<name
-				name="{=ZEwqRhHO}Banu Hund" />
-			<name
-				name="{=TIhFAZld}Banu Ijaraz" />
-			<name
-				name="{=c39lybQJ}Banu Julul" />
-			<name
-				name="{=Iwe7Xpke}Banu Kinyan" />
-			<name
-				name="{=UKcaINTn}Banu Khashal" />
-			<name
-				name="{=irccq0qs}Banu Laikh" />
-			<name
-				name="{=DygS1Bef}Banu Mushala" />
-			<name
-				name="{=bgNQtbS7}Banu Nir" />
-			<name
-				name="{=yrYO33f8}Banu Qaram" />
-			<name
-				name="{=7oBUn2V1}Banu Rawi" />
-			<name
-				name="{=fDbOCRMM}Banu Shum" />
-			<name
-				name="{=wRVVs7t4}Banu Sirsan" />
-			<name
-				name="{=SGFsmCJa}Banu Tammar" />
-			<name
-				name="{=sAa3o3vw}Banu Tharuq" />
-			<name
-				name="{=EbkJbzwO}Banu Unuth" />
-			<name
-				name="{=SJJobqeR}Banu Widhas" />
-			<name
-				name="{=oY2rbPH2}Banu Yurib" />
-			<name
-				name="{=L4XUK5n4}Banu Yatash" />
-			<name
-				name="{=WFfbxYu5}Banu Zus" />
+			<name name="Alqashef" />
+			<name name="Amdarrath" />
+			<name name="Azadunir" />
+			<name name="Duneharb" />
+			<name name="Ghanawath" />
+			<name name="Hiwanqanat" />
+			<name name="Mirajbah" />
+			<name name="Qurythar" />
+			<name name="Sahraban" />
+			<name name="Siroccost" />
+			<name name="Tamarisk" />
+			<name name="Uqaissar" />
+			<name name="Zabir" />
+			<name name="Zahrakar" />
+			<name name="Zephyroasis" />
 		</clan_names>
 		<cultural_feats>
 			<feat
@@ -2938,272 +2441,55 @@
 		</banner_bearer_replacement_weapons>
 		<default_policies />
 		<male_names>
-			<name
-				name="{=AWM3jbaZ}Ajin" />
-			<name
-				name="{=RMoQ7blK}Akadan" />
-			<name
-				name="{=xg8habbc}Alagur" />
-			<name
-				name="{=pDNlFlc0}Alcha" />
-			<name
-				name="{=75Wlqr3W}Alpan" />
-			<name
-				name="{=ESKeInbq}Aran" />
-			<name
-				name="{=4ZhqF8EB}Arshul" />
-			<name
-				name="{=RohgLdMp}Asugan" />
-			<name
-				name="{=FIIZNV4F}Atzorig" />
-			<name
-				name="{=4JfwP1T6}Badur" />
-			<name
-				name="{=pKf56MdS}Bagai" />
-			<name
-				name="{=jhQkgQci}Baichar" />
-			<name
-				name="{=AAqB4QxB}Bortu" />
-			<name
-				name="{=E1NWbOR8}Buchul" />
-			<name
-				name="{=uducgNbf}Chaghan" />
-			<name
-				name="{=gsY9oKND}Chusuntai" />
-			<name
-				name="{=TjvbLQRT}Dachan" />
-			<name
-				name="{=ynsUwp1h}Denek" />
-			<name
-				name="{=0DgWpr8b}Dengul" />
-			<name
-				name="{=ZP7ONkec}Egen" />
-			<name
-				name="{=OqOnfdYv}Erigai" />
-			<name
-				name="{=au6vdzxN}Gan" />
-			<name
-				name="{=oT8cTkjz}Gavan" />
-			<name
-				name="{=PhdzZKu0}Ger" />
-			<name
-				name="{=8IcnIQdq}Gusur" />
-			<name
-				name="{=7MpWM3y3}Himil" />
-			<name
-				name="{=cdmrCQfC}Hurunag" />
-			<name
-				name="{=I0ZfrCml}Huskur" />
-			<name
-				name="{=ed3sErKY}Ilgai" />
-			<name
-				name="{=4xnag9e8}Itsul" />
-			<name
-				name="{=PisfwOUb}Jagutai" />
-			<name
-				name="{=5ntTjanU}Junjad" />
-			<name
-				name="{=8jwqNls9}Khomar" />
-			<name
-				name="{=A0Qwy1ag}Khakhun" />
-			<name
-				name="{=mQStUNPe}Kazam" />
-			<name
-				name="{=AcUEb8zX}Korot" />
-			<name
-				name="{=SDSbjMSj}Kuruntai" />
-			<name
-				name="{=YeQlI2Yj}Mizam" />
-			<name
-				name="{=sn3JPGJA}Natu" />
-			<name
-				name="{=z5llJ2C0}Norogur" />
-			<name
-				name="{=0VZ5sROI}Okhon" />
-			<name
-				name="{=CiJB8ISH}Olorun" />
-			<name
-				name="{=2OqAomZy}Oragur" />
-			<name
-				name="{=OgY3fQKL}Sasal" />
-			<name
-				name="{=yhLbBk1D}Soroch" />
-			<name
-				name="{=vN0cSBD3}Shakhor" />
-			<name
-				name="{=D4Ea4QaV}Shulun" />
-			<name
-				name="{=zTEnQULc}Targai" />
-			<name
-				name="{=aSNUtnbH}Temun" />
-			<name
-				name="{=8CZvFqH7}Tochi" />
-			<name
-				name="{=XjMsnpgS}Tulag" />
-			<name
-				name="{=NqhPOiMQ}Ulusumai" />
-			<name
-				name="{=vl2tgsKa}Urkhun" />
-			<name
-				name="{=4zoraJq7}Yanagur" />
-			<name
-				name="{=QEw6q3OR}Yildrim" />
-			<name
-				name="{=yCfxqfdA}Bakhar" />
-			<name
-				name="{=MwPMFIz0}Baghbayar" />
-			<name
-				name="{=JUPUxuoe}Chanbadar" />
-			<name
-				name="{=aRiVb65B}Daju" />
-			<name
-				name="{=KmAOMxqy}Davalan" />
-			<name
-				name="{=Bo5Xkd3e}Erban" />
-			<name
-				name="{=BUbf73N2}Gongke" />
-			<name
-				name="{=FVDbGQXF}Hamindar" />
-			<name
-				name="{=AKhO9Y9c}Jolugkhu" />
-			<name
-				name="{=LbCcOORX}Ongker" />
-			<name
-				name="{=HXEoaiFU}Sorji" />
-			<name
-				name="{=UgA0uoFA}Tabur" />
-			<name
-				name="{=N7CGgRs5}Tsuban" />
-			<name
-				name="{=aqx7Txyy}Tuvul" />
-			<name
-				name="{=mqkSkCBX}Uluvi" />
-			<name
-				name="{=NIcee06W}Vangvayag" />
+			<name name="Akhadan" />
+			<name name="Alagur" />
+			<name name="Asugai" />
+			<name name="Belkir" />
+			<name name="Brulak" />
+			<name name="Chaurkan" />
+			<name name="Dundush" />
+			<name name="Hugulai" />
+			<name name="Imirza" />
+			<name name="Karaban" />
+			<name name="Kharghuz" />
+			<name name="Nasugai" />
+			<name name="Tansur" />
+			<name name="Tonjuk" />
+			<name name="Ulusamai" />
 		</male_names>
 		<female_names>
-			<name
-				name="{=m9ZgghCo}Abagai" />
-			<name
-				name="{=26v27bu7}Aika" />
-			<name
-				name="{=5vo7WX5W}Amul" />
-			<name
-				name="{=FLrdHzSf}Anat" />
-			<name
-				name="{=7uBgKkLK}Anjikhin" />
-			<name
-				name="{=UcteBSP6}Asi" />
-			<name
-				name="{=SIJpKiGq}Ayla" />
-			<name
-				name="{=RwMtFwWt}Bilik" />
-			<name
-				name="{=RoKwj5XN}Chagun" />
-			<name
-				name="{=ulBMajMY}Chechek" />
-			<name
-				name="{=7UU9TwUC}Dalai" />
-			<name
-				name="{=HwCJfTC2}Deni" />
-			<name
-				name="{=lB7b7N1b}Deven" />
-			<name
-				name="{=1mhbWay3}Dinin" />
-			<name
-				name="{=kFYtFka8}Echa" />
-			<name
-				name="{=UJTCzvOt}Elin" />
-			<name
-				name="{=MEtblzaV}Gunefer" />
-			<name
-				name="{=tCy0qwXp}Hikhara" />
-			<name
-				name="{=SFDdq8GH}Holujin" />
-			<name
-				name="{=bwabyQPy}Ikren" />
-			<name
-				name="{=W1yur1cf}Khachin" />
-			<name
-				name="{=QJq4VAU7}Mesui" />
-			<name
-				name="{=7No7syyO}Penek" />
-			<name
-				name="{=2mWC6b8D}Sacha" />
-			<name
-				name="{=hdwBL8kp}Soregun" />
-			<name
-				name="{=DO1lhJIo}Tala" />
-			<name
-				name="{=zDhuJw7r}Taralun" />
-			<name
-				name="{=Ml5KBonI}Tosui" />
-			<name
-				name="{=Se7U6BSK}Uluen" />
-			<name
-				name="{=YUoydtNS}Yana" />
-			<name
-				name="{=3NRUkzaV}Yasugan" />
-			<name
-				name="{=xft6bgja}Asha" />
-			<name
-				name="{=yckGOfLB}Islena" />
-			<name
-				name="{=J5i4h7JC}Kela" />
-			<name
-				name="{=k37KKJkw}Kun" />
-			<name
-				name="{=NeFDHnOS}Mirim" />
-			<name
-				name="{=29Ti1C0R}Selun" />
-			<name
-				name="{=6fENuhfZ}Sibuga" />
-			<name
-				name="{=bdH1JEma}Yachim" />
-			<name
-				name="{=PdK2pGIb}Yesha" />
+			<name name="Alagura" />
+			<name name="Bortai" />
+			<name name="Chaurka" />
+			<name name="Dundesha" />
+			<name name="Hugulune" />
+			<name name="Imirzala" />
+			<name name="Kharana" />
+			<name name="Lhakhami" />
+			<name name="Naranel" />
+			<name name="Sebula" />
+			<name name="Tansurnai" />
+			<name name="Tiridai" />
+			<name name="Urubaya" />
+			<name name="Urumala" />
+			<name name="Zarantuya" />
 		</female_names>
 		<clan_names>
-			<name
-				name="{=qJprzW1N}Airit" />
-			<name
-				name="{=4833ZS9c}Aldusunit" />
-			<name
-				name="{=R6kwhkGk}Anegis" />
-			<name
-				name="{=tPG5uf4C}Bochit" />
-			<name
-				name="{=J1s05Ovk}Charait" />
-			<name
-				name="{=f0NUMdNu}Demerkhen" />
-			<name
-				name="{=3apHdqU7}Ingchit" />
-			<name
-				name="{=u154THZL}Jalsyut" />
-			<name
-				name="{=CSDne5ja}Khurdyut" />
-			<name
-				name="{=5zxaCgd6}Maranjit" />
-			<name
-				name="{=ptXbItT1}Nangkhut" />
-			<name
-				name="{=aXwDg9VT}Olokhai" />
-			<name
-				name="{=tDaWbJlY}Oranarit" />
-			<name
-				name="{=aaXaxmii}Sajyut" />
-			<name
-				name="{=lhiAWoFw}Sunit" />
-			<name
-				name="{=ZNUooJ48}Tebegun" />
-			<name
-				name="{=MjZumz0j}Tokhit" />
-			<name
-				name="{=LipFTLvz}Ubchit" />
-			<name
-				name="{=jcUgdBEo}Unggun" />
-			<name
-				name="{=ZwOT9J49}Yujit" />
+			<name name="Akhordu" />
+			<name name="Alagurkhan" />
+			<name name="Borjigin" />
+			<name name="Chaurkhanate" />
+			<name name="Dundush Horde" />
+			<name name="Golden Bows" />
+			<name name="Hugul Tumen" />
+			<name name="Khargan" />
+			<name name="Noyan Ordu" />
+			<name name="Silkmane" />
+			<name name="Steppewind" />
+			<name name="Tansur Khanate" />
+			<name name="Thunderhoof" />
+			<name name="Ulusamai" />
+			<name name="Windspire" />
 		</clan_names>
 		<cultural_feats>
 			<feat

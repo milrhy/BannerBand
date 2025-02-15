@@ -822,7 +822,7 @@
 		is_female="true"
 		default_group="Cavalry"
 		is_hero="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
@@ -993,7 +993,7 @@
 		voice="softspoken"
 		is_hero="true"
 		is_female="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
@@ -1860,7 +1860,7 @@
 		age="28"
 		voice="earnest"
 		is_hero="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		default_group="Cavalry"
 		face_mesh_cache="true">
@@ -1905,7 +1905,7 @@
 		age="23"
 		voice="earnest"
 		is_hero="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		default_group="Cavalry"
 		face_mesh_cache="true">
@@ -2376,7 +2376,7 @@
 		voice="earnest"
 		is_hero="true"
 		is_female="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		default_group="Cavalry"
 		face_mesh_cache="true">
@@ -3213,7 +3213,7 @@
 		default_group="HorseArcher"
 		is_hero="true"
 		is_female="false"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
@@ -3259,7 +3259,7 @@
 		voice="curt"
 		is_hero="true"
 		is_female="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
@@ -3305,7 +3305,7 @@
 		voice="softspoken"
 		default_group="Cavalry"
 		is_hero="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
@@ -3388,7 +3388,7 @@
 		voice="softspoken"
 		default_group="Cavalry"
 		is_hero="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
@@ -3482,7 +3482,7 @@
 		is_female="true"
 		is_hero="true"
 		default_group="Cavalry"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
@@ -3558,7 +3558,7 @@
 		voice="curt"
 		default_group="Cavalry"
 		is_hero="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
@@ -3606,7 +3606,7 @@
 		voice="earnest"
 		default_group="Cavalry"
 		is_hero="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
@@ -5702,7 +5702,7 @@
 		voice="earnest"
 		default_group="Cavalry"
 		is_hero="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
@@ -5851,7 +5851,7 @@
 		voice="ironic"
 		default_group="Cavalry"
 		is_hero="true"
-		culture="Culture.calsea"
+		culture="Culture.vaegir"
 		occupation="Lord"
 		face_mesh_cache="true">
 		<face>
