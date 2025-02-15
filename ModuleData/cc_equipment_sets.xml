@@ -2,6 +2,32 @@
 <EquipmentRosters>
 
 	<EquipmentRoster
+		id="generic_troop_civ_equip"
+		culture="Culture.empire">
+		<EquipmentSet
+			civilian="true">
+			<Equipment
+				slot="Item0"
+				id="Item.vlandia_sword_1_t2" />
+			<Equipment
+				slot="Body"
+				id="Item.padded_leather_shirt" />
+			<Equipment
+				slot="Leg"
+				id="Item.empire_horseman_boots" />
+		</EquipmentSet>
+		<Flags
+			IsCivilianTemplate="true"
+			IsCombatantTemplate="true"
+			IsNoncombatantTemplate="true" 
+			IsNobleTemplate="true"
+			IsMediumTemplate="true"
+			IsHeavyTemplate="true"
+			IsFlamboyantTemplate="true"
+			IsStoicTemplate="true" />
+	</EquipmentRoster>
+
+	<EquipmentRoster
 		id="comingofage_kid_ger_cutscene_template"
 		culture="Culture.geroia">
 		<EquipmentSet>

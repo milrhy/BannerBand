@@ -26,6 +26,9 @@
     <DependedModuleMetadata id="StoryMode" order="LoadBeforeThis" />
     <DependedModuleMetadata id="CustomBattle" order="LoadBeforeThis" />
   </DependedModuleMetadatas>
+	 <IncompatibleModules>
+		<ModuleReference Id="PocColor"/>
+	</IncompatibleModules>
   <!-- Community Dependency Metadata -->
  	<Xmls>
 		<XmlNode>                
