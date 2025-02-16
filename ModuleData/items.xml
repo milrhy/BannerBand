@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item id="sturgian_nasal_helmet_fur" 
+		name="{=AVcbBH1J}Northern Nasalhelm with Hat" 
+		mesh="sturgian_nasal_helmet_fur" 
+		culture="Culture.sturgia" 
+		weight="1.8" 
+		appearance="6" 
+		Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="20" has_gender_variations="false" hair_cover_type="type3" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="mailed_cavalry_helm"
+        name="{=xl5MgK49}Vaegir Heavy Cavalry Helmet with Mail"
+        mesh="mailed_cavalry_helmet"
+        culture="Culture.sturgia"
+        weight="3.0"
+        appearance="1.0"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="40"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             beard_cover_type="type3"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="vaegir_helmet_open" 
+		name="{=JEaU5XOP}Vaegir Helmet Open" 
+		mesh="vaegir_open_helmet" 
+		culture="Culture.sturgia" 
+		weight="2.0" 
+		appearance="3.2" 
+		Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="37" has_gender_variations="false" hair_cover_type="type3" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="vaegir_helmet_closed" 
+		name="{=a2XnhQ3V}Vaegir Helmet Closed" 
+		mesh="vaegir_closed_helmet" 
+		culture="Culture.sturgia" 
+		weight="2.2" 
+		appearance="2" 
+		Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="42" has_gender_variations="false" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+</Items>

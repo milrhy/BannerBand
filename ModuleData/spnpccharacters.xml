@@ -799,16 +799,15 @@
     <Equipments>
       <EquipmentRoster civilian="false">
         <equipment slot="WeaponItemBeginSlot" id="Item.peasant_pitchfork_2_t1" />
-        <equipment slot="NumAllWeaponSlots" id="Item.leather_cap" />
+        <equipment slot="NumAllWeaponSlots" id="Item.thinhide_coif" />
         <equipment slot="Body" id="Item.leather_coat_over_cloth" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
       <EquipmentRoster civilian="false">
         <equipment slot="WeaponItemBeginSlot" id="Item.peasant_pitchfork_2_t1" />
-        <equipment slot="NumAllWeaponSlots" id="Item.battania_civil_hood" />
         <equipment slot="Body" id="Item.bandit_leather_water_flask" />
         <equipment slot="Leg" id="Item.wrapped_shoes" />
-        <equipment slot="Cape" id="Item.wrapped_scarf" />
+        <equipment slot="Cape" id="Item.hood" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
     </Equipments>
@@ -836,10 +835,9 @@
         <equipment slot="WeaponItemBeginSlot" id="Item.northern_spear_2_t3" />
         <equipment slot="Weapon1" id="Item.falchion_sword_t2" />
         <equipment slot="Weapon2" id="Item.worn_kite_shield" />
-        <equipment slot="NumAllWeaponSlots" id="Item.battania_civil_hood" />
         <equipment slot="Body" id="Item.nordic_sloven" />
         <equipment slot="Leg" id="Item.ragged_boots" />
-        <equipment slot="Cape" id="Item.battania_scarf_a" />
+        <equipment slot="Cape" id="Item.hood" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
     </Equipments>
@@ -964,10 +962,9 @@
         <equipment slot="Weapon1" id="Item.bolt_b" />
         <equipment slot="Weapon2" id="Item.falchion_sword_t2" />
         <equipment slot="Weapon3" id="Item.worn_kite_shield" />
-        <equipment slot="NumAllWeaponSlots" id="Item.battania_civil_hood" />
         <equipment slot="Body" id="Item.sackcloth_tunic" />
         <equipment slot="Leg" id="Item.ragged_boots" />
-        <equipment slot="Cape" id="Item.wrapped_scarf" />
+        <equipment slot="Cape" id="Item.hood" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
     </Equipments>
@@ -996,11 +993,11 @@
         <equipment slot="Weapon1" id="Item.bolt_a" />
         <equipment slot="Weapon2" id="Item.vlandia_sword_1_t2" />
         <equipment slot="Weapon3" id="Item.worn_kite_shield" />
-        <equipment slot="NumAllWeaponSlots" id="Item.battania_civil_hood" />
+        <equipment slot="NumAllWeaponSlots" id="Item.thinhide_coif" />
         <equipment slot="Body" id="Item.layered_leather_tunic" />
         <equipment slot="Leg" id="Item.ragged_boots" />
         <equipment slot="Gloves" id="Item.padded_vambrace" />
-        <equipment slot="Cape" id="Item.wrapped_scarf" />
+        <equipment slot="Cape" id="Item.battania_woodland_cloak" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
     </Equipments>
@@ -1032,6 +1029,7 @@
         <equipment slot="NumAllWeaponSlots" id="Item.leather_cap" />
         <equipment slot="Body" id="Item.imperial_padded_cloth" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+        <equipment slot="Cape" id="Item.hood" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
     </Equipments>
@@ -1067,7 +1065,7 @@
         <equipment slot="Weapon1" id="Item.bolt_c" />
         <equipment slot="Weapon2" id="Item.pavise_shield" />
         <equipment slot="Weapon3" id="Item.cleaver_sword_t3" />
-        <equipment slot="NumAllWeaponSlots" id="Item.guards_kettle_over_mail_coif" />
+        <equipment slot="NumAllWeaponSlots" id="Item.kettle_hat_over_mail_coif" />
         <equipment slot="Body" id="Item.white_coat_over_mail" />
         <equipment slot="Leg" id="Item.plated_strip_boots" />
       </EquipmentRoster>
@@ -1708,7 +1706,7 @@
         <equipment slot="WeaponItemBeginSlot" id="Item.northern_spear_2_t3" />
         <equipment slot="Weapon1" id="Item.western_kite_shield" />
         <equipment slot="Weapon3" id="Item.khuzait_sword_3_t3" />
-        <equipment slot="NumAllWeaponSlots" id="Item.plumed_lamellar_helmet" />
+        <equipment slot="NumAllWeaponSlots" id="Item.sturgian_nasal_helmet_fur" />
         <equipment slot="Body" id="Item.studded_leather_over_aketon" />
         <equipment slot="Leg" id="Item.ragged_boots" />
         <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
@@ -1719,7 +1717,7 @@
         <equipment slot="WeaponItemBeginSlot" id="Item.northern_axe_t3" />
         <equipment slot="Weapon1" id="Item.western_kite_shield" />
         <equipment slot="Weapon2" id="Item.khuzait_sword_3_t3" />
-        <equipment slot="NumAllWeaponSlots" id="Item.plumed_lamellar_helmet" />
+        <equipment slot="NumAllWeaponSlots" id="Item.vaegir_helmet_open" />
         <equipment slot="Body" id="Item.nordic_sloven_leather" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
@@ -1750,7 +1748,7 @@
         <equipment slot="Weapon1" id="Item.vlandia_pike_1_t5" />
         <equipment slot="Weapon2" id="Item.khuzait_sword_3_t3" />
         <equipment slot="Weapon3" id="Item.western_kite_shield" />
-        <equipment slot="NumAllWeaponSlots" id="Item.plumed_lamellar_helmet" />
+        <equipment slot="NumAllWeaponSlots" id="Item.vaegir_helmet_open" />
         <equipment slot="Body" id="Item.mail_shirt" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
       </EquipmentRoster>
@@ -1777,12 +1775,11 @@
       <EquipmentRoster civilian="false">
         <equipment slot="WeaponItemBeginSlot" id="Item.aserai_2haxe_3_t5" />
         <equipment slot="Weapon1" id="Item.vlandia_pike_1_t5" />
-        <equipment slot="Weapon3" id="Item.fortified_kite_shield" />
+        <equipment slot="Weapon3" id="Item.stronger_reinforced_kite_shield" />
         <equipment slot="NumAllWeaponSlots" id="Item.spiked_helmet_with_facemask" />
         <equipment slot="Body" id="Item.sturgian_lamellar_fortified" />
         <equipment slot="Leg" id="Item.lamellar_plate_boots" />
-        <equipment slot="Gloves" id="Item.leather_gloves" />
-        <equipment slot="Cape" id="Item.empire_plate_armor_shoulder_b" />
+        <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
     </Equipments>
@@ -1810,8 +1807,8 @@
         <equipment slot="WeaponItemBeginSlot" id="Item.northern_axe_t3" />
         <equipment slot="Weapon2" id="Item.chivalric_kite_shield" />
         <equipment slot="Weapon3" id="Item.vlandia_lance_2_t4" />
-        <equipment slot="NumAllWeaponSlots" id="Item.khuzait_noble_helmet_with_fur" />
-        <equipment slot="Body" id="Item.sturgian_lamellar_gambeson" />
+        <equipment slot="NumAllWeaponSlots" id="Item.vaegir_helmet_open" />
+        <equipment slot="Body" id="Item.studded_leather_over_aketon" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
         <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
         <equipment slot="ArmorItemEndSlot" id="Item.hunter" />
@@ -1845,7 +1842,7 @@
         <equipment slot="Body" id="Item.sturgian_lamellar_fortified" />
         <equipment slot="Leg" id="Item.lamellar_plate_boots" />
         <equipment slot="Gloves" id="Item.leather_gloves" />
-        <equipment slot="Cape" id="Item.empire_plate_armor_shoulder_b" />
+        <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white" />
         <equipment slot="ArmorItemEndSlot" id="Item.steppe_war_horse" />
         <equipment slot="HorseHarness" id="Item.chain_barding" />
       </EquipmentRoster>
@@ -1853,11 +1850,11 @@
         <equipment slot="WeaponItemBeginSlot" id="Item.sturgia_lance_2_t5" />
         <equipment slot="Weapon2" id="Item.chivalric_kite_shield" />
         <equipment slot="Weapon3" id="Item.khuzait_sword_3_t3" />
-        <equipment slot="NumAllWeaponSlots" id="Item.khuzait_noble_helmet_with_fur" />
+        <equipment slot="NumAllWeaponSlots" id="Item.vaegir_helmet_closed" />
         <equipment slot="Body" id="Item.sturgian_lamellar_base" />
         <equipment slot="Leg" id="Item.mail_chausses" />
         <equipment slot="Gloves" id="Item.leather_gloves" />
-        <equipment slot="Cape" id="Item.empire_plate_armor_shoulder_b" />
+        <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white" />
         <equipment slot="ArmorItemEndSlot" id="Item.hunter" />
         <equipment slot="HorseHarness" id="Item.chain_barding" />
       </EquipmentRoster>
@@ -1927,7 +1924,7 @@
         <equipment slot="Weapon1" id="Item.default_arrows" />
         <equipment slot="Weapon2" id="Item.sturgia_axe_3_t3" />
         <equipment slot="Weapon3" id="Item.barbed_arrows" />
-        <equipment slot="NumAllWeaponSlots" id="Item.nordic_leather_cap" />
+        <equipment slot="NumAllWeaponSlots" id="Item.vaegir_helmet_open" />
         <equipment slot="Body" id="Item.nordic_sloven_leather" />
         <equipment slot="Leg" id="Item.ragged_boots" />
       </EquipmentRoster>
@@ -1936,7 +1933,7 @@
         <equipment slot="Weapon1" id="Item.default_arrows" />
         <equipment slot="Weapon2" id="Item.khuzait_sword_3_t3" />
         <equipment slot="Weapon3" id="Item.default_arrows" />
-        <equipment slot="NumAllWeaponSlots" id="Item.plumed_lamellar_helmet" />
+        <equipment slot="NumAllWeaponSlots" id="Item.sturgian_nasal_helmet_fur" />
         <equipment slot="Body" id="Item.nordic_sloven" />
         <equipment slot="Leg" id="Item.ragged_boots" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
@@ -1966,18 +1963,18 @@
         <equipment slot="Weapon1" id="Item.barbed_arrows" />
         <equipment slot="Weapon2" id="Item.barbed_arrows" />
         <equipment slot="Weapon3" id="Item.khuzait_sword_3_t3" />
-        <equipment slot="NumAllWeaponSlots" id="Item.khuzait_noble_helmet_with_fur" />
+        <equipment slot="NumAllWeaponSlots" id="Item.vaegir_helmet_open" />
         <equipment slot="Body" id="Item.nordic_sloven_leather" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
         <equipment slot="Gloves" id="Item.padded_vambrace" />
         <equipment slot="Cape" id="Item.padded_leather_shoulders" />
       </EquipmentRoster>
       <EquipmentRoster civilian="false">
-        <equipment slot="WeaponItemBeginSlot" id="Item.composite_steppe_bow" />
+        <equipment slot="WeaponItemBeginSlot" id="Item.woodland_longbow" />
         <equipment slot="Weapon1" id="Item.barbed_arrows" />
         <equipment slot="Weapon2" id="Item.khuzait_sword_3_t3" />
         <equipment slot="Weapon3" id="Item.barbed_arrows" />
-        <equipment slot="NumAllWeaponSlots" id="Item.khuzait_noble_helmet_with_fur" />
+        <equipment slot="NumAllWeaponSlots" id="Item.vaegir_helmet_open" />
         <equipment slot="Body" id="Item.studded_leather_coat" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
         <equipment slot="Cape" id="Item.wrapped_scarf" />
@@ -2095,7 +2092,7 @@
         <equipment slot="NumAllWeaponSlots" id="Item.peaked_helmet_over_mail" />
         <equipment slot="Body" id="Item.hauberk" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
-        <equipment slot="Gloves" id="Item.mail_mitten" />
+        <equipment slot="Gloves" id="Item.ragged_armwraps" />
       </EquipmentRoster>
       <EquipmentRoster civilian="false">
         <equipment slot="WeaponItemBeginSlot" id="Item.bracketed_heater_shield" />
@@ -2104,6 +2101,7 @@
         <equipment slot="NumAllWeaponSlots" id="Item.imperial_mail_coif" />
         <equipment slot="Body" id="Item.mail_shirt" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+        <equipment slot="Gloves" id="Item.padded_vambrace" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
     </Equipments>
@@ -2132,6 +2130,7 @@
         <equipment slot="NumAllWeaponSlots" id="Item.peaked_helmet_over_laced_coif" />
         <equipment slot="Body" id="Item.hauberk" />
         <equipment slot="Leg" id="Item.mail_chausses" />
+        <equipment slot="Gloves" id="Item.mail_mitten" />
       </EquipmentRoster>
       <EquipmentRoster civilian="false">
         <equipment slot="WeaponItemBeginSlot" id="Item.vlandia_pike_1_t5" />
@@ -2140,6 +2139,7 @@
         <equipment slot="NumAllWeaponSlots" id="Item.peaked_helmet_over_padded_cloth" />
         <equipment slot="Body" id="Item.mail_shirt" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+        <equipment slot="Gloves" id="Item.mail_mitten" />
       </EquipmentRoster>
       <EquipmentRoster civilian="false">
         <equipment slot="WeaponItemBeginSlot" id="Item.vlandia_pike_1_t5" />
@@ -2148,6 +2148,7 @@
         <equipment slot="NumAllWeaponSlots" id="Item.peaked_helmet_over_mail_coif" />
         <equipment slot="Body" id="Item.mail_shirt" />
         <equipment slot="Leg" id="Item.mail_chausses" />
+        <equipment slot="Gloves" id="Item.buttoned_leather_bracers" />
         <equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
@@ -2316,7 +2317,7 @@
       <skill id="TwoHanded" value="90" />
       <skill id="Polearm" value="90" />
       <skill id="Bow" value="90" />
-      <skill id="Crossbow" value="100" />
+      <skill id="Crossbow" value="120" />
       <skill id="Throwing" value="90" />
     </skills>
     <upgrade_targets />
@@ -2325,20 +2326,22 @@
         <equipment slot="WeaponItemBeginSlot" id="Item.crossbow_c" />
         <equipment slot="Weapon1" id="Item.bolt_b" />
         <equipment slot="Weapon2" id="Item.pavise_shield" />
-        <equipment slot="Weapon3" id="Item.northern_spear_2_t3" />
-        <equipment slot="NumAllWeaponSlots" id="Item.peaked_helmet_over_mail_coif" />
+        <equipment slot="Weapon3" id="Item.western_spear_4_t3" />
+        <equipment slot="NumAllWeaponSlots" id="Item.peaked_helmet_over_mail" />
         <equipment slot="Body" id="Item.gambeson_b" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
         <equipment slot="Gloves" id="Item.padded_vambrace" />
       </EquipmentRoster>
       <EquipmentRoster civilian="false">
-        <equipment slot="WeaponItemBeginSlot" id="Item.crossbow_c" />
-        <equipment slot="Weapon1" id="Item.bolt_b" />
-        <equipment slot="Weapon2" id="Item.wide_heater_shield" />
+        <equipment slot="WeaponItemBeginSlot" id="Item.crossbow_b" />
+        <equipment slot="Weapon1" id="Item.bolt_c" />
+        <equipment slot="Weapon2" id="Item.bolt_b" />
         <equipment slot="Weapon3" id="Item.vlandia_sword_1_t2" />
-        <equipment slot="NumAllWeaponSlots" id="Item.peaked_helmet_over_mail" />
+        <equipment slot="NumAllWeaponSlots" id="Item.peaked_helmet_over_mail_coif" />
         <equipment slot="Body" id="Item.nordic_sloven_leather" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
+        <equipment slot="Gloves" id="Item.padded_vambrace" />
+        <equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
     </Equipments>
@@ -2600,8 +2603,8 @@
         <equipment slot="NumAllWeaponSlots" id="Item.eastern_vendel_helmet" />
         <equipment slot="Body" id="Item.northern_brass_lamellar_over_mail" />
         <equipment slot="Leg" id="Item.plated_strip_boots" />
-        <equipment slot="Gloves" id="Item.reinforced_mail_mitten" />
-        <equipment slot="Cape" id="Item.a_brass_lamellar_shoulder_white_a" />
+        <equipment slot="Gloves" id="Item.reinforced_leather_vambraces" />
+        <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white" />
       </EquipmentRoster>
       <EquipmentRoster civilian="false">
         <equipment slot="WeaponItemBeginSlot" id="Item.execution_axe" />
@@ -2611,8 +2614,8 @@
         <equipment slot="NumAllWeaponSlots" id="Item.nordic_helmet" />
         <equipment slot="Body" id="Item.lamellar_with_scale_skirt" />
         <equipment slot="Leg" id="Item.lamellar_plate_boots" />
-        <equipment slot="Gloves" id="Item.mail_mitten" />
-        <equipment slot="Cape" id="Item.battania_shoulder_strap" />
+        <equipment slot="Gloves" id="Item.lamellar_plate_gauntlets" />
+        <equipment slot="Cape" id="Item.imperial_lamellar_shoulders" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
     </Equipments>
@@ -2799,9 +2802,10 @@
         <equipment slot="Weapon2" id="Item.bodkin_arrows_a" />
         <equipment slot="Weapon3" id="Item.empire_sword_4_t4" />
         <equipment slot="NumAllWeaponSlots" id="Item.imperial_goggled_helmet" />
-        <equipment slot="Body" id="Item.aserai_robe_c_chain" />
+        <equipment slot="Body" id="Item.legionary_mail" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
         <equipment slot="Gloves" id="Item.padded_vambrace" />
+        <equipment slot="Cape" id="Item.a_empire_plated_shoulder_a" />
       </EquipmentRoster>
       <EquipmentRoster civilian="false">
         <equipment slot="WeaponItemBeginSlot" id="Item.lowland_yew_bow" />
@@ -2812,6 +2816,7 @@
         <equipment slot="Body" id="Item.mail_shirt" />
         <equipment slot="Leg" id="Item.leather_cavalier_boots" />
         <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
+        <equipment slot="Cape" id="Item.wrapped_scarf" />
       </EquipmentRoster>
       <EquipmentSet id="generic_troop_civ_equip" civilian="true"/>
     </Equipments>
