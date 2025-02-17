@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Id value="BannerBandArmoryPatch" />
+  <Name value="BannerBand ARMORY PATCH" />
+	<Version value="v3.8.6" />
+	<Official value="false" />
+  <DefaultModule value="false" />
+  <ModuleCategory value="Singleplayer"/>
+  <ModuleType value="Community" />
+  <DependedModules>
+	<DependedModule Id="Bannerlord.Harmony" />
+    <DependedModule Id="Native" />
+    <DependedModule Id="SandBoxCore" />
+    <DependedModule Id="Sandbox" />
+    <DependedModule Id="StoryMode" />
+    <DependedModule Id="CustomBattle" />
+    <DependedModule Id="BannerBand" />
+    <DependedModule Id="swadian armoury" />
+    <DependedModule Id="Vaegir Armoury" />
+  </DependedModules>
+  <!-- Community Dependency Metadata -->
+  <!-- https://github.com/BUTR/Bannerlord.BLSE#community-dependency-metadata -->
+  <DependedModuleMetadatas>
+	<DependedModuleMetadata id="Bannerlord.Harmony" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="Native" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="SandBoxCore" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="Sandbox" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="StoryMode" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="CustomBattle" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="BannerBand" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="swadian armoury" order="LoadBeforeThis" />
+    <DependedModuleMetadata id="Vaegir Armoury" order="LoadBeforeThis" />
+  </DependedModuleMetadatas>
+ 	<Xmls>
+		<XmlNode>
+			<XmlName id="EquipmentRosters" path="ES_king"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="EquipmentRosters" path="ES_noble"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="EquipmentRosters" path="ES_troops"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+				<GameType value = "EditorGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+  <SubModules/>
+</Module>
