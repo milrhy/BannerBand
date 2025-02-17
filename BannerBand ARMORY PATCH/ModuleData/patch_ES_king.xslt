@@ -36,7 +36,7 @@
 			<equipment slot="Body" id="Item.swadian_striped_plate_armor" />
 			<equipment slot="Leg" id="Item.plate_boots" />
 			<equipment slot="Gloves" id="Item.sa_1ChurburghGauntlet" />
-			<equipment slot="Cape" id="Item.mail_shoulders" />
+			<equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
 			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
 			<equipment slot="HorseHarness" id="Item.chain_barding" />
 		</EquipmentSet>
