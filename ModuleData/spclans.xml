@@ -868,7 +868,7 @@
 	<!--Quraysh-like clan, established and mercantile -->
 	<Faction
 		id="clan_aserai_1"
-		name="{=9Y1u2onl}Hulyan"
+		name="{=9Y1u2onl}Sarran"
 		tier="6"
 		owner="Hero.lord_3_1"
 		culture="Culture.sarranid"
@@ -883,7 +883,7 @@
 	<!--Upstart clan, recently settled bedouin -->
 	<Faction
 		id="clan_aserai_2"
-		name="{=fvYgmrjG}Sarran"
+		name="{=fvYgmrjG}Quryyash"
 		tier="4"
 		owner="Hero.lord_3_3"
 		culture="Culture.sarranid"

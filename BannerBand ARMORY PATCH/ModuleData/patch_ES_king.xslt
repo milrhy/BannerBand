@@ -12,7 +12,7 @@
 		culture="Culture.rhodok">
 		<EquipmentSet
 			civilian="false">
-			<equipment slot="WeaponItemBeginSlot" id="Item.early_retirement_2hsword_t3" />
+			<equipment slot="WeaponItemBeginSlot" id="Item.bannerband_heavy_bastard_sword" />
 			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
 			<equipment slot="NumAllWeaponSlots" id="Item.sturgian_helmet_open" />
 			<equipment slot="Body" id="Item.white_coat_over_mail" />
@@ -30,7 +30,7 @@
 		culture="Culture.swadia">
 		<EquipmentSet
 			civilian="false">
-			<equipment slot="WeaponItemBeginSlot" id="Item.western_2hsword_t3" />
+			<equipment slot="WeaponItemBeginSlot" id="Item.bannerband_heavy_bastard_sword" />
 			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
 			<equipment slot="NumAllWeaponSlots" id="Item.great_prankh_helm_winged" />
 			<equipment slot="Body" id="Item.swadian_striped_plate_armor" />
@@ -49,7 +49,7 @@
 		culture="Culture.vaegir">
 		<EquipmentSet
 			civilian="false">
-			<equipment slot="WeaponItemBeginSlot" id="Item.eastern_steel_mace_t4" />
+			<equipment slot="WeaponItemBeginSlot" id="Item.bannerband_warpick" />
 			<equipment slot="Weapon1" id="Item.chivalric_kite_shield" />
 			<equipment slot="NumAllWeaponSlots" id="Item.Vaegir_helm" />
 			<equipment slot="Body" id="Item.white_coat_over_mail" />
@@ -68,7 +68,7 @@
 		culture="Culture.nords">
 		<EquipmentSet
 			civilian="false">
-			<equipment slot="WeaponItemBeginSlot" id="Item.execution_axe" />
+			<equipment slot="WeaponItemBeginSlot" id="Item.bannerband_hewing_axe" />
 			<equipment slot="Weapon1" id="Item.heavy_round_shield" />
 			<equipment slot="NumAllWeaponSlots" id="Item.goggled_helmet_over_mail" />
 			<equipment slot="Body" id="Item.plated_leather_coat" />
@@ -108,7 +108,7 @@
 			civilian="false">
 			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_noble_sword_2_t5" />
 			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
-			<equipment slot="Weapon2" id="Item.vlandia_lance_3_t5" />
+			<equipment slot="Weapon2" id="Item.bannerband_zweihander" />
 			<equipment slot="NumAllWeaponSlots" id="Item.sallet_crowned" />
 			<equipment slot="Body" id="Item.sa_ChurburghTorso" />
 			<equipment slot="Leg" id="Item.sa_ChurburghBoots" />

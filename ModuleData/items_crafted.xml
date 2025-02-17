@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+
+	<CraftedItem
+		id="bannerband_heavy_bastard_sword"
+		name="Heavy Bastard Sword"
+		crafting_template="TwoHandedSword"
+		culture="Culture.neutral_culture"
+		modifier_group="sword">
+		<Pieces>
+			<Piece id="sturgian_blade_10" Type="Blade" scale_factor="110" />
+			<Piece id="khuzait_guard_5" Type="Guard" scale_factor="100" />
+			<Piece id="vlandian_grip_10" Type="Handle" scale_factor="100" />
+			<Piece id="khuzait_pommel_7" Type="Pommel" scale_factor="90" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_military_glaive"
+		name="Military Glaive"
+		crafting_template="TwoHandedPolearm"
+		culture="Culture.neutral_culture"
+		modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_24" Type="Blade" scale_factor="90" />
+			<Piece id="spear_guard_5" Type="Guard" scale_factor="110" />
+			<Piece id="spear_handle_24" Type="Handle" scale_factor="110" />
+			<Piece id="default_polearm_pommel" Type="Pommel" scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_steel_dagger_1"
+		name="Steel Dagger"
+		crafting_template="Dagger"
+		culture="Culture.neutral_culture"
+		modifier_group="sword">
+		<Pieces>
+			<Piece id="dagger_blade_6" Type="Blade" scale_factor="110" />
+			<Piece id="khuzait_dagger_guard_1" Type="Guard" scale_factor="100" />
+			<Piece id="wood_grip_1" Type="Handle" scale_factor="100" />
+			<Piece id="sturgian_pommel_7" Type="Pommel" scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_steel_dagger_2"
+		name="Steel Dagger"
+		crafting_template="Dagger"
+		culture="Culture.neutral_culture"
+		modifier_group="sword">
+		<Pieces>
+			<Piece id="dagger_blade_6" Type="Blade" scale_factor="110" />
+			<Piece id="vlandian_dagger_guard_8" Type="Guard" scale_factor="110" />
+			<Piece id="wood_grip_1" Type="Handle" scale_factor="100" />
+			<Piece id="aserai_pommel_1" Type="Pommel" scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_steel_throwing_knife"
+		name="Steel Throwing Knife"
+		crafting_template="ThrowingKnife"
+		culture="Culture.neutral_culture"
+		modifier_group="knife_throwing">
+		<Pieces>
+			<Piece id="dagger_blade_11" Type="Blade" />
+			<Piece id="sturgian_dagger_guard_7" Type="Guard" />
+			<Piece id="sturgian_grip_37" Type="Handle" />
+			<Piece id="khuzait_pommel_1" Type="Pommel"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_rogue_throwing_knife"
+		name="Rogue Throwing Knife"
+		crafting_template="ThrowingKnife"
+		culture="Culture.neutral_culture"
+		modifier_group="knife_throwing">
+		<Pieces>
+			<Piece id="dagger_blade_10" Type="Blade"/>
+			<Piece id="sturgian_dagger_guard_6" Type="Guard"/>
+			<Piece id="sturgian_grip_34" Type="Handle"/>
+			<Piece id="aserai_pommel_9" Type="Pommel"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_hewing_axe"
+		name="Hewing Axe"
+		crafting_template="TwoHandedAxe"
+		culture="Culture.neutral_culture"
+		modifier_group="axe">
+		<Pieces>
+			<Piece id="axe_craft_34_head" Type="Blade" scale_factor="110" />
+			<Piece id="axe_craft_4_handle" Type="Handle" scale_factor="100" />
+			<Piece id="default_polearm_pommel" Type="Pommel" scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_zweihander"
+		name="Zweihander"
+		crafting_template="TwoHandedSword"
+		culture="Culture.neutral_culture"
+		modifier_group="sword">
+		<Pieces>
+			<Piece id="aserai_blade_5" Type="Blade" scale_factor="110" />
+			<Piece id="cleaver_guard_1" Type="Guard" scale_factor="110" />
+			<Piece id="sturgian_grip_18" Type="Handle" scale_factor="110" />
+			<Piece id="vlandian_pommel_8" Type="Pommel" scale_factor="102" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_warpick"
+		name="Military Pick"
+		crafting_template="OneHandedAxe"
+		culture="Culture.neutral_culture"
+		modifier_group="axe">
+		<Pieces>
+			<Piece id="axe_craft_37_head" Type="Blade" scale_factor="90" />
+			<Piece id="axe_craft_16_handle" Type="Handle" scale_factor="110" />
+			<Piece id="spear_pommel_5" Type="Pommel" scale_factor="99" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_cleaver"
+		name="Cleaver"
+		crafting_template="Dagger"
+		culture="Culture.neutral_culture"
+		modifier_group="sword">
+		<Pieces>
+			<Piece id="dagger_blade_4" Type="Blade" scale_factor="110" />
+			<Piece id="sturgian_dagger_guard_8" Type="Guard" scale_factor="100" />
+			<Piece id="sickle_grip_1" Type="Handle" scale_factor="110" />
+			<Piece id="cleaver_pommel_4" Type="Pommel" scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_knightly_morningstar"
+		name="Knightly Morningstar"
+		crafting_template="Mace"
+		culture="Culture.neutral_culture"
+		modifier_group="mace">
+		<Pieces>
+			<Piece id="mace_head_9" Type="Blade"/>
+			<Piece id="mace_handle_15" Type="Handle"/>
+			<Piece id="spear_pommel_9" Type="Pommel"/>
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_warhammer"
+		name="Warhammer"
+		crafting_template="Mace"
+		culture="Culture.neutral_culture"
+		modifier_group="mace">
+		<Pieces>
+			<Piece id="blacksmith_hammer_tip_1" Type="Blade" scale_factor="103" />
+			<Piece id="mace_handle_15" Type="Handle" scale_factor="110" />
+			<Piece id="spear_pommel_9" Type="Pommel" scale_factor="90" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_mamluke_mace"
+		name="Mamluke Mace"
+		crafting_template="TwoHandedMace"
+		culture="Culture.neutral_culture"
+		modifier_group="mace">
+		<Pieces>
+			<Piece id="mace_head_38" Type="Blade" />
+			<Piece id="mace_handle_20" Type="Handle" />
+			<Piece id="spear_pommel_12" Type="Pommel" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_quarterstaff"
+		name="Quarterstaff"
+		crafting_template="TwoHandedPolearm"
+		culture="Culture.neutral_culture"
+		modifier_group="polearm">
+		<Pieces>
+			<Piece id="spear_blade_34" Type="Blade" scale_factor="90" />
+			<Piece id="default_polearm_guard" Type="Guard" scale_factor="100" />
+			<Piece id="spear_handle_16" Type="Handle" scale_factor="100" />
+			<Piece id="spear_pommel_9" Type="Pommel" scale_factor="110" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_eveningstar"
+		name="Eveningstar"
+		crafting_template="TwoHandedMace"
+		culture="Culture.neutral_culture"
+		modifier_group="mace">
+		<Pieces>
+			<Piece id="mace_head_37" Type="Blade" />
+			<Piece id="mace_handle_20" Type="Handle" />
+			<Piece id="aserai_pommel_1" Type="Pommel" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem
+		id="bannerband_greatmace"
+		name="Greatmace"
+		crafting_template="TwoHandedMace"
+		culture="Culture.neutral_culture"
+		modifier_group="mace">
+		<Pieces>
+			<Piece id="mace_head_33" Type="Blade" />
+			<Piece id="mace_handle_20" Type="Handle" />
+			<Piece id="cleaver_pommel_4" Type="Pommel" />
+		</Pieces>
+	</CraftedItem>
+
+</Items>
