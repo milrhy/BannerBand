@@ -15,7 +15,7 @@
 			<equipment slot="WeaponItemBeginSlot" id="Item.bannerband_heavy_bastard_sword" />
 			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
 			<equipment slot="NumAllWeaponSlots" id="Item.sturgian_helmet_open" />
-			<equipment slot="Body" id="Item.white_coat_over_mail" />
+			<equipment slot="Body" id="Item.mail_with_tabbard2" />
 			<equipment slot="Leg" id="Item.plate_boots" />
 			<equipment slot="Gloves" id="Item.sa_1ChurburghGauntlet" />
 			<equipment slot="ArmorItemEndSlot" id="Item.war_horse" />
@@ -52,7 +52,7 @@
 			<equipment slot="WeaponItemBeginSlot" id="Item.bannerband_warpick" />
 			<equipment slot="Weapon1" id="Item.chivalric_kite_shield" />
 			<equipment slot="NumAllWeaponSlots" id="Item.Vaegir_helm" />
-			<equipment slot="Body" id="Item.white_coat_over_mail" />
+			<equipment slot="Body" id="Item.mail_with_tabbard3" />
 			<equipment slot="Leg" id="Item.plate_boots" />
 			<equipment slot="Gloves" id="Item.sa_1ChurburghGauntlet" />
 			<equipment slot="Cape" id="Item.chainmail_shoulder_armor" />
@@ -109,10 +109,9 @@
 			<equipment slot="WeaponItemBeginSlot" id="Item.vlandia_noble_sword_2_t5" />
 			<equipment slot="Weapon1" id="Item.wide_heater_shield" />
 			<equipment slot="Weapon2" id="Item.bannerband_zweihander" />
-			<equipment slot="NumAllWeaponSlots" id="Item.sallet_crowned" />
-			<equipment slot="Body" id="Item.sa_ChurburghTorso" />
-			<equipment slot="Leg" id="Item.sa_ChurburghBoots" />
-			<equipment slot="Gloves" id="Item.sa_ChurburghGauntlet" />
+			<equipment slot="NumAllWeaponSlots" id="Item.fluted_helm_with_brass_faceplate" />
+			<equipment slot="Body" id="Item.swadian_brass_plate_armor" />
+			<equipment slot="Leg" id="Item.plate_boots2" />
 			<equipment slot="ArmorItemEndSlot" id="Item.charger" />
 			<equipment slot="HorseHarness" id="Item.chain_barding" />
 		</EquipmentSet>
