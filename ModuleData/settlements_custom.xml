@@ -3680,7 +3680,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- From Calradic, Lobster claw  // how about Uxhall precursor - Arma-->
-	<Settlement id="town_V2" name="{=Settlements.Settlement.name.town_V2}Uxkhal" owner="Faction.clan_vlandia_3" posX="181.785" posY="495.348" culture="Culture.swadia" gate_posX="177.3913" gate_posY="494.0723" text="{=!}Placeholder.">
+	<Settlement id="town_V2" name="{=Settlements.Settlement.name.town_V2}Uxkhal" owner="Faction.clan_vlandia_1" posX="181.785" posY="495.348" culture="Culture.swadia" gate_posX="177.3913" gate_posY="494.0723" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_V2" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.308" prosperity="4200"/>
 		</Components>
@@ -4379,7 +4379,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- Ford of the Horse -->
-	<Settlement id="town_B1" name="{=Settlements.Settlement.name.town_B1}Druval" owner="Faction.clan_vlandia_1" posX="291.2" posY="442.757" culture="Culture.swadia" gate_posX="291.2007" gate_posY="442.7703" text="{=!}Placeholder.">
+	<Settlement id="town_B1" name="{=Settlements.Settlement.name.town_B1}Druval" owner="Faction.clan_vlandia_3" posX="291.2" posY="442.757" culture="Culture.swadia" gate_posX="291.2007" gate_posY="442.7703" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_B1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108" prosperity="5000"/>
 		</Components>
@@ -4455,7 +4455,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- Rock of Glanys -->
-	<Settlement id="town_B2" name="{=Settlements.Settlement.name.town_B2}Dhirim" owner="Faction.clan_vlandia_6" posX="266.398" posY="483.399" culture="Culture.swadia" gate_posX="266.2805" gate_posY="485.9921" text="{=!}Placeholder.">
+	<Settlement id="town_B2" name="{=Settlements.Settlement.name.town_B2}Suno" owner="Faction.clan_vlandia_6" posX="266.398" posY="483.399" culture="Culture.swadia" gate_posX="266.2805" gate_posY="485.9921" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_B2" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.638" prosperity="4000"/>
 		</Components>
@@ -4620,7 +4620,7 @@
 		</CommonAreas>
 	</Settlement>
 	<!-- "castle of banseth"-->
-	<Settlement id="town_B4" name="{=Settlements.Settlement.name.town_B4}Suno" owner="Faction.clan_vlandia_8" posX="329.92" posY="474.32" culture="Culture.swadia" gate_posX="327.1309" gate_posY="473.0402" text="{=!}Placeholder.">
+	<Settlement id="town_B4" name="{=Settlements.Settlement.name.town_B4}Dhirim" owner="Faction.clan_vlandia_8" posX="329.92" posY="474.32" culture="Culture.swadia" gate_posX="327.1309" gate_posY="473.0402" text="{=!}Placeholder.">
 		<Components>
 			<Town id="town_comp_B4" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" prosperity="2400"/>
 		</Components>
