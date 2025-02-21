@@ -312,9 +312,17 @@
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
 			<template
-				name="NPCCharacter.western_mercenary" />
+				name="NPCCharacter.geroian_militia" />
+			<template
+				name="NPCCharacter.geroian_footman" />
+			<template
+				name="NPCCharacter.geroian_caraguard" />
+			<template
+				name="NPCCharacter.geroian_skirmisher" />
 			<template
 				name="NPCCharacter.bbsword_sisters_sister_t3" />
+			<template
+				name="NPCCharacter.bbsword_sisters_sister_t4" />
 		</basic_mercenary_troops>
 	</Culture>
 	<Culture
@@ -629,9 +637,17 @@
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
 			<template
-				name="NPCCharacter.western_mercenary" />
+				name="NPCCharacter.geroian_militia" />
+			<template
+				name="NPCCharacter.geroian_footman" />
+			<template
+				name="NPCCharacter.geroian_caraguard" />
+			<template
+				name="NPCCharacter.geroian_skirmisher" />
 			<template
 				name="NPCCharacter.bbsword_sisters_sister_t3" />
+			<template
+				name="NPCCharacter.bbsword_sisters_sister_t4" />
 		</basic_mercenary_troops>
 	</Culture>
 	<Culture
@@ -963,9 +979,17 @@
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
 			<template
-				name="NPCCharacter.western_mercenary" />
+				name="NPCCharacter.geroian_militia" />
+			<template
+				name="NPCCharacter.geroian_footman" />
+			<template
+				name="NPCCharacter.geroian_caraguard" />
+			<template
+				name="NPCCharacter.geroian_skirmisher" />
 			<template
 				name="NPCCharacter.bbsword_sisters_sister_t3" />
+			<template
+				name="NPCCharacter.bbsword_sisters_sister_t4" />
 		</basic_mercenary_troops>
 	</Culture>
 	<Culture
@@ -1286,9 +1310,17 @@
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
 			<template
-				name="NPCCharacter.western_mercenary" />
+				name="NPCCharacter.geroian_militia" />
+			<template
+				name="NPCCharacter.geroian_footman" />
+			<template
+				name="NPCCharacter.geroian_caraguard" />
+			<template
+				name="NPCCharacter.geroian_skirmisher" />
 			<template
 				name="NPCCharacter.bbsword_sisters_sister_t3" />
+			<template
+				name="NPCCharacter.bbsword_sisters_sister_t4" />
 		</basic_mercenary_troops>
 	</Culture>
 	<Culture
@@ -1616,9 +1648,17 @@
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
 			<template
-				name="NPCCharacter.western_mercenary" />
+				name="NPCCharacter.geroian_militia" />
+			<template
+				name="NPCCharacter.geroian_footman" />
+			<template
+				name="NPCCharacter.geroian_caraguard" />
+			<template
+				name="NPCCharacter.geroian_skirmisher" />
 			<template
 				name="NPCCharacter.bbsword_sisters_sister_t3" />
+			<template
+				name="NPCCharacter.bbsword_sisters_sister_t4" />
 		</basic_mercenary_troops>
 	</Culture>
 	<Culture
@@ -2001,9 +2041,17 @@
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
 			<template
-				name="NPCCharacter.western_mercenary" />
+				name="NPCCharacter.geroian_militia" />
+			<template
+				name="NPCCharacter.geroian_footman" />
+			<template
+				name="NPCCharacter.geroian_caraguard" />
+			<template
+				name="NPCCharacter.geroian_skirmisher" />
 			<template
 				name="NPCCharacter.bbsword_sisters_sister_t3" />
+			<template
+				name="NPCCharacter.bbsword_sisters_sister_t4" />
 		</basic_mercenary_troops>
 	</Culture>
 	<Culture
@@ -2346,7 +2394,13 @@
 			<template
 				name="NPCCharacter.eastern_mercenary" />
 			<template
-				name="NPCCharacter.bbsword_sisters_sister_t3" />
+				name="NPCCharacter.geroian_militia" />
+			<template
+				name="NPCCharacter.geroian_footman" />
+			<template
+				name="NPCCharacter.geroian_caraguard" />
+			<template
+				name="NPCCharacter.geroian_skirmisher" />
 		</basic_mercenary_troops>
 	</Culture>
 	<Culture
@@ -2635,7 +2689,13 @@
 			<template
 				name="NPCCharacter.eastern_mercenary" />
 			<template
-				name="NPCCharacter.bbsword_sisters_sister_t3" />
+				name="NPCCharacter.geroian_militia" />
+			<template
+				name="NPCCharacter.geroian_footman" />
+			<template
+				name="NPCCharacter.geroian_caraguard" />
+			<template
+				name="NPCCharacter.geroian_skirmisher" />
 		</basic_mercenary_troops>
 	</Culture>
 

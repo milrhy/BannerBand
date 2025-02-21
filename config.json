@@ -2,7 +2,7 @@
   "log":false,
   "generateTemplate":false,
   "defaultConfig": {
-	"mode": 2
+	"mode": 0
   },
   "kingdoms":{
       "Vaegirs":{
@@ -11,7 +11,7 @@
         "vars":[ 
         {"bannercolor1":["124"]}, 
         {"bannercolor2":["30"]}, 
-        {"shieldpatterns":["24", "27", "26", "29", "28", "3"]},
+        {"shieldpatterns":["24", "27", "26", "30", "28", "3", "36", "14"]},
         {"shieldcolor1": ["30", "31", "25"]},
         {"shieldcolor2": ["124", "157", "156", "92", "98"]}
         ],
@@ -118,11 +118,11 @@
            {"bannercolor1":["14"]}, 
            {"bannercolor2":["7"]},
            {"shieldpatterns":["1", "24", "26", "34", "29", "22", "7", "35"]},
-           {"shieldcolor1": ["84", "7", "131"]},
-           {"shieldcolor2": ["84", "7", "131", "14", "47", "27", "149"]}
+           {"shieldcolor1": ["15", "7", "131"]},
+           {"shieldcolor2": ["15", "7", "131", "14", "47", "27", "149", "38", "91"]}
           ],
-          "color":["84", "7", "131"],
-          "color2":["84", "7", "131", "14", "47", "27", "149"],
+          "color":["15", "7", "131"],
+          "color2":["15", "7", "131", "14", "47", "27", "149", "38", "91"],
           "combatShields":["shieldpatterns.shieldcolor1.shieldcolor2.1596.-1596.764.764.1.0.0"],
           "combatBanners":["shieldpatterns.shieldcolor1.shieldcolor2.1596.-1596.764.764.1.0.0"]
       },

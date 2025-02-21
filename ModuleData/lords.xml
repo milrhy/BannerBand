@@ -8,7 +8,7 @@
 		voice="earnest"
 		age="22"
 		is_female="false"
-		culture="Culture.rhodok"
+		culture="Culture.battania"
 		name="{=ekcBrNN1}Eren"
 		banner_symbol_mesh_name="test_symbol_a"
 		occupation="Lord"
@@ -168,7 +168,7 @@
 		age="50"
 		voice="earnest"
 		is_hero="true"
-		culture="Culture.rhodok"
+		culture="Culture.battania"
 		occupation="Lord"
 		name="{=a2rhPaGB}Baldron"
 		face_mesh_cache="true">
@@ -228,7 +228,7 @@
 		age="50"
 		voice="earnest"
 		is_female="true"
-		culture="Culture.rhodok"
+		culture="Culture.battania"
 		occupation="Lord"
 		name="{=V44d9fIP}Terra"
 		face_mesh_cache="true">
